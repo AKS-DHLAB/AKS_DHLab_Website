@@ -5,6 +5,6 @@
 
   # AKS-DHLAB's Website
 
-  Visit **[aks-dhlab.github.io/AKS_DHLab_Website](https://aks-dhlab.github.io/AKS_DHLab_Website)** 🚀
+  Visit **[digitalhumanities.kr](http://digitalhumanities.kr)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
