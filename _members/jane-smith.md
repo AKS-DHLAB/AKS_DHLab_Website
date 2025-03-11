@@ -1,16 +1,15 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: 김바로(Kim, Baro)
+image: images/김바로.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: 한국학중앙연구원(AKS)
 aliases:
-  - J. Smith
-  - J Smith
+  - Baro Kim
+  - Baro(바로 把路) Kim(김 金)
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.ddokbaro.com/
+  orcid: 0000-0002-4456-9616
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
 Elit at imperdiet dui accumsan.
