@@ -1,1 +1,1 @@
-Sitemap: http://digitalhumanities.kr/sitemap.xml
+Sitemap: https://digitalhumanities.kr/sitemap.xml
