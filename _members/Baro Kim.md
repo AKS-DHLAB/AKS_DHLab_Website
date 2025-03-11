@@ -5,7 +5,6 @@ role: principal-investigator
 affiliation: 한국학중앙연구원(AKS)
 aliases:
   - Baro Kim
-  - Baro(바로 把路) Kim(김 金)
 links:
   home-page: https://www.ddokbaro.com/
   orcid: 0000-0002-4456-9616
