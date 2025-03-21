@@ -29,7 +29,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ### 연구관심
 * 인문학을 토대로 하는 디지털 기술과의 융합 전반
 
-###[학생지도 방향]
+### 학생지도 방향
 * 튼튼한 인문학 뿌리
 * 디지털 기술에 대한 용감한 도전
 * 융합을 위한 자유로운 정신
