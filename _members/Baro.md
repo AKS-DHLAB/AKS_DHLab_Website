@@ -19,7 +19,7 @@ links:
 
 I am working to integrate the depth of the humanities with the innovation of digital technology on the canvas of digital humanities. Through collaborative, data-driven Korean Studies research, I aim to connect the past and present, and contribute to the future society. Like the saying, "知其不可而爲之 (zhī qí bù kě ér wéi zhī: to do what one knows to be impossible)," I always approach research with a challenging spirit.
 
-
+我致力于在数字人文这一广阔的画布上，将人文学科的深厚内涵与数字技术的创新精神融为一体。通过大家共同参与的、以数据为基础的韩国学研究，我们希望连接过去与现在，并为未来社会做出贡献。正如“知其不可而为之”，此言常在心中，激励我以无畏之姿，砥砺前行。
 
 
 # 한국어
@@ -55,7 +55,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.05.~2026.04. / 한국유교문화진흥자문위원회 국학자료 보존·계승분과위원회 위원
 * 2024.01.~2025.12. / 글로벌문화콘텐츠학회 편집위원
 * 2024.01.~2025.12. / 국제어문학회 지역이사
-
 * 2023.01.~2024.12. / 청계사학회 상임이사
 * 2023.01.~2024.12. / 한국기록관리학회 대외협력이사
 * 2022.12.~2024.10. / 한국연구재단 선도연구센터(CRC) 전담 평가위원
@@ -68,7 +67,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.02.~2025.12. / 기숙사 사감
 * 2023.07.~2025.07. / 한국학정보화사업위원회 위원
 * 2023.05.~2025.05. / 국제교류위원회 위원
-    
+
 * 2023.03.~2024.03. / 교수협의회 총무
 
 ## 학술 저서
@@ -133,7 +132,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.09.~2030.08. / 한국연구재단: 훈민정음으로 기록된 근세시기 동아시아 언어 자료 DB 구축 / 공동연구원(연구책임자:심소희)
 * 2025.01.~2025.12. / 한국학중앙연구원: 조선시대 종묘 배향공신 연구 / 연구책임자
 * 2022.07.~2025.06. / 한국연구재단: 인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구 / 공동연구원(연구책임자:윤미선)
-
 * 2024.09.~2025.02. / 한국학중앙연구원: 正祖命撰《人物考》 온톨로지 설계 및 LOD(Linked Open Data) 시스템 구축 / 연구책임자
 * 2024.03.~2024.08. / 한국학중앙연구원: 고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축 / 연구책임자
 * 2023.09.~2024.02. / 한국학중앙연구원: 한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육 / 연구책임자
@@ -228,7 +226,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.05.~2026.04. / Committee Member, National Classical Archives Preservation and Inheritance Committee, Korea Confucian Culture Promotion Agency Advisory Committee
 * 2024.01.~2025.12. / Editorial Board Member, Global Cultural Contents Society
 * 2024.01.~2025.12. / Regional Director, International Language and Literature Association
-
 * 2023.01.~2024.12. / Standing Director, Cheonggye Historical Society
 * 2023.01.~2024.12. / Director of External Cooperation, Korean Society of Archival Studies
 * 2022.12.~2024.10. / Exclusive Evaluation Member, National Research Foundation of Korea Leading Research Center (CRC)
@@ -241,7 +238,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.02.~2025.12. / Dormitory Supervisor
 * 2023.07.~2025.07. / Member, Korean Studies Informatization Project Committee
 * 2023.05.~2025.05. / Member, International Exchange Committee
-
 * 2023.03.~2024.03. / General Secretary, Faculty Council
 
 ## Scholarly Books
@@ -307,7 +303,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.09.~2030.08. / National Research Foundation of Korea: **Database Construction of East Asian Language Materials Recorded in Hunminjeongeum from the Early Modern Period** / Co-Researcher (Principal Investigator: Sim So-hee)
 * 2025.01.~2025.12. / The Academy of Korean Studies: **Research on Meritorious Retainers Enshrined in Jongmyo Shrine during the Joseon Dynasty** / Principal Investigator
 * 2022.07.~2025.06. / National Research Foundation of Korea: **Convergence Research on Deep Learning-based AI Novel Generation in Collaboration with Humans** / Co-Researcher (Principal Investigator: Yoon Mi-sun)
-
 * 2024.09.~2025.02. / The Academy of Korean Studies: **Ontology Design and Linked Open Data (LOD) System Construction for "Inmulgo" (人物考) Compiled by King Jeongjo's Order** / Principal Investigator
 * 2024.03.~2024.08. / The Academy of Korean Studies: **Analysis of Preceding Models and Development of Educational Content for Old Document Data Design** / Principal Investigator
 * 2023.09.~2024.02. / The Academy of Korean Studies: **Exploration of Preceding Ontology Models and Education for Building a Korean Studies Semantic Web** / Principal Investigator
