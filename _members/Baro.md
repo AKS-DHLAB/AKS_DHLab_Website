@@ -21,114 +21,115 @@ I am working to integrate the depth of the humanities with the innovation of dig
 
 
 
+
+# 한국어
+
 ## 연구관심 및 학생지도 방향
 
-### **[연구관심]**
-    * 인문학을 토대로 하는 디지털 기술과의 융합 전반
+### 연구관심
+* 인문학을 토대로 하는 디지털 기술과의 융합 전반
 
-###[학생지도 방향]**
-    1.  튼튼한 인문학 뿌리
-    2.  디지털 기술에 대한 용감한 도전
-    3.  융합을 위한 자유로운 정신
+###[학생지도 방향]
+* 튼튼한 인문학 뿌리
+* 디지털 기술에 대한 용감한 도전
+* 융합을 위한 자유로운 정신
 
-### 학력 사항
-    * 박사: 한국학중앙연구원 한국학대학원 인문정보학 / 철학박사 (2013.03.~2017.08.)
-    * 석사: 北京大學 역사학과 / 역사학석사 (2007.09.~2011.01.)
-    * 학사: 北京大學 역사학과 / 역사학학사 (2003.09.~2007.07.)
+## 학력 사항
+* 박사: 한국학중앙연구원 한국학대학원 인문정보학 / 철학박사 (2013.03.~2017.08.)
+* 석사: 北京大學 역사학과 / 역사학석사 (2007.09.~2011.01.)
+* 학사: 北京大學 역사학과 / 역사학학사 (2003.09.~2007.07.)
 
-
-### 경력 사항
-    * 2021.09.~현재 / 한국학중앙연구원(The Academy of Korean Studies) 조교수(Assistant Professor)
-    * 2015.03.~2022.03 / 한국외국어대학교 객원강의교수(시간강사)
-    * 2021.03.~2021.08. / 경희대학교 시간강사
-    * 2020.07.~2021.08. / 한국학중앙연구원 디지털인문학연구소 한국연구재단 학술연구교수(A유형)
-    * 2018.01.~2020.06. / 중앙대학교 HK+인공지능인문학사업단 HK연구교수
-    * 2015.03.~2015.12 / 서울기독대학교 시간강사
-    * 2015.03.~2017.08 / 아주대학교 시간강사
+## 경력 사항
+* 2021.09.~현재 / 한국학중앙연구원(The Academy of Korean Studies) 조교수(Assistant Professor)
+* 2015.03.~2022.03 / 한국외국어대학교 객원강의교수(시간강사)
+* 2021.03.~2021.08. / 경희대학교 시간강사
+* 2020.07.~2021.08. / 한국학중앙연구원 디지털인문학연구소 한국연구재단 학술연구교수(A유형)
+* 2018.01.~2020.06. / 중앙대학교 HK+인공지능인문학사업단 HK연구교수
+* 2015.03.~2015.12 / 서울기독대학교 시간강사
+* 2015.03.~2017.08 / 아주대학교 시간강사
     
-### 학술 활동
-    * 2023.02.~2025.12. / 한국디지털인문학협의회 총무이사
-    * 2025.03.~2027.02. / 청계사학회 연구이사
-    * 2023.01.~2026.12. / 인문콘텐츠학회 연구이사
-    * 2024.05.~2026.04. / 한국유교문화진흥자문위원회 국학자료 보존·계승분과위원회 위원
-    * 2024.01.~2025.12. / 글로벌문화콘텐츠학회 편집위원
-    * 2024.01.~2025.12. / 국제어문학회 지역이사
+## 학술 활동
+* 2023.02.~2025.12. / 한국디지털인문학협의회 총무이사
+* 2025.03.~2027.02. / 청계사학회 연구이사
+* 2023.01.~2026.12. / 인문콘텐츠학회 연구이사
+* 2024.05.~2026.04. / 한국유교문화진흥자문위원회 국학자료 보존·계승분과위원회 위원
+* 2024.01.~2025.12. / 글로벌문화콘텐츠학회 편집위원
+* 2024.01.~2025.12. / 국제어문학회 지역이사
 
-    * 2023.01.~2024.12. / 청계사학회 상임이사
-    * 2023.01.~2024.12. / 한국기록관리학회 대외협력이사
-    * 2022.12.~2024.10. / 한국연구재단 선도연구센터(CRC) 전담 평가위원
-    * 2022.01.~2023.12. / 글로벌문화콘텐츠학회 정보이사
-    * 2021.01.~2022.12. / 인문콘텐츠학회 정보이사
+* 2023.01.~2024.12. / 청계사학회 상임이사
+* 2023.01.~2024.12. / 한국기록관리학회 대외협력이사
+* 2022.12.~2024.10. / 한국연구재단 선도연구센터(CRC) 전담 평가위원
+* 2022.01.~2023.12. / 글로벌문화콘텐츠학회 정보이사
+* 2021.01.~2022.12. / 인문콘텐츠학회 정보이사
 
-### 원내 활동
-    * 2024.02.~2026.02. / 한국학자료통합플랫폼 사업 운영위원회 위원
-    * 2025.01.~2025.12. / 장학생선발위원회 위원
-    * 2024.02.~2025.12. / 기숙사 사감
-    * 2023.07.~2025.07. / 한국학정보화사업위원회 위원
-    * 2023.05.~2025.05. / 국제교류위원회 위원
+## 원내 활동
+* 2024.02.~2026.02. / 한국학자료통합플랫폼 사업 운영위원회 위원
+* 2025.01.~2025.12. / 장학생선발위원회 위원
+* 2024.02.~2025.12. / 기숙사 사감
+* 2023.07.~2025.07. / 한국학정보화사업위원회 위원
+* 2023.05.~2025.05. / 국제교류위원회 위원
     
-    * 2023.03.~2024.03. / 교수협의회 총무
+* 2023.03.~2024.03. / 교수협의회 총무
 
 ## 학술 저서
-    * [2023.03. / 『한국과 중국의 디지털인문학 연구 1』(공저), 문예원](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=9791190587372&amp;isbn=9791190587372&amp;cipId=229083537%2C)
-    * [2023.02. / 『디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색』(공저), 박문사](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=979-11-92365-26-8&amp;isbn=9791192365268&amp;cipId=229064655%2C)
-    * [2022.03. / 『AI가 내려온다 - 인공 지능 시대의 고전 문학 연구』(공저), 사이언스북스](http://lod.nl.go.kr/resource/KMO202256067)
-    * [2022.02. / 『디지털 인문학과 사전』(공저), 단국대학교출판부](http://lod.nl.go.kr/page/KMO202223372)
-    * [2021.12. / 『금속활자인쇄술과 역사발전Ⅱ - 활자에서 디지털문명으로』(공저), 청주고인쇄박물관](http://www.riss.kr/link?id=M16029683)
-    * [2021.04. / 『인공지능, 문학과 예술을 만나다』(공저), 연경문화사](http://www.riss.kr/link?id=M15857449)
-    * [2020.12. / 『미래는 AI의 것일까? : 인공 지능과 미래 사회』(공저), 사이언스북스](http://www.riss.kr/link?id=M15871992)
-    * [2018.12. / 『시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로』, 보고사](http://www.riss.kr/link?id=M14988324)
-    * [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](http://www.riss.kr/link?id=M14115607)
+* [2023.03. / 『한국과 중국의 디지털인문학 연구 1』(공저), 문예원](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=9791190587372&amp;isbn=9791190587372&amp;cipId=229083537%2C)
+* [2023.02. / 『디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색』(공저), 박문사](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=979-11-92365-26-8&amp;isbn=9791192365268&amp;cipId=229064655%2C)
+* [2022.03. / 『AI가 내려온다 - 인공 지능 시대의 고전 문학 연구』(공저), 사이언스북스](http://lod.nl.go.kr/resource/KMO202256067)
+* [2022.02. / 『디지털 인문학과 사전』(공저), 단국대학교출판부](http://lod.nl.go.kr/page/KMO202223372)
+* [2021.12. / 『금속활자인쇄술과 역사발전Ⅱ - 활자에서 디지털문명으로』(공저), 청주고인쇄박물관](http://www.riss.kr/link?id=M16029683)
+* [2021.04. / 『인공지능, 문학과 예술을 만나다』(공저), 연경문화사](http://www.riss.kr/link?id=M15857449)
+* [2020.12. / 『미래는 AI의 것일까? : 인공 지능과 미래 사회』(공저), 사이언스북스](http://www.riss.kr/link?id=M15871992)
+* [2018.12. / 『시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로』, 보고사](http://www.riss.kr/link?id=M14988324)
+* [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](http://www.riss.kr/link?id=M14115607)
     
 ## 학술 논문
-    * [2025.01. / 「조선총독부박물관 문서 XML 데이터 설계 및 활용 시론 －XML 기반 다중 분류 체계 및 내⋅외부 데이터 연결을 중심으로－」, 『인문과학』](https://www.riss.kr/link?id=A109572690)
-    * [2024.12. / 「국문장편소설의 감정에 대한 정성적·정량적 연구 시론–&lt;창선감의록&gt;과 &lt;소현성록&gt;을 중심으로–」, 『고소설연구』](https://www.riss.kr/link?id=A109520715)
-    * [2024.05. / 「국사편찬위원회 한국근현대잡지자료 데이터(2024.03.27.)」, 『디지털인문학』](https://doi.org/10.23287/KJDH.2024.1.1.8)
-    * [2023.09. / 「한국역사인물데이터베이스 설계 시론: 홍문록(弘文錄)을 예시로 하여」, 『한국학』](http://www.riss.kr/link?id=A108739594)
-    * [2023.02. / 「텍스트 마이닝을 통한 한중 웹소설 플랫폼 비교 분석」, 『인문사회과학연구』](http://www.riss.kr/link?id=A108488760)
-    * [2022.12. / 「한국 대중 서사 기반 감정 데이터 구축과 활용 - 감정 딥러닝 모델 구현을 통한 문학 연구의 활용 가능성 탐색을 중심으로 -」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A108432983)
-    * [2022.08. / 「조선시대 중국어 역학서 어휘 및 어음 정보의 시맨틱 데이터 구축 연구」, 『중국학보』](http://www.riss.kr/link?id=A108255597)
-    * [2022.05. / 「&lt;공공데이터법&gt;과 인문데이터 －공공기관 보유 인문데이터 공개 신청 사례를 중심으로」, 『한국고전연구』](http://www.riss.kr/link?id=A108145939)
-    * [2022.03. / 「조선시대 중국어 역학서 데이터베이스 구축 연구」, 『중국학』](http://www.riss.kr/link?id=A108098027)
-    * [2022.02. / 「사회 네트워크 분석을 활용한 1930년대 후반 동인시지(詩誌)와 시인」, 『인문논총』](http://www.riss.kr/link?id=A108056101)
-    * [2022.02. / 「18세기 일본 문인 시사의 디지털 아카이브 설계 및 구축 시론」, 『日本學報』](http://www.riss.kr/link?id=A108057749)
-    * [2021.08. / 「딥러닝을 활용한 시조의 유형 고찰 - 영남가단과 호남가단의 시조를 중심으로」, 『문화와 융합』](http://www.riss.kr/link?id=A107831962)
-    * [2021.07. / 「인공지능 시대의 사전과 데이터 - 한국역사인물사전(데이터)을 위한 탐색 -」, 『동양학』](http://www.riss.kr/link?id=A107800487)
-    * [2020.09. / 「우리는 서발턴의 목소리를 들을 준비가 되었는가? : 텍스트 마이닝을 통한 영화 &lt;82년생 김지영&gt; 리뷰 분석」, 『인문콘텐츠』](http://www.riss.kr/link?id=A107098393)
-    * [2020.08. / 「디지털 분석 기법을 활용한 시조 연구 방법 탐색- &lt;한국시조대사전&gt; 수록 단형시조를 중심으로-」, 『다문화콘텐츠연구』](http://www.riss.kr/link?id=A107047926)
-    * [2020.08. / 「자율주행 자동차 논의에 있어서 인간의 자리: 자율주행 자동차에 대한 논의의 특징과 한계」, 『인문사회 21』](http://www.riss.kr/link?id=A107001500)
-    * [2020.06. / 「빅데이터를 활용한 도덕기반 텍스트분석: 입시 기사를 중심으로」, 『디지털콘텐츠학회논문지』](http://www.riss.kr/link?id=A106925339)
-    * [2020.06. / 「한국어 감정 디지털 온톨로지 구축에 관한 연구」, 『한국어 의미학』](http://www.riss.kr/link?id=A106916079)
-    * [2020.03. / 「딥러닝을 활용한 경판 방각본 소설의 유형 고찰 -영웅소설과 애정소설 유형을 중심으로-」, 『국제어문』](http://www.riss.kr/link?id=A106637554)
-    * [2019.12. / 「고전소설에 대한 디지털 감정 분석방법론 탐색－&lt;구운몽&gt;을 대상으로－」, 『동아시아고대학』](http://www.riss.kr/link?id=A106502541)
-    *  [2019.10. / 「디지털 맵핑(Mapping)을 통한&lt;구운몽&gt; 연구 및 교육적 활용」, 『열상고전연구』](http://www.riss.kr/link?id=A106424624)
-    * [2019.10. / 「디지털 분석 기법을 활용한 시조문학 연구 - 인공지능(AI) 제재 창작 시조를 중심으로 -」, 『문화와 융합』](http://www.riss.kr/link?id=A106406691)
-    * [2019.06. / 「빅데이터와 고전문학 연구방법론」, 『어문론집』](http://www.riss.kr/link?id=A106287721)
-    * [2019.06. / 「딥러닝으로 불경 읽기 - Word2Vec으로 CBETA 불경 데이터 읽기」, 『원불교사상과 종교문화』](http://www.riss.kr/link?id=A106291390)
-    * [2019.05. / 「人工智能时代的“新子学”试探」, 『名作欣赏 (Masterpieces Review)』](https://www.cnki.com.cn/Article/CJFDTotal-MZXS201915004.htm)
-    * [2019.04. / 「인공지능 시대를 위한 인문데이터의 역사와 과제」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A106418944)
-    * [2019.03. / 「디지털 인문학의 관점에서 본 디지털 불교학」, 『불교학보』](http://www.riss.kr/link?id=A106102388)
-    * [2019.03. / 「계량적 문체 분석을 통한 &lt;소현성록&gt; 연작의 변이양상 고찰 - 이대15권본과 규장각21권본을 중심으로 -」, 『국제어문』](http://www.riss.kr/link?id=A106103606)
-    * 2018.12. / 「소현성록 연작의 문체론적 고찰 －컴퓨터를 활용한 계층분석을 바탕으로」, 『인문과학연구』](http://www.riss.kr/link?id=A105965676)
-    * 2018.12. / 「인공지능에 대한 인간의 감정 고찰 -알파고 VS 이세돌 대국에 관한 신문기사 분석을 중심으로」, 『윤리연구』](http://www.riss.kr/link?id=A106019374)
-    * 2018.09. / 「부끄러움/창피함/쑥스러움/수치스러움/수줍음간의 관계 고찰: 공기 명사 및 네트워크 분석을 통한 문맥 분석」, 『언어』](http://www.riss.kr/link?id=A105609518)
-    * 2018.08. / 「인공지능을 활용한 &lt;소현성록&gt; 연작의 감정 연구」, 『문화와 융합』](http://www.riss.kr/link?id=A106477592)
-    * 2018.07. / 「&lt;소현성록&gt; 연작에 나타난 감정의 출현 빈도와 의미— 컴퓨터를 활용한 통계학적 분석을 바탕으로 —」, 『온지논총』](http://www.riss.kr/link?id=A105508485)
-    * 2018.04. / 「동양 시간LOD 시론」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A106418931)
-    * 2017.06. / 「영화 수용과 지배욕망: 트위터, 영화리뷰에 대한 정신분석적 텍스트마이닝을 통한 &lt;명량&gt; 수용 분석」, 『비평과이론』](http://www.riss.kr/link?id=A103228615)
-    * 2016.06. / 「역사기록의 전자문서 편찬방법 탐구 - 역사요소를 중심으로 -」, 『열상고전연구』](http://www.riss.kr/link?id=A101941341)
-    * [2016.02. / 「韓國數位人文教育現狀與課題」, 『漢學研究通訊(Newsletter for Research in Chinese Studies)』](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=02532875-201602-201605040030-201605040030-27-35)
-    * [2014.09. / 「미국 인문학재단(NEH)의 디지털인문학 육성 사업」, 『인문콘텐츠』](http://www.riss.kr/link?id=A100359878)
-    * [2014.06. / 「해외 디지털인문학 동향」, 『인문콘텐츠』](http://www.riss.kr/link?id=A100066627)
+* [2025.01. / 「조선총독부박물관 문서 XML 데이터 설계 및 활용 시론 －XML 기반 다중 분류 체계 및 내⋅외부 데이터 연결을 중심으로－」, 『인문과학』](https://www.riss.kr/link?id=A109572690)
+* [2024.12. / 「국문장편소설의 감정에 대한 정성적·정량적 연구 시론–&lt;창선감의록&gt;과 &lt;소현성록&gt;을 중심으로–」, 『고소설연구』](https://www.riss.kr/link?id=A109520715)
+* [2024.05. / 「국사편찬위원회 한국근현대잡지자료 데이터(2024.03.27.)」, 『디지털인문학』](https://doi.org/10.23287/KJDH.2024.1.1.8)
+* [2023.09. / 「한국역사인물데이터베이스 설계 시론: 홍문록(弘文錄)을 예시로 하여」, 『한국학』](http://www.riss.kr/link?id=A108739594)
+* [2023.02. / 「텍스트 마이닝을 통한 한중 웹소설 플랫폼 비교 분석」, 『인문사회과학연구』](http://www.riss.kr/link?id=A108488760)
+* [2022.12. / 「한국 대중 서사 기반 감정 데이터 구축과 활용 - 감정 딥러닝 모델 구현을 통한 문학 연구의 활용 가능성 탐색을 중심으로 -」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A108432983)
+* [2022.08. / 「조선시대 중국어 역학서 어휘 및 어음 정보의 시맨틱 데이터 구축 연구」, 『중국학보』](http://www.riss.kr/link?id=A108255597)
+* [2022.05. / 「&lt;공공데이터법&gt;과 인문데이터 －공공기관 보유 인문데이터 공개 신청 사례를 중심으로」, 『한국고전연구』](http://www.riss.kr/link?id=A108145939)
+* [2022.03. / 「조선시대 중국어 역학서 데이터베이스 구축 연구」, 『중국학』](http://www.riss.kr/link?id=A108098027)
+* [2022.02. / 「사회 네트워크 분석을 활용한 1930년대 후반 동인시지(詩誌)와 시인」, 『인문논총』](http://www.riss.kr/link?id=A108056101)
+* [2022.02. / 「18세기 일본 문인 시사의 디지털 아카이브 설계 및 구축 시론」, 『日本學報』](http://www.riss.kr/link?id=A108057749)
+* [2021.08. / 「딥러닝을 활용한 시조의 유형 고찰 - 영남가단과 호남가단의 시조를 중심으로」, 『문화와 융합』](http://www.riss.kr/link?id=A107831962)
+* [2021.07. / 「인공지능 시대의 사전과 데이터 - 한국역사인물사전(데이터)을 위한 탐색 -」, 『동양학』](http://www.riss.kr/link?id=A107800487)
+* [2020.09. / 「우리는 서발턴의 목소리를 들을 준비가 되었는가? : 텍스트 마이닝을 통한 영화 &lt;82년생 김지영&gt; 리뷰 분석」, 『인문콘텐츠』](http://www.riss.kr/link?id=A107098393)
+* [2020.08. / 「디지털 분석 기법을 활용한 시조 연구 방법 탐색- &lt;한국시조대사전&gt; 수록 단형시조를 중심으로-」, 『다문화콘텐츠연구』](http://www.riss.kr/link?id=A107047926)
+* [2020.08. / 「자율주행 자동차 논의에 있어서 인간의 자리: 자율주행 자동차에 대한 논의의 특징과 한계」, 『인문사회 21』](http://www.riss.kr/link?id=A107001500)
+* [2020.06. / 「빅데이터를 활용한 도덕기반 텍스트분석: 입시 기사를 중심으로」, 『디지털콘텐츠학회논문지』](http://www.riss.kr/link?id=A106925339)
+* [2020.06. / 「한국어 감정 디지털 온톨로지 구축에 관한 연구」, 『한국어 의미학』](http://www.riss.kr/link?id=A106916079)
+* [2020.03. / 「딥러닝을 활용한 경판 방각본 소설의 유형 고찰 -영웅소설과 애정소설 유형을 중심으로-」, 『국제어문』](http://www.riss.kr/link?id=A106637554)
+* [2019.12. / 「고전소설에 대한 디지털 감정 분석방법론 탐색－&lt;구운몽&gt;을 대상으로－」, 『동아시아고대학』](http://www.riss.kr/link?id=A106502541)
+*  [2019.10. / 「디지털 맵핑(Mapping)을 통한&lt;구운몽&gt; 연구 및 교육적 활용」, 『열상고전연구』](http://www.riss.kr/link?id=A106424624)
+* [2019.10. / 「디지털 분석 기법을 활용한 시조문학 연구 - 인공지능(AI) 제재 창작 시조를 중심으로 -」, 『문화와 융합』](http://www.riss.kr/link?id=A106406691)
+* [2019.06. / 「빅데이터와 고전문학 연구방법론」, 『어문론집』](http://www.riss.kr/link?id=A106287721)
+* [2019.06. / 「딥러닝으로 불경 읽기 - Word2Vec으로 CBETA 불경 데이터 읽기」, 『원불교사상과 종교문화』](http://www.riss.kr/link?id=A106291390)
+* [2019.05. / 「人工智能时代的“新子学”试探」, 『名作欣赏 (Masterpieces Review)』](https://www.cnki.com.cn/Article/CJFDTotal-MZXS201915004.htm)
+* [2019.04. / 「인공지능 시대를 위한 인문데이터의 역사와 과제」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A106418944)
+* [2019.03. / 「디지털 인문학의 관점에서 본 디지털 불교학」, 『불교학보』](http://www.riss.kr/link?id=A106102388)
+* [2019.03. / 「계량적 문체 분석을 통한 &lt;소현성록&gt; 연작의 변이양상 고찰 - 이대15권본과 규장각21권본을 중심으로 -」, 『국제어문』](http://www.riss.kr/link?id=A106103606)
+* 2018.12. / 「소현성록 연작의 문체론적 고찰 －컴퓨터를 활용한 계층분석을 바탕으로」, 『인문과학연구』](http://www.riss.kr/link?id=A105965676)
+* 2018.12. / 「인공지능에 대한 인간의 감정 고찰 -알파고 VS 이세돌 대국에 관한 신문기사 분석을 중심으로」, 『윤리연구』](http://www.riss.kr/link?id=A106019374)
+* 2018.09. / 「부끄러움/창피함/쑥스러움/수치스러움/수줍음간의 관계 고찰: 공기 명사 및 네트워크 분석을 통한 문맥 분석」, 『언어』](http://www.riss.kr/link?id=A105609518)
+* 2018.08. / 「인공지능을 활용한 &lt;소현성록&gt; 연작의 감정 연구」, 『문화와 융합』](http://www.riss.kr/link?id=A106477592)
+* 2018.07. / 「&lt;소현성록&gt; 연작에 나타난 감정의 출현 빈도와 의미— 컴퓨터를 활용한 통계학적 분석을 바탕으로 —」, 『온지논총』](http://www.riss.kr/link?id=A105508485)
+* 2018.04. / 「동양 시간LOD 시론」, 『인공지능인문학연구』](http://www.riss.kr/link?id=A106418931)
+* 2017.06. / 「영화 수용과 지배욕망: 트위터, 영화리뷰에 대한 정신분석적 텍스트마이닝을 통한 &lt;명량&gt; 수용 분석」, 『비평과이론』](http://www.riss.kr/link?id=A103228615)
+* 2016.06. / 「역사기록의 전자문서 편찬방법 탐구 - 역사요소를 중심으로 -」, 『열상고전연구』](http://www.riss.kr/link?id=A101941341)
+* [2016.02. / 「韓國數位人文教育現狀與課題」, 『漢學研究通訊(Newsletter for Research in Chinese Studies)』](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=02532875-201602-201605040030-201605040030-27-35)
+* [2014.09. / 「미국 인문학재단(NEH)의 디지털인문학 육성 사업」, 『인문콘텐츠』](http://www.riss.kr/link?id=A100359878)
+* [2014.06. / 「해외 디지털인문학 동향」, 『인문콘텐츠』](http://www.riss.kr/link?id=A100066627)
 
 ## 학위 논문
-    * [2017.08. / 제도와 인사의 관계성 데이터 아카이브 구축과 활용 - 근대 학교 자료(1895~1910)를 중심으로 -, 한국학중앙연구원 한국학대학원 박사학위논문 / 지도교수: 김현](http://www.riss.kr/link?id=T14588491)
-    * 2011.01. / 试论粟特人在韩半岛(On The Sogdians in Korean Peninsula), 北京大學 석사학위논문 / 지도교수: 罗新
-    * 2007.07. / 神竿淺談:北亞和中原以及韓半島地區的神竿比較(Introduction of Holy-stick: Comparison of Holy-stick in North Asia, Central China and Korean peninsula regions), 北京大學 학사학위논문 / 지도교수: 王小甫
+* [2017.08. / 제도와 인사의 관계성 데이터 아카이브 구축과 활용 - 근대 학교 자료(1895~1910)를 중심으로 -, 한국학중앙연구원 한국학대학원 박사학위논문 / 지도교수: 김현](http://www.riss.kr/link?id=T14588491)
+* 2011.01. / 试论粟特人在韩半岛(On The Sogdians in Korean Peninsula), 北京大學 석사학위논문 / 지도교수: 罗新
+* 2007.07. / 神竿淺談:北亞和中原以及韓半島地區的神竿比較(Introduction of Holy-stick: Comparison of Holy-stick in North Asia, Central China and Korean peninsula regions), 北京大學 학사학위논문 / 지도교수: 王小甫
 
 
 ## 연구 과제
-
 * 2024.09.~2030.08. / 한국연구재단: 훈민정음으로 기록된 근세시기 동아시아 언어 자료 DB 구축 / 공동연구원(연구책임자:심소희)
 * 2025.01.~2025.12. / 한국학중앙연구원: 조선시대 종묘 배향공신 연구 / 연구책임자
 * 2022.07.~2025.06. / 한국연구재단: 인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구 / 공동연구원(연구책임자:윤미선)
@@ -172,54 +173,46 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2013.11.~2017.11. / 한국학진흥사업단: 조선왕조실록 전문사전 편찬 / 전임연구원+연구보조원(연구책임자:원창애)
 * 2013.05.~2013.12 / 한국학중앙연구원: 2013년 지리학 연구지형도 / 연구보조원(연구책임자:손용택)
 
-## [특허]
-
+## 특허
 * [딥러닝을 이용한 도덕 판단 유형 예측시스템 및 방법(prediction system for type of moral judgment using deep learning and method thereof) 10-2021-0028752 &nbsp;2021.03.04. 대한민국](https://doi.org/10.8080/1020210028752)
 
-## [보고서]
-
+## 보고서
 * 2023 / 국립문화재연구원+한국학중앙연구원: 김바로, 한국고고학사전 정보 메타데이터 설계 연구
 * 2022 / 육군본부+건양대학교: 최명진, 군사용 인공지능의 안전성 확보를 위한 단계별 윤리적 평가 및 검증요소(기준) 마련 연구
 * [2021 / 경제·인문사회연구회+한밭대학교: 김효은, 감염병 시대의 도덕판단유형 분석 : 딥러닝을 활용한 텍스트분석](https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&act=view&list_no=0&otp_id=OTP_0000000000006373)
 * [2020 / 경제·인문사회연구회+UNIST: 이주영, 디지털-빅데이터의 시대 인문학의 새로운 역할에 대한 고찰](https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&act=view&list_no=0&otp_id=OTP_0000000000004916)
 * [2014 / 문화재청: 김지명, 문화재 안내표기(설명문 등) 및 체계 개선 방안 연구](http://www.riss.kr/link?id=M13759865)
 
-## [수상 사항]
-
+## 수상 사항
 * 2009.12/ 2019 베스트 블로그 100 / PC사랑
 * 2008.12 / 파워블로거 50인 / 월간 말
 * 2008.05 / 다음 블로그뉴스 황금펜 / (주) 다음소프트
 
-## [기타]
-
+## 기타
 * [2020.12. / 「인공지능 시대, 창작과 비평의 미래」, 『작가들』](http://www.riss.kr/link?id=A107193366)
 * [2021.08. / 한중연 사람들 인터뷰, 한국학중앙연구원 온라인소식지](https://www.aks.ac.kr/webzine/2108/sub05.jsp)
 
 
 
 
-
+# English
 
 ## Research Interests and Student Guidance
 
-* **[Research Interests]**
-    * Overall convergence of digital technology based on humanities
+### Research Interests
+* Overall convergence of digital technology based on humanities
 
-* **[Student Guidance]**
-    1. Solid foundation in humanities
-    2. Bold challenge to digital technology
-    3. Free spirit for convergence
+### Student Guidance
+* Solid foundation in humanities
+* Bold challenge to digital technology
+* Free spirit for convergence
 
-### Education
+## Education
+* Ph.D.: The Academy of Korean Studies, Graduate School of Korean Studies, Humanities and Information Science / Ph.D. in Philosophy (2013.03.~2017.08.)
+* Master's: Peking University, Department of History / Master of Arts in History (2007.09.~2011.01.)
+* Bachelor's: Peking University, Department of History / Bachelor of Arts in History (2003.09.~2007.07.)
 
-* **[Education]**
-    * Ph.D.: The Academy of Korean Studies, Graduate School of Korean Studies, Humanities and Information Science / Ph.D. in Philosophy (2013.03.~2017.08.)
-    * Master's: Peking University, Department of History / Master of Arts in History (2007.09.~2011.01.)
-    * Bachelor's: Peking University, Department of History / Bachelor of Arts in History (2003.09.~2007.07.)
-
-
-### Career
-
+## Career
 * 2021.09.~Present / Assistant Professor, The Academy of Korean Studies
 * 2015.03.~2022.03 / Visiting Lecturer, Hankuk University of Foreign Studies
 * 2021.03.~2021.08. / Lecturer, Kyung Hee University
@@ -228,8 +221,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2015.03.~2015.12. / Lecturer, Seoul Christian University
 * 2015.03.~2017.08. / Lecturer, Ajou University
 
-### Academic Activities
-
+## Academic Activities
 * 2023.02.~2025.12. / Managing Director, Korean Association for Digital Humanities
 * 2025.03.~2027.02. / Research Director, Cheonggye Historical Society
 * 2023.01.~2026.12. / Research Director, Humanities Contents Society
@@ -243,8 +235,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2022.01.~2023.12. / Information Director, Global Cultural Contents Society
 * 2021.01.~2022.12. / Information Director, Humanities Contents Society
 
-### On-Campus Activities
-
+## On-Campus Activities
 * 2024.02.~2026.02. / Member, Operation Committee of Korean Studies Data Integration Platform Project
 * 2025.01.~2025.12. / Member, Scholarship Selection Committee
 * 2024.02.~2025.12. / Dormitory Supervisor
@@ -254,7 +245,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2023.03.~2024.03. / General Secretary, Faculty Council
 
 ## Scholarly Books
-
 * [2023.03. / 『Digital Humanities Research in Korea and China 1』(Co-authored), MunyeWon](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=9791190587372&amp;isbn=9791190587372&amp;cipId=229083537%2C)
 * [2023.02. / 『Reading with Digital, Writing with Data: In Search of Digital Korean Literature』(Co-authored), Bakmunsa](https://www.nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&amp;page=1&amp;pageUnit=10&amp;schType=simple&amp;schStr=979-11-92365-26-8&amp;isbn=9791192365268&amp;cipId=229064655%2C)
 * [2022.03. / 『AI Comes Down - Classical Literature Research in the Age of Artificial Intelligence』(Co-authored), ScienceBooks](http://lod.nl.go.kr/resource/KMO202256067)
@@ -265,11 +255,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2018.12. / 『Construction and Utilization of Semantic Data Archives: Focusing on Modern (1895~1910) School Data on the Relationship Between Institutions and Personnel』, Bogosa](http://www.riss.kr/link?id=M14988324)
 * [2016.05. / 『Introduction to Digital Humanities』(Co-authored), HUEBOOKs: Hankuk University of Foreign Studies Knowledge Publishing Center](http://www.riss.kr/link?id=M14115607)
 
-
 ## Scholarly Papers
-
-**[General Papers]**
-
 * [2025.01. / 「A Study on the XML Data Design and Utilization of the Museum Documents of the Japanese Government-General of Korea - Focusing on XML-based Multiple Classification System and Connection of Internal and External Data -」, 『Humanities Science』](https://www.riss.kr/link?id=A109572690)
 * [2024.12. / 「A Qualitative and Quantitative Study on the Emotion of Korean Long Novels - Focusing on &lt;Changseongamuirok&gt; and &lt;Sohyeonseongrok&gt; -」, 『Classical Novel Research』](https://www.riss.kr/link?id=A109520715)
 * [2024.05. / 「National Institute of Korean History Data on Modern and Contemporary Korean Magazines (2024.03.27.)」, 『Digital Humanities』](https://doi.org/10.23287/KJDH.2024.1.1.8)
@@ -310,14 +296,14 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2014.09. / 「Digital Humanities Promotion Project of the National Endowment for the Humanities (NEH) in the United States」, 『Humanities Contents』](http://www.riss.kr/link?id=A100359878)
 * [2014.06. / 「Trends in Overseas Digital Humanities」, 『Humanities Contents』](http://www.riss.kr/link?id=A100066627)
 
-**[Dissertations]**
 
+## Dissertations
 * [2017.08. / Construction and Utilization of Relationship Data Archives between Institutions and Personnel - Focusing on Modern School Data (1895~1910) -, Ph.D. Dissertation, Graduate School of Korean Studies, Academy of Korean Studies / Advisor: Kim Hyun](http://www.riss.kr/link?id=T14588491)
 * 2011.01. / On The Sogdians in Korean Peninsula, Master's Thesis, Peking University / Advisor: Luo Xin
 * 2007.07. / Introduction of Holy-stick: Comparison of Holy-stick in North Asia, Central China and Korean peninsula regions, Bachelor's Thesis, Peking University / Advisor: Wang Xiaofu
 
-## Research Projects
 
+## Research Projects
 * 2024.09.~2030.08. / National Research Foundation of Korea: **Database Construction of East Asian Language Materials Recorded in Hunminjeongeum from the Early Modern Period** / Co-Researcher (Principal Investigator: Sim So-hee)
 * 2025.01.~2025.12. / The Academy of Korean Studies: **Research on Meritorious Retainers Enshrined in Jongmyo Shrine during the Joseon Dynasty** / Principal Investigator
 * 2022.07.~2025.06. / National Research Foundation of Korea: **Convergence Research on Deep Learning-based AI Novel Generation in Collaboration with Humans** / Co-Researcher (Principal Investigator: Yoon Mi-sun)
@@ -361,27 +347,21 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2013.11.~2017.11. / Academy of Korean Studies: **Compilation of a Specialized Dictionary of the Annals of the Joseon Dynasty** / Full-time Researcher + Research Assistant (Principal Investigator: Won Chang-ae)
 * 2013.05.~2013.12 / The Academy of Korean Studies: **2013 Research Landscape of Geography** / Research Assistant (Principal Investigator: Son Yong-taek)
 
-
-## [Patents]
-
+## Patents
 * [Prediction system for type of moral judgment using deep learning and method thereof 10-2021-0028752. 2021.03.04. Republic of Korea](https://doi.org/10.8080/1020210028752)
 
-## [Reports]
-
+## Reports
 * 2023 / National Research Institute of Cultural Heritage + The Academy of Korean Studies: Kim Baro, **Research on Information Metadata Design of the Korean Archaeological Dictionary**
 * 2022 / Republic of Korea Army Headquarters + Konyang University: Choi Myung-jin, **Research on Step-by-Step Ethical Evaluation and Verification Elements (Standards) for Ensuring the Safety of Military Artificial Intelligence**
 * [2021 / National Research Council for Economics, Humanities and Social Sciences + Hanbat National University: Kim Hyo-eun, Analysis of Moral Judgment Types in the Era of Infectious Diseases: Text Analysis Using Deep Learning](https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&act=view&list_no=0&otp_id=OTP_0000000000006373)
 * [2020 / National Research Council for Economics, Humanities and Social Sciences + UNIST: Lee Ju-young, A Study on the New Role of Humanities in the Age of Digital Big Data](https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&act=view&list_no=0&otp_id=OTP_0000000000004916)
 * [2014 / Cultural Heritage Administration: Kim Ji-myung, Research on Cultural Heritage Information Signs (Explanatory Texts, etc.) and System Improvement Plan](http://www.riss.kr/link?id=M13759865)
 
-## [Awards]
-
+## Awards
 * 2009.12 / 2019 Best Blog 100 / PC Sarang
 * 2008.12 / Top 50 Power Bloggers / Monthly Mal
 * 2008.05 / Daum Blog News Golden Pen / Daumsoft Co., Ltd.
 
-## [Other]
-
+## Other
 * [2020.12. "The Future of Creation and Criticism in the Age of Artificial Intelligence," Writers](http://www.riss.kr/link?id=A107193366)
 * [2021.08. Interview with AKS People, The Academy of Korean Studies Online Newsletter](https://www.aks.ac.kr/webzine/2108/sub05.jsp)
-
