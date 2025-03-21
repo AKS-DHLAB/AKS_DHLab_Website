@@ -21,20 +21,19 @@ I am working to integrate the depth of the humanities with the innovation of dig
 
 我致力于在数字人文这一广阔的画布上，将人文学科的深厚内涵与数字技术的创新精神融为一体。通过大家共同参与的、以数据为基础的韩国学研究，我们希望连接过去与现在，并为未来社会做出贡献。正如“知其不可而为之”，此言常在心中，激励我以无畏之姿，砥砺前行。
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-*   **home-page:** <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a><br>
-*   **email:** ddokbaro@gmail.com<br>
-*   **orcid:** 0000-0002-4456-9616<br>
-*   **ISNI:** 0000000468148634<br>
-*   **국가연구자번호(IRIS+KRI):** 11365082
+<ul>
+    <li><strong>home-page:</strong> <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a></li>
+    <li><strong>email:</strong> ddokbaro@gmail.com</li>
+    <li><strong>orcid:</strong> 0000-0002-4456-9616</li>
+    <li><strong>ISNI:</strong> 0000000468148634</li>
+    <li><strong>국가연구자번호(IRIS+KRI):</strong> 11365082</li>
+</ul>
 </div>
-<br>
-<br>
 <br>
 <br>
 <br>
