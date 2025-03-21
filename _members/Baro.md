@@ -1,5 +1,5 @@
 ---
-name: 김바로(Kim, Ba-ro)
+name: 김바로(Kim, Ba-ro/金把路)
 image: images/김바로.jpg
 role: principal-investigator
 affiliation: 한국학중앙연구원/The Academy of Korean Studies/韓國學中央硏究院
