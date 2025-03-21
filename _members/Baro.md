@@ -25,6 +25,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 <br>
 <br>
 <br>
+<br>
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
 <ul>
     <li><strong>home-page:</strong> <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a></li>
