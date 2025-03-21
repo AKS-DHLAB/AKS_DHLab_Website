@@ -35,8 +35,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 </ul>
 </div>
 <br>
-<br>
-<br>
+
 
 
 
@@ -207,6 +206,12 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2020.12. / 「인공지능 시대, 창작과 비평의 미래」, 『작가들』](http://www.riss.kr/link?id=A107193366)
 * [2021.08. / 한중연 사람들 인터뷰, 한국학중앙연구원 온라인소식지](https://www.aks.ac.kr/webzine/2108/sub05.jsp)
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
