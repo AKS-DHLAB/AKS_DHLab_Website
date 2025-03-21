@@ -26,11 +26,11 @@ I am working to integrate the depth of the humanities with the innovation of dig
 <br>
 <br>
 <br>
-* home-page: https://www.ddokbaro.com/
-* email: ddokbaro@gmail.com
-* orcid: 0000-0002-4456-9616
-* ISNI: 0000000468148634
-* 국가연구자번호(IRIS+KRI): 11365082
+> * home-page: https://www.ddokbaro.com/
+> * email: ddokbaro@gmail.com
+> * orcid: 0000-0002-4456-9616
+> * ISNI: 0000000468148634
+> * 국가연구자번호(IRIS+KRI): 11365082
 <br>
 <br>
 <br>
@@ -84,7 +84,6 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2024.02.~2025.12. / 기숙사 사감
 * 2023.07.~2025.07. / 한국학정보화사업위원회 위원
 * 2023.05.~2025.05. / 국제교류위원회 위원
-
 * 2023.03.~2024.03. / 교수협의회 총무
 
 ## 학술 저서
