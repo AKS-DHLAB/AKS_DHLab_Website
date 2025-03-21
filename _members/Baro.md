@@ -1,7 +1,7 @@
 ---
 name: 김바로(Kim, Ba-ro)
 image: images/김바로.jpg
-role: 교수/Professor/敎授
+role: Principal Investigator
 affiliation: 한국학중앙연구원/The Academy of Korean Studies/韓國學中央硏究院
 aliases:
   - Kim, Ba-ro
@@ -27,17 +27,11 @@ I am working to integrate the depth of the humanities with the innovation of dig
 <br>
 <br>
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-
-*   **home-page:** <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a>
-
-*   **email:** ddokbaro@gmail.com
-
-*   **orcid:** 0000-0002-4456-9616
-
-*   **ISNI:** 0000000468148634
-
+*   **home-page:** <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a><br>
+*   **email:** ddokbaro@gmail.com<br>
+*   **orcid:** 0000-0002-4456-9616<br>
+*   **ISNI:** 0000000468148634<br>
 *   **국가연구자번호(IRIS+KRI):** 11365082
-
 </div>
 <br>
 <br>
