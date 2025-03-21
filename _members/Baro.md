@@ -26,11 +26,15 @@ I am working to integrate the depth of the humanities with the innovation of dig
 <br>
 <br>
 <br>
-> * home-page: https://www.ddokbaro.com/
-> * email: ddokbaro@gmail.com
-> * orcid: 0000-0002-4456-9616
-> * ISNI: 0000000468148634
-> * 국가연구자번호(IRIS+KRI): 11365082
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+
+*   **home-page:** <a href="https://www.ddokbaro.com/">https://www.ddokbaro.com/</a>
+*   **email:** ddokbaro@gmail.com
+*   **orcid:** 0000-0002-4456-9616
+*   **ISNI:** 0000000468148634
+*   **국가연구자번호(IRIS+KRI):** 11365082
+
+</div>
 <br>
 <br>
 <br>
