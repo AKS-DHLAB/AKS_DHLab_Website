@@ -9,10 +9,6 @@ links:
   home-page: https://haein.info
   orcid: 0000-0001-6864-6789
 ---
----
-author: Haein Ji
-title: Curriculum Vitae
----
 
 ## Bio
 
