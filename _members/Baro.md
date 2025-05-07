@@ -66,7 +66,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2018.01.~2020.06. / 중앙대학교 HK+인공지능인문학사업단 HK연구교수
 * 2015.03.~2015.12 / 서울기독대학교 시간강사
 * 2015.03.~2017.08 / 아주대학교 시간강사
-    
+
 ## 학술 활동
 * 2023.02.~2025.12. / 한국디지털인문학협의회 총무이사
 * 2025.03.~2027.02. / 청계사학회 연구이사
@@ -98,7 +98,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2020.12. / 『미래는 AI의 것일까? : 인공 지능과 미래 사회』(공저), 사이언스북스](http://www.riss.kr/link?id=M15871992)
 * [2018.12. / 『시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로』, 보고사](http://www.riss.kr/link?id=M14988324)
 * [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](http://www.riss.kr/link?id=M14115607)
-    
+
 ## 학술 논문
 * [2025.01. / 「조선총독부박물관 문서 XML 데이터 설계 및 활용 시론 －XML 기반 다중 분류 체계 및 내⋅외부 데이터 연결을 중심으로－」, 『인문과학』](https://www.riss.kr/link?id=A109572690)
 * [2024.12. / 「국문장편소설의 감정에 대한 정성적·정량적 연구 시론–&lt;창선감의록&gt;과 &lt;소현성록&gt;을 중심으로–」, 『고소설연구』](https://www.riss.kr/link?id=A109520715)
@@ -149,7 +149,10 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ## 연구 과제
 * 2024.09.~2030.08. / (2024S1A5C2A02046358) 한국연구재단 인문사회연구소지원사업_순수학문연구형: 훈민정음으로 기록된 근세시기 동아시아 언어 자료 DB 구축 / 공동연구원(연구책임자:심소희) / 1,560,000,000
 * 2025.01.~2025.12. / (AKSR2025-C06) 한국학중앙연구원 공동연구과제: 조선시대 종묘 배향공신 연구 / 연구책임자 / 35,000,000
+* 2025.04.25~2025.11.20. / (25호남진흥원-김바로) 재단법인 한국학호남진흥원: 시맨틱데이터 및 서버관리 용역 / 연구책임자 / 106,272,000
 * 2022.07.~2025.06. / (2022S1A5A2A03052880) 한국연구재단 글로벌인문사회융합연구지원사업_연구그룹형(국내형): 인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구 / 공동연구원(연구책임자:윤미선) / 450,000,000
+
+
 * 2025.02.~2025.02. / (25삼진건축사사무소-김바로) (주)삼진건축사사무소: 화순군 문화유산 안내판 영문 해설문 집필 및 감수 / 연구책임자 / 2,457,000
 * 2024.09.~2025.02. / (AKSR2024-RE08) 한국학중앙연구원 연구교육_연계과제: 正祖命撰《人物考》 온톨로지 설계 및 LOD(Linked Open Data) 시스템 구축 / 연구책임자 / 16,000,000
 * 2024.03.~2024.08. / (AKSR2024-RE02) 한국학중앙연구원 연구교육_연계과제: 고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축 / 연구책임자 / 16,000,000
@@ -186,7 +189,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2015.06.~2017.08. / (14토대집성)(15토대집성) 한국학진흥사업단: 근현대 구(舊)황실 관련 자료 조사 집성 / 연구보조원(연구책임자:최진덕,한형조) / 347,000,000+347,000,000
 * 2014.05.~2014.12. / 문화재청: 문화재 안내표기(설명문 등) 및 체계 개선방안 연구용역 / 연구보조원(연구책임자:김지명) / 90,000,000
 * 2014.05.~2014.12. / (AKSR2014-I53) 한국학중앙연구원: 2014년 인문정보학 연구지형도 / 연구보조원(연구책임자:양창진) / 11,800,000
-* 2014.05.~2014.11. / (정책연구-2014-A431-0017) 한국연구재단: 디지털시대 인문학 성과의 산업화 방안 연구 / 연구보조원(연구책임자:김기덕) 
+* 2014.05.~2014.11. / (정책연구-2014-A431-0017) 한국연구재단: 디지털시대 인문학 성과의 산업화 방안 연구 / 연구보조원(연구책임자:김기덕)
 * 2013.11.~2017.11. / (14실록)(15실록) 한국학진흥사업단: 조선왕조실록 전문사전 편찬 / 전임연구원+연구보조원(연구책임자:원창애) / 564,000,000+578,061,700
 * 2013.05.~2013.12. / (AKSR2013-I35) 한국학중앙연구원: 2013년 지리학 연구지형도 / 연구보조원(연구책임자:손용택) / 14,500,000
 
@@ -208,6 +211,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ## 기타
 * [2020.12. / 「인공지능 시대, 창작과 비평의 미래」, 『작가들』](http://www.riss.kr/link?id=A107193366)
 * [2021.08. / 한중연 사람들 인터뷰, 한국학중앙연구원 온라인소식지](https://www.aks.ac.kr/webzine/2108/sub05.jsp)
+* [2025.03. / 디지털 기억 정원: AI와 함께 피어나는 기억의 향기,비전성남](https://snvision.seongnam.go.kr/20642)
 
 
 <br>
@@ -327,7 +331,9 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ## Research Projects
 * 2024.09.~2030.08. / National Research Foundation of Korea: **Database Construction of East Asian Language Materials Recorded in Hunminjeongeum from the Early Modern Period** / Co-Researcher (Principal Investigator: Sim So-hee)
 * 2025.01.~2025.12. / The Academy of Korean Studies: **Research on Meritorious Retainers Enshrined in Jongmyo Shrine during the Joseon Dynasty** / Principal Investigator
+* 2025.04.25 - 2025.11.20 / Honam Academy of Korean Studies: **Semantic Data and Server Management Services** / Principal Investigator
 * 2022.07.~2025.06. / National Research Foundation of Korea: **Convergence Research on Deep Learning-based AI Novel Generation in Collaboration with Humans** / Co-Researcher (Principal Investigator: Yoon Mi-sun)
+
 * 2024.09.~2025.02. / The Academy of Korean Studies: **Ontology Design and Linked Open Data (LOD) System Construction for "Inmulgo" (人物考) Compiled by King Jeongjo's Order** / Principal Investigator
 * 2024.03.~2024.08. / The Academy of Korean Studies: **Analysis of Preceding Models and Development of Educational Content for Old Document Data Design** / Principal Investigator
 * 2023.09.~2024.02. / The Academy of Korean Studies: **Exploration of Preceding Ontology Models and Education for Building a Korean Studies Semantic Web** / Principal Investigator
