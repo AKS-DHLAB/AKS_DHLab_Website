@@ -12,7 +12,7 @@ links:
 
 안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 학생 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**; Sino-Korean: **池海印**)입니다.
 
-<center><img class="intext-img" src="/images/haein_talk.jpg" oncontextmenu="return false"></center>
+<center><img class="intext-img" src="../images/haein_talk.jpg" oncontextmenu="return false"></center>
 
 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
