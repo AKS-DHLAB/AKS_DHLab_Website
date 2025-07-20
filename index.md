@@ -1,9 +1,7 @@
 ---
 ---
 
-# AKS-DHLAB's Website
-
-**Center for Digital Humanities @ the Academy of Korean Studies**
+# Center for Digital Humanities @ the Academy of Korean Studies
 
 **디지털 인문학**이란?
 - 현대 인문학이 전문화의 함정에 빠져서 점점 더 잃어가고 있는 교육과 연구의 생기를 새로운 소통과 협업, 융합의 환경(디지털 환경)에서 부활시키려는 노력입니다.
@@ -35,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/projects/mokpo-thumb.png"
+  image="images/photo.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -43,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-한국학중앙연구원 디지털인문학연구소에서는 저마다의 관심에 바탕한 다양한 프로젝트를 수행하였습니다.
+한국학중앙연구원 디지털인문학연구소에서는 구성원의 관심에 따른 다양한 프로젝트를 수행하고 있습니다.
 
 {%
   include button.html
@@ -58,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/mokpo-thumb.png"
   link="projects"
   title="Our Projects"
   flip=true
