@@ -2,6 +2,7 @@
   subtitle: "2022"
   group: featured
   link: http://dh.aks.ac.kr/~gwangju/wiki
+  image: /images/projects/gwangju-thumb.png
   description: |
     광주광역시에 산재한 문화예술자료와 근현대문화유적을 발굴 및 기록하는 **디지털 데이터 아카이브**입니다. 
     정보 객체의 개별적인 속성 정보뿐 아나라 객체와 객체 사이의 관계 정보를 데이터로 기록함으로써 대상 정보의 의미적 맥락을 파악할 수 있게 하는 **시맨틱(의미 기반) 데이터베이스**를 구축합니다.
@@ -95,3 +96,51 @@
     - 공공번역
     - 영문해설
     - 데이터베이스
+
+- title: "전통문화 융복합 자원 시맨틱 데이터 개발 연구"
+  subtitle: "2018-2019"
+  link: https://dh.aks.ac.kr/~khw/wiki/index.php/전통문화_융복합_자원_시맨틱_데이터_개발_연구
+  description: |
+    Research and Development of Semantic Database on Korean Traditional Culture
+
+    - 전통문화 콘텐츠 창작 및 서비스 플랫폼 기능 향상을 위한 전통문화 융복합 자원 시맨틱 데이터 온톨로지 고도화
+    - 전통문화 담론에 자주 등장하는 대표적인 키워드를 핵심 노드로 발굴. 이를 중심으로 관련 지식을 확장한 시맨틱 네트워크 구현
+    - 기 구축된 시맨틱 데이터를 토대로 자유롭게 탐색하고 의미를 확장할 수 있는 지능형 질의 응답 시스템 Testbed 구현
+  tags:
+    - 전통문화
+    - 시맨틱 데이터
+    - 시맨틱 콘텐츠 편찬
+    - 문화 정보 온톨로지
+
+- title: "데이터 기반 인문지식 백과사전 편찬"
+  subtitle: "2016-2017"
+  link: https://dh.aks.ac.kr/Encyves/wiki/index.php/대문
+  description: |
+    **2016-2017 편찬 연구 주제: 한국 기록유산의 디지털 스토리텔링 자원 개발**
+
+    - 한글 고문헌 가상 전시관
+    - 궁중기록화 가상 전시관
+    - 민족기록화 가상 미술관
+    - 승탑비문 가상 기록관
+
+    **2017 편찬 연구 주제: 한국의 인물 시각적 스토리텔링 자원 개발**
+
+    - 역사인물초상화 가상 전시관
+  tags:
+    - 디지털 아카이브
+    - 스토리텔링
+    - 3D 가상현실
+    - 데이터베이스
+
+- title: "문화재 안내표기(설명문 등) 및 체계 개선 방안 연구"
+  subtitle: "2014.12"
+  link: https://dh.aks.ac.kr/wiki/index.php/Finished_Projects
+  description: |
+    - 문화재 안내판 체계 분석
+    - 문화재 해설문 국·영문 어휘 분석
+    - 문화재 해설문 개선 방향 도출 및 작성 지침(시안) 제정
+    - 디지털 문화재 안내 체계 구상
+  tags:
+    - 문화유산
+    - 공공번역
+    - 영문해설
