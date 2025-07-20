@@ -18,6 +18,7 @@
   subtitle: "2020-2022"
   group: featured
   link: http://dh.aks.ac.kr/hanyang2/wiki/
+  image: /images/projects/hanyang-thumb.png
   description: |
     문화재청 한양도성 타임머신 사업 대상 고건축물을 중심으로, 조선시대 한양도성의 역사와 문화를 심층적으로 이해하는 데 필요한 지식 정보를 광범위하게 조사·추출하여 데이터화 하고, 
     데이터 요소 상호간의 관계를 명시적으로 표현함으로써 대상 자료의 내용을 분석·응용·확장할 수 있는 시맨틱 데이터베이스 기반의 데이터 아카이브를 구현합니다.
@@ -33,6 +34,7 @@
   subtitle: "2020-2021"
   group: featured
   link: http://dh.aks.ac.kr/~mokpo/wiki/
+  image: /images/projects/mokpo-thumb.png
   description: |
     목포시 근대문화유산의 체계적인 보전을 위해 근대건축자산에 대한 학술조사 및 실측조사를 통해 보존의 토대를 마련하고, 정밀한 데이터베이스 구축을 통해 일원적이고 체계적인 관리가 이루어지도록 합니다.
     
@@ -58,6 +60,7 @@
 - title: "경기도 공공박물관 메타아카이브 구축 연구"
   subtitle: "2020-2021"
   link: http://dh.aks.ac.kr/~metaArchive/wiki
+  image: /images/projects/gyeonggi-museum-thumb.png
   description: |
     4차산업혁명 시대, 비대면 사회의 공공박물관 전시 서비스 혁신을 위해 경기도 지역 공공박물관들이 협력하여 대응할 수 있는 방안을 모색하고자 하는 취지에서 수행하는 연구입니다. 
     경기도 공공박물관 메타 아카이브 구축을 위한 데이터 모델 설계와 교육적 활용 전략 제시를 목표로 합니다.
@@ -74,6 +77,7 @@
 - title: "한국문화재 사진 디지털 아카이브 구축 연구"
   subtitle: "2020-2021"
   link: http://dh.aks.ac.kr/~aksphoto/wiki
+  image: /images/projects/aksphoto-thumb.png
   description: |
     역사학자 장득진 선생이 촬영하여, 한국학중앙연구원에 기증한 "한국문화재 사진" 자료(사진 파일 개수: 약 24만 개, 데이터량: 1.66 TB)의 내용을 검토하여 
     체계적인 구조의 디지털 아카이브로 구축함으로써 한국문화 교육·연구 자료로 활용할 수 있게 하고, 『한국민족문화대백과사전』 콘텐츠와의 연계 서비스가 이루질 수 있게 합니다.
@@ -86,6 +90,7 @@
 - title: "공공번역 프로젝트 - 문화유산 영문 해설문 편찬 연구"
   subtitle: "2015-2021"
   link: http://dh.aks.ac.kr/~heritage/wiki
+  image: /images/projects/cultural-heritage-thumb.png
   description: |
     문화유산을 바르게 이해하여 그 내용이 체계적인 데이터로 기술되게 하고, 그 데이터가 올바른 외국어로 표현될 수 있도록 하는 방법으로 문화유산 영문 해설문을 편찬합니다.
     
@@ -100,6 +105,7 @@
 - title: "전통문화 융복합 자원 시맨틱 데이터 개발 연구"
   subtitle: "2018-2019"
   link: https://dh.aks.ac.kr/~khw/wiki/index.php/전통문화_융복합_자원_시맨틱_데이터_개발_연구
+  image: /images/projects/convergence-korea-culture-thumb.png
   description: |
     Research and Development of Semantic Database on Korean Traditional Culture
 
@@ -115,6 +121,7 @@
 - title: "데이터 기반 인문지식 백과사전 편찬"
   subtitle: "2016-2017"
   link: https://dh.aks.ac.kr/Encyves/wiki/index.php/대문
+  image: /images/projects/encyves-thumb.png
   description: |
     **2016-2017 편찬 연구 주제: 한국 기록유산의 디지털 스토리텔링 자원 개발**
 
@@ -135,6 +142,7 @@
 - title: "문화재 안내표기(설명문 등) 및 체계 개선 방안 연구"
   subtitle: "2014.12"
   link: https://dh.aks.ac.kr/wiki/index.php/Finished_Projects
+  image: /images/projects/heritage-guide-thumb.jpg
   description: |
     - 문화재 안내판 체계 분석
     - 문화재 해설문 국·영문 어휘 분석
