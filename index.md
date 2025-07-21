@@ -3,6 +3,10 @@
 
 # Center for Digital Humanities @ the AKS
 
+<center>
+  <img src="/images/aks-dhlab-ci.png" />
+</center>
+
 **디지털 인문학**이란?
 - 현대 인문학이 전문화의 함정에 빠져서 점점 더 잃어가고 있는 교육과 연구의 생기를 새로운 소통과 협업, 융합의 환경(디지털 환경)에서 부활시키려는 노력입니다.
 
