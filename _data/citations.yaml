@@ -244,31 +244,28 @@
   tags:
   - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
   - "\uC778\uBB38\uC815\uBCF4\uD559"
+  title: "\uC81C\uBAA9 \uC5C6\uC74C"
+  authors:
+  - "\uC800\uC790 \uBBF8\uC0C1"
+  publisher: "\uCD9C\uD310\uC0AC \uBBF8\uC0C1"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  title: "\uC81C\uBAA9 \uC5C6\uC74C"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
+  - "\uC800\uC790 \uBBF8\uC0C1"
+  publisher: "\uCD9C\uD310\uC0AC \uBBF8\uC0C1"
+  date: '1900-01-01'
   link: https://doi.org/gg7m48
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  title: "\uC81C\uBAA9 \uC5C6\uC74C"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
+  - "\uC800\uC790 \uBBF8\uC0C1"
+  publisher: "\uCD9C\uD310\uC0AC \uBBF8\uC0C1"
+  date: '1900-01-01'
   link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
