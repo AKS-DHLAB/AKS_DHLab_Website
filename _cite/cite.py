@@ -217,8 +217,7 @@ if len(errors):
     for error in errors:
         log(error, indent=1, level="ERROR")
     log()
-    # exit(1)
-    exit(0)  # github actions 이슈 해결용
+    exit(1)
 
 else:
     log("All done!", level="SUCCESS")
