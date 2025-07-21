@@ -14,12 +14,14 @@ nav:
 ## Principal Investigators
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+{% include section.html %}
+
 ## Members
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-언제든 연락 주세요!
+언제든 편하게 연락 주세요! If you have any questions about the AKS DH Lab, please feel free to contact us at any time.
 
 {% include section.html %}
 
