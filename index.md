@@ -33,7 +33,7 @@
 
 {%
   include feature.html
-  image="images/highlights-research-thumb"
+  image="images/highlights-research-thumb.png"
   link="research"
   title="Our Research"
   text=text
