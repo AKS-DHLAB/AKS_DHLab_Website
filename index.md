@@ -1,10 +1,8 @@
 ---
 ---
 
-# Center for Digital Humanities @ the AKS
-
 <center>
-  <img src="/images/aks-dhlab-ci.png" style="width: 80%;" />
+  <img src="/images/aks-dhlab-ci.png" style="width: 60%;" />
 </center>
 
 **디지털 인문학**이란?
