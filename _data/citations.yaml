@@ -199,27 +199,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -235,6 +219,33 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: lod:KMO201633857
+  type: book
+  description: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559\uC774\uB780 \uC815\uBCF4\uD1B5\
+    \uC2E0\uAE30\uC220\uC758 \uB3C4\uC6C0\uC744 \uBC1B\uC544 \uC0C8\uB85C\uC6B4 \uBC29\
+    \uC2DD\uC73C\uB85C \uC218\uD589\uD558\uB294 \uC778\uBB38\uD559 \uC5F0\uAD6C\uC640\
+    \ \uAD50\uC721, \uADF8\uB9AC\uACE0 \uC774\uC640 \uAD00\uACC4\uB41C \uCC3D\uC870\
+    \uC801\uC778 \uC800\uC791 \uD65C\uB3D9\uC744 \uC77C\uCEEB\uB294 \uB9D0\uC774\uB2E4\
+    . \uC774\uAC83\uC740 \uC804\uD1B5\uC801\uC778 \uC778\uBB38\uD559\uC758 \uC8FC\uC81C\
+    \uB97C \uACC4\uC2B9\uD558\uBA74\uC11C \uC5F0\uAD6C \uBC29\uBC95 \uBA74\uC5D0\uC11C\
+    \ \uB514\uC9C0\uD138 \uAE30\uC220\uC744 \uD65C\uC6A9\uD558\uB294 \uC5F0\uAD6C\
+    , \uADF8\uB9AC\uACE0 \uC608\uC804\uC5D0\uB294 \uAC00\uB2A5\uD558\uC9C0 \uC54A\uC558\
+    \uC9C0\uB9CC \uCEF4\uD4E8\uD130\uB97C \uC0AC\uC6A9\uD568\uC73C\uB85C\uC368 \uC2DC\
+    \uB3C4\uD560 \uC218 \uC788\uAC8C \uB41C \uC0C8\uB85C\uC6B4 \uC131\uACA9\uC758\
+    \ \uC778\uBB38\uD559 \uC5F0\uAD6C\uB97C \uD3EC\uD568\uD55C\uB2E4."
+  date: '2016-05-31'
+  image: "/images/\uB514\uC9C0\uD138\uC778\uBB38\uD559\uC785\uBB38.jpg"
+  buttons:
+  - type: website
+    link: "https://dh.aks.ac.kr/Edu/wiki/index.php/\uB514\uC9C0\uD138_\uC778\uBB38\
+      \uD559_\uC785\uBB38"
+  - type: LOD
+    link: http://lod.nl.go.kr/resource/KMO201633857
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC778\uBB38\uC815\uBCF4\uD559"
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
