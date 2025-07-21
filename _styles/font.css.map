@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["font.scss"],"names":[],"mappings":"AAAA","sourcesContent":["@font-face {\n}\n"],"file":"font.css"}
+{"version":3,"sourceRoot":"","sources":["font.scss"],"names":[],"mappings":"AAAQ;AAER;EACE","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=LXGW+WenKai+Mono+TC&display=swap');\n\n* {\n  font-family: \"Gowun Dodum\", \"LXGW WenKai Mono TC\", serif;\n}\n\n// @font-face {\n// }\n"],"file":"font.css"}
