@@ -36,15 +36,14 @@
 
 ## News
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-{% for item in site.data.news %}
-| {{ item.date }} | {{ item.content }} |
-{% endfor %}
+<table class="news-table">
+  {% for item in site.data.news %}
+  <tr>
+    <td>{{ item.date }}</td>
+    <td>{{ item.content }}</td>
+  </tr>
+  {% endfor %}
+</table>
 
 {% include section.html %}
 
