@@ -6,7 +6,6 @@ table {
 
 table.news-table {
   width: 100%;
-  margin: 1.5em auto !important;
   border-collapse: separate;
   border-spacing: 0 1em;
   font-size: 0.95em;
