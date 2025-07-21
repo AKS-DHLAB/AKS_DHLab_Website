@@ -12,10 +12,25 @@
 **디지털 인문학 연구소**는
 - 미래의 한국 문화를 이끌어 갈 인문학도들에게 디지털 리터러시의 역량을 강화하는 교육 환경을 제공하며, 이 토대 위에서 소통·협업·융합의 방법으로 심층적인 지식 탐구와 지식의 확산을 추구하는 디지털 기반 인문학 연구 프로젝트를 수행합니다.
 
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="News"
+  link="#news"
+%}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Hightlights"
+  link="#hightlights"
+%}
+
 {% include section.html %}
 
 ## News
-{:.center}
 
 <style>
 td, th {
@@ -23,8 +38,6 @@ td, th {
 }
 </style>
 
-| Date | Update |
-|------|--------|
 {% for item in site.data.news %}
 | {{ item.date }} | {{ item.content }} |
 {% endfor %}
