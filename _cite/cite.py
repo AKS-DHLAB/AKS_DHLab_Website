@@ -182,6 +182,11 @@ for index, source in enumerate(sources):
     # preserve fields from input source, overriding existing fields
     citation.update(source)
 
+    # skip citation if it lacks all meaningful fields (새로 추가)
+    if not any(k in citation and citation[k] for k in ["title", "authors", "publisher", "date", "journal"]):
+        log(f"Skipping empty citation: {_id}", indent=1)
+        continue
+    
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))
