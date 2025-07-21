@@ -11,12 +11,10 @@ nav:
 
 {% include section.html %}
 
-## Principal Investigators
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 
-## Members
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
