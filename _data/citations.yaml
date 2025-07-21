@@ -144,10 +144,6 @@
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:1738-2734
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.33645/cnc.2019.10.41.5.747
   title: A Study on the Sijo Literature Using Digital Analysis Technique
   authors:
@@ -167,18 +163,6 @@
   publisher: The Journal of Language &amp; Literature
   date: '2019-06-30'
   link: https://doi.org/g9tsmv
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1738-1975
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1006-0189
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:2635-4691
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
@@ -225,10 +209,6 @@
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9791155168509
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.18855/LISOKO.2018.43.3.002
   title: 'Revisiting the relationship between synonyms of ‘embarrassment’ in Korean
     (pwukkulewum, changphiham, sswuksulewum, swuchisulewum, swucwupum): A contextual
@@ -239,10 +219,6 @@
   publisher: Korean Journal of Linguistics
   date: '2018-09-01'
   link: https://doi.org/g9tsm3
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1225-0422
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
@@ -280,18 +256,6 @@
   publisher: 열상고전연구
   date: '2016-06-01'
   link: https://doi.org/g9tsm7
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: isbn:9791159010873
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:0253-2875
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1975-4469
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
