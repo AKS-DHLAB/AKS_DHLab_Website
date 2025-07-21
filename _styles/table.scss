@@ -7,12 +7,23 @@ table {
   overflow-wrap: anywhere;
 }
 
+table.news-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+table.news-table td {
+  border: none;
+  padding: 2px 8px;
+  vertical-align: top;
+}
+
 th {
   font-weight: var(--semi-bold);
 }
 
 th,
 td {
-  padding: 4px 8px;
+  padding: 10px 15px;
   border: solid 1px var(--light-gray);
 }
