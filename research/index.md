@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+한국학중앙연구원 디지털인문학연구소에서는 현재 다양한 연구를 수행하고 있습니다. 이곳에서 서적 및 논문 등 그 결실을 확인하실 수 있습니다.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="디지털 인문학 입문" style="rich" %}
 
 {% include section.html %}
 
