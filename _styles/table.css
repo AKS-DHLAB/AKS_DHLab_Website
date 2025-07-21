@@ -6,16 +6,10 @@ table {
 
 table.news-table {
   width: 100%;
+  margin: 1.5em auto;
   border-collapse: collapse;
   font-size: 0.95em;
   border-spacing: 0 1em;
-}
-
-table.news-table td {
-  border: none;
-  padding: 2px 8px;
-  vertical-align: top;
-  text-align: left;
 }
 
 th {
@@ -26,6 +20,13 @@ th,
 td {
   padding: 10px 15px;
   border: solid 1px var(--light-gray);
+}
+
+table.news-table td {
+  border: none;
+  padding: 2px 8px;
+  vertical-align: top;
+  text-align: left;
 }
 
 /*# sourceMappingURL=table.css.map */
