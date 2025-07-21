@@ -7,20 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+한국학중앙연구원 디지털인문학연구소에서 함께하고 있는 구성원들을 소개합니다.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Principal Investigators
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+## Members
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+언제든 연락 주세요!
 
 {% include section.html %}
 
