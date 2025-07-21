@@ -18,7 +18,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+디지털인문학에 기반한 새로운 한국학 연구를 모색하고 있습니다. 전통과 현대를 잇는 디지털 융합 연구를 통해 한국학의 글로벌 접근성과 학술적 깊이를 높이고자 합니다.
 
 {%
   include button.html
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/highlights-research-thumb"
   link="research"
   title="Our Research"
   text=text
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-한국학중앙연구원 디지털인문학연구소에서는 구성원의 관심에 따른 다양한 프로젝트를 수행하고 있습니다.
+한국학중앙연구원 디지털인문학연구소에서는 구성원의 관심에 따른 다양한 디지털인문학 프로젝트를 수행하고 있습니다.
 
 {%
   include button.html
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+디지털 기술을 바탕으로 한국학의 새로운 가능성을 탐구하는 디지털인문학연구소입니다. 인문학과 데이터 과학의 융합을 지향하며, 다양한 전공 배경을 가진 연구자들이 함께 협력하는 열린 연구 공동체를 지향합니다.
 
 {%
   include button.html
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/highlights-team-thumb.jpg"
   link="team"
   title="Our Team"
   text=text
