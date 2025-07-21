@@ -221,6 +221,12 @@
   file: orcid.yaml
 - id: lod:KMO201633857
   type: book
+  title: 디지털 인문학 입문
+  authors:
+  - 김현
+  - 임영상
+  - 김바로
+  publisher: 휴북스(HueBooks)
   description: 디지털 인문학이란 정보통신기술의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인
     저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지
     않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
@@ -234,10 +240,6 @@
   tags:
   - 디지털인문학
   - 인문정보학
-  title: 제목 없음
-  authors:
-  - 저자 미상
-  publisher: 출판사 미상
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
