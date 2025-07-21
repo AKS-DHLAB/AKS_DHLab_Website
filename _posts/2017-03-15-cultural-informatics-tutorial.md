@@ -1,5 +1,6 @@
 ---
 title: 인문정보학 튜토리얼
+image: https://dh.aks.ac.kr/Edu/wiki/images/c/cb/MakeGraphLogo.jpg
 author: 김현
 tags:
   - 인문정보학
