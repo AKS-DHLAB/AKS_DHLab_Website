@@ -14,6 +14,21 @@
 
 {% include section.html %}
 
+## News
+{:.center}
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| Date | Update |
+|------|--------|
+{% for item in site.data.news %}
+| {{ item.date }} | {{ item.content }} |
+{% endfor %}
+
 ## Highlights
 
 {% capture text %}
