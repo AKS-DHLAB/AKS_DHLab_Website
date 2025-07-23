@@ -2,7 +2,7 @@
 name: 김병준(Kim, Byungjun)
 image: images/김병준_프로필_2407.jpg
 role: principal-investigator
-affiliation: 한국학중앙연구원(AKS)
+affiliation: 한국학중앙연구원/The Academy of Korean Studies/韓國學中央硏究院
 aliases:
   - Byungjun Kim
 links:
