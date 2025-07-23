@@ -1,3 +1,14 @@
+---
+name: 김병준(Kim, Byungjun)
+image: images/김병준_프로필_2407.jpg
+role: principal-investigator
+affiliation: 한국학중앙연구원(AKS)
+aliases:
+  - Byungjun Kim
+links:
+  home-page: https://byungjunkim.com/
+  orcid: 0000-0001-9925-9343
+---
 # **Byungjun Kim (김병준)**
 
 Assistant Professor  
