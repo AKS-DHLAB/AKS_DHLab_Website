@@ -398,6 +398,27 @@
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.23287/KJDH.2024.1.2.4
+  title: Yi Sang Short Story Basic·Sense Dataset
+  authors:
+  - 해인 지
+  publisher: Korean Journal of Digital Humanities
+  date: '2024-11-30'
+  link: https://doi.org/g9txtk
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22936/SH.72..202410.021
+  title: A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and
+    Emotion Analysis
+  authors:
+  - ' Haein Ji'
+  publisher: 'Sanghur Hakbo: The Journal of Korean Modern Literature'
+  date: '2024-10-01'
+  link: https://doi.org/g9txtn
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.35496/han.51.2
   title: 'Digital Critical Editions of East Asian Classical Texts : Possibility of
     Fluid Critical Editions'
