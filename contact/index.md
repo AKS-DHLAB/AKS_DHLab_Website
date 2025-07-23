@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+한국학중앙연구원 디지털인문학연구소에 관심이 있다면 편히 연락 바랍니다.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="ddokbaro@gmail.com"
+  link="ddokbaro@gmail.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(031) 728-9884"
+  link="+82-31-728-9884"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/BGkJRNNy876uoWPm7"
 %}
 
 {% include section.html %}
@@ -37,7 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="사진"
 %}
 
 {% endcapture %}
@@ -47,7 +45,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="사진"
 %}
 
 {% endcapture %}
@@ -57,21 +55,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+문구1
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+문구2
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+문구3
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

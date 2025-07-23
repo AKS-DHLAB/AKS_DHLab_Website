@@ -1,247 +1,455 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.35982/jcs.101.1
+  title: The Study on Semantic Data Construction of Sound and Vocabulary in Chinese
+    Textbooks in Chosun Dynasty
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Sooyoung Shin
+  - Ji Eom
+  - Ba-ro Kim
+  - Hyun-ah Khoo
+  publisher: Journal of Chinese Studies
+  date: '2022-08-30'
+  link: https://doi.org/g9tsmd
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.20516/classic.2022.57.167
+  title: 'Public Data Act and humanities data: Applying for open to humanities data
+    held by public institutions'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ba-ro Kim
+  publisher: The Research of the Korean Classic
+  date: '2022-05-31'
+  link: https://doi.org/g9tsmf
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.14378/kacs.2022.78.78.10
+  title: A study on Database Construction of Chinese Textbooks in Chosun Dynasty
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Khoo Hyun-Ah
+  - Kim Ba-Ro
+  - Shin Soo-Young
+  - Eom Ji
+  publisher: Chinese Studies
+  date: '2022-03-31'
+  link: https://doi.org/g9tsmg
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.15532/kaja.2022.02.130.65
+  title: A Study on Design and Construction of Digital Archives in the 18th Century
+    Japanese Literary Group
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Kyung-jin Jeong
+  - Kim Ba-ro
+  publisher: The Korean Journal of Japanology
+  date: '2022-02-28'
+  link: https://doi.org/g9tsmh
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.33645/cnc.2021.08.43.8.185
+  title: A Study on the Types of Ancestors Using Deep Learning
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Seongmoon Kim
+  - Baro Kim
+  publisher: The Korean Society of Culture and Convergence
+  date: '2021-08-30'
+  link: https://doi.org/g9tsmj
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.17320/ORIENT.2021..84.219
+  title: Dictionaries and Data in the Artificial Intelligence Era ‒ Exploring for
+    the Korean Historical Dictionary (data) ‒
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - ' Kim Ba-ro'
+  publisher: The Oriental Studies
+  date: '2021-07-01'
+  link: https://doi.org/g9tsmm
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.15400/mccs.2020.08.34.209
+  title: Exploring The Sijo Research Method Using Digital Analysis Technique -Based
+    On The Monotype Sijo In The “Korean Sijo Dictionary”-
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Seong Moon Kim
+  - Ba-ro Kim
+  publisher: Journal of Multi-Cultural Contents Studies
+  date: '2020-08-31'
+  link: https://doi.org/g9tsmn
+  orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.22143/HSS21.11.4.34
+  title: 'Human Place in the Discussion of Autonomous Vehicles: Features and Limits
+    of Autonomous Vehicles Discussions'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  - Jiwon Sim
+  - Baro Kim
+  publisher: The Journal of Humanities and Social sciences 21
+  date: '2020-08-30'
+  link: https://doi.org/g9tsmp
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.9728/dcs.2020.21.6.1159
+  title: 'Text analysis of moral foundations using big data : focusing on entrance
+    exam articles'
+  authors:
+  - Hyo-eun Kim
+  - Ba-ro Kim
+  publisher: Journal of Digital Contents Society
+  date: '2020-06-30'
+  link: https://doi.org/g9tsmq
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19033/sks.2020.6.68.131
+  title: The construction of digital ontology for Korean emotions
+  authors:
+  - Yu-Mi Yi
+  - Ji-Young Park
+  - Ba-Ro Kim
+  publisher: Korean Semantics
+  date: '2020-06-30'
+  link: https://doi.org/g9tsmr
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31147/iall.84.1
+  title: A Study on the Types of Classic Fiction Using Deep Learning Techniques -
+    Focusing on hero novels and romantic novels -
+  authors:
+  - Woo-kyu Kang
+  - Ba-ro Kim
+  publisher: Korean Language and Literature in International Context
+  date: '2020-03-31'
+  link: https://doi.org/g9tsms
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17070/aeaas.2019.12.56.349
+  title: A Study on the Methodology of Digital Emotion Analysis for Classical Novels
+    －For The Cloud Dream of the Nine
+  authors:
+  - Woo-kyu Kang
+  - Ba-ro Kim
+  publisher: The East Asian Ancient Studies
+  date: '2019-12-31'
+  link: https://doi.org/g9tsmt
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33645/cnc.2019.10.41.5.747
+  title: A Study on the Sijo Literature Using Digital Analysis Technique
+  authors:
+  - Seong-moon Kim
+  - Ba-ro Kim
+  publisher: The Korean Society of Culture and Convergence
+  date: '2019-10-30'
+  link: https://doi.org/gmm9zs
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15565/jll.2019.06.78.7
+  title: Big Data and Classical Literature Research Methods
+  authors:
+  - Baro Kim
+  - Wookyu Kang
+  publisher: The Journal of Language &amp; Literature
+  date: '2019-06-30'
+  link: https://doi.org/g9tsmv
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31147/iall.80.5
+  title: A Study on the Transformation of Different Versions of the &lt;So Hyeon-seongnok&gt;
+    Series by Computer - Focused on Ewha Womans University’s 15-volume version and
+    Kyujanggak’s 21-volume version -
+  authors:
+  - Woo-kyu Kang
+  - Ba-ro Kim
+  publisher: Korean Language and Literature in International Context
+  date: '2019-03-31'
+  link: https://doi.org/g9tsmw
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18587/bh.2019.3.86.265
+  title: Digital Buddhism from the Viewpoint of Digital Humanities
+  authors:
+  - Ba-Ro Kim
+  publisher: BUL GYO HAK BO
+  date: '2019-03-31'
+  link: https://doi.org/g9tsmx
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33252/sih.2018.12.59.29
+  title: Stylistics Consideration of &lt;Sohyeonseongrok&gt; series
+  authors:
+  - Woo-Kyu Kang
+  - Ba-Ro Kim
+  publisher: STUDIES IN HUMANITIES
+  date: '2018-12-31'
+  link: https://doi.org/g9tsmz
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15801/JE.1.132.201812.181
+  title: 인공지능에 대한 인간의 감정 고찰 -알파고 VS 이세돌 대국에 관한 신문기사 분석을 중심으로
+  authors: []
+  publisher: 倫理硏究
+  date: '2018-12-01'
+  link: https://doi.org/ggsqxm
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18855/LISOKO.2018.43.3.002
+  title: 'Revisiting the relationship between synonyms of ‘embarrassment’ in Korean
+    (pwukkulewum, changphiham, sswuksulewum, swuchisulewum, swucwupum): A contextual
+    analysis using co-occurring nouns and network analysis.'
+  authors:
+  - ' Ahrim Kim'
+  - ' 김바로'
+  publisher: Korean Journal of Linguistics
+  date: '2018-09-01'
+  link: https://doi.org/g9tsm3
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.16900/onji.2018.56.04.101
+  title: The Frequency and Meanings of Emotions in the &lt;So Hyeon-seong nok&gt;
+    Series - Based on statistical analysis
+  authors:
+  - woo kyu Kang
+  - Ba-ro Kim
+  publisher: THE ONJI COLLECTION OF WORKS
+  date: '2018-01-31'
+  link: https://doi.org/g9tsm5
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19116/theory.2017.22.2.85
+  title: 'Film Reception and Dominant Desire: A Study on the Reception of Roaring
+    Currents with Psychoanalytic Text-Mining'
+  authors:
+  - Kyunghoon Jung
+  - Ba-ro Kim
+  - Minkyu Kim
+  - Jungsik Park
+  - YeiBeech Jang
+  - Woobin Im
+  publisher: The Criticism and Theory Society of Korea
+  date: '2017-06-30'
+  link: https://doi.org/g9tsm6
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15859/YSCS..51.201606.203
+  title: 역사기록의 전자문서 편찬방법 탐구 - 역사요소를 중심으로 -
+  authors: []
+  publisher: 열상고전연구
+  date: '2016-06-01'
+  link: https://doi.org/g9tsm7
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5334/johd.205
+  title: Automatic Detection of Four-Panel Cartoon in Large-Scale Korean Digitized
+    Newspapers using Deep Learning
+  authors:
+  - Seojoon Lee
+  - Byungjun Kim
+  - Bong Gwan Jun
+  publisher: Journal of Open Humanities Data
+  date: '2024-01-01'
+  link: https://doi.org/g9tsm8
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/01292986.2024.2342822
+  title: 'The role of English Wikipedia in mediating East Asian historical disputes:
+    the case of Balhae'
+  authors:
+  - Jonghyun Jee
+  - Byungjun Kim
+  - Bong Gwan Jun
+  publisher: Asian Journal of Communication
+  date: '2024-04-22'
+  link: https://doi.org/gtt6qn
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enpol.2024.114020
+  title: 'Voices of transitions: Korea''s online news media and user comments on the
+    energy transition'
+  authors:
+  - Byungjun Kim
+  - Soeun Yang
+  - Hana Kim
+  publisher: Energy Policy
+  date: '2024-04-01'
+  link: https://doi.org/g9tsm9
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1044/2023_jslhr-23-00137
+  title: 'The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic
+    Context and Language Experience in Speech Perception'
+  authors:
+  - Jieun Song
+  - Byungjun Kim
+  - Minjeong Kim
+  - Paul Iverson
+  publisher: Journal of Speech, Language, and Hearing Research
+  date: '2023-09-13'
+  link: https://doi.org/g9tsnb
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/19761597.2022.2134154
+  title: 'News big data analysis of international start-up innovation discourses through
+    topic modelling and network analysis: comparing East Asia and North America'
+  authors:
+  - Kyeo Re Lee
+  - Jang Hyun Kim
+  - Jaeyeon Jang
+  - Jeewoo Yoon
+  - Dongyan Nan
+  - Yonghwan Kim
+  - Byungjun Kim
+  publisher: Asian Journal of Technology Innovation
+  date: '2022-10-19'
+  link: https://doi.org/g9tsnc
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/fpa/orad011
+  title: A Soft Power Challenge, or an Opportunity? A Big Data Analysis on Chinese
+    Soft Power during COVID-19 Pandemic
+  authors:
+  - Yerin Kim
+  - Byungjun Kim
+  - Min Hyung Park
+  - Woomin Nam
+  - Jang Hyun Kim
+  publisher: Foreign Policy Analysis
+  date: '2023-05-04'
+  link: https://doi.org/g9tsnd
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph18126432
+  title: Structural Topic Model Analysis of Mask-Wearing Issue Using International
+    News Big Data
+  authors:
+  - Kyeo Re Lee
+  - Byungjun Kim
+  - Dongyan Nan
+  - Jang Hyun Kim
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-06-14'
+  link: https://doi.org/gk7hs2
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IMCOM51814.2021.9377432
+  title: A Cross-Cultural Comparative Study on the Startup Discourse in 2000–2019
+    between United States and China
+  authors:
+  - Jaeyeon Jang
+  - Byungjun Kim
+  - Kyeo Re Lee
+  - Jang Hyun Kim
+  publisher: 2021 15th International Conference on Ubiquitous Information Management
+    and Communication (IMCOM)
+  date: '2021-01-04'
+  link: https://doi.org/gmjs47
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cities.2020.102941
+  title: 'A value of civic voices for smart city: A big data analysis of civic queries
+    posed by Seoul citizens'
+  authors:
+  - Byungjun Kim
+  - Minjoo Yoo
+  - Keon Chul Park
+  - Kyeo Re Lee
+  - Jang Hyun Kim
+  publisher: Cities
+  date: '2021-01-01'
+  link: https://doi.org/gpzvv5
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22814/SGJCR.2025..38.7
+  title: '텍스트마이닝을 이용한 국가유산채널 영상 콘텐츠 수용자 반응 분석: 유튜브 댓글 중심으로'
+  authors:
+  - ' Jo, Gyungmin'
+  publisher: Media Convergence Research
+  date: '2025-06-01'
+  link: https://doi.org/g9tsnt
+  orcid: 0009-0003-9661-5666
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23287/KJDH.2024.1.2.4
+  title: Yi Sang Short Story Basic·Sense Dataset
+  authors:
+  - 해인 지
+  publisher: Korean Journal of Digital Humanities
+  date: '2024-11-30'
+  link: https://doi.org/g9txtk
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22936/SH.72..202410.021
+  title: A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and
+    Emotion Analysis
+  authors:
+  - ' Haein Ji'
+  publisher: 'Sanghur Hakbo: The Journal of Korean Modern Literature'
+  date: '2024-10-01'
+  link: https://doi.org/g9txtn
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.35496/han.51.2
+  title: 'Digital Critical Editions of East Asian Classical Texts : Possibility of
+    Fluid Critical Editions'
+  authors:
+  - Jaeyeol Lee
+  publisher: Han Mun Hak Bo
+  date: '2024-12-31'
+  link: https://doi.org/g9tsnv
+  orcid: 0000-0003-2102-8806
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lod:KMO201633857
+  type: book
+  title: 디지털 인문학 입문
+  authors:
+  - 김현
+  - 임영상
+  - 김바로
+  publisher: 휴북스(HueBooks)
+  description: 디지털 인문학이란 정보통신기술의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인
+    저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지
+    않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
+  date: '2016-05-31'
+  image: /images/디지털인문학입문.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
   - type: website
-    link: http://manubot.org/
+    link: https://dh.aks.ac.kr/Edu/wiki/index.php/디지털_인문학_입문
+  - type: LOD
+    link: http://lod.nl.go.kr/resource/KMO201633857
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - 디지털인문학
+  - 인문정보학
   plugin: sources.py
   file: sources.yaml

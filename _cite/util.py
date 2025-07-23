@@ -147,7 +147,7 @@ def save_data(path, data):
 
     # try to open file
     try:
-        file = open(path, mode="w")
+        file = open(path, mode="w", encoding="utf-8")
     except Exception:
         raise Exception("Can't open file for writing")
 
@@ -157,16 +157,16 @@ def save_data(path, data):
     # try to save data as yaml
     try:
         with file:
-            yaml.dump(data, file, default_flow_style=False, sort_keys=False)
+            yaml.dump(data, file, default_flow_style=False, sort_keys=False, allow_unicode=True)
     except Exception:
         raise Exception("Can't save YAML to file")
 
     # write warning note to top of file
     note = "# DO NOT EDIT, GENERATED AUTOMATICALLY"
     try:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             data = file.read()
-        with open(path, "w") as file:
+        with open(path, "w", encoding="utf-8") as file:
             file.write(f"{note}\n\n{data}")
     except Exception:
         raise Exception("Can't write to file")

@@ -1,23 +1,25 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: lod:KMO201633857
+  type: book
+  title: 디지털 인문학 입문
+  authors:
+    - 김현
+    - 임영상
+    - 김바로
+  publisher: 휴북스(HueBooks)
+  description: 디지털 인문학이란 정보통신기술의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인 저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지 않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
+  date: 2016-5-31
+  image: /images/디지털인문학입문.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+    # - type: manubot
+    #   link: https://greenelab.github.io/meta-review/
+    # - type: source
+    #   text: Manuscript Source
+    #   link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: https://dh.aks.ac.kr/Edu/wiki/index.php/디지털_인문학_입문
+    - type: LOD
+      link: http://lod.nl.go.kr/resource/KMO201633857
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    - 디지털인문학
+    - 인문정보학
+  # repo: greenelab/meta-review

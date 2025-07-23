@@ -7,6 +7,13 @@ table {
   overflow-wrap: anywhere;
 }
 
+table.news-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 1em;
+  font-size: 0.95em;
+}
+
 th {
   font-weight: var(--semi-bold);
 }
@@ -15,4 +22,11 @@ th,
 td {
   padding: 10px 15px;
   border: solid 1px var(--light-gray);
+}
+
+table.news-table td {
+  border: none;
+  padding: 2px 8px;
+  vertical-align: top;
+  text-align: left;
 }
