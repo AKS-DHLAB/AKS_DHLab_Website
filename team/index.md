@@ -21,6 +21,10 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
 
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" style="small" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 우리는 각기 다른 학문적 배경을 지닌 연구자들로 구성된 팀입니다. 인문학, 정보기술 등 다양한 분야에서 출발했지만, 디지털 인문학이라는 새로운 지적 지평을 향한 공통된 열정을 바탕으로 협업하고 있습니다. 서로의 전문성을 존중하며, 함께 배우고 성장하는 열린 연구 공동체를 지향합니다.
