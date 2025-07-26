@@ -15,13 +15,15 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alumni'" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'master'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and group != 'alumni'" %}
 
 {% include section.html %}
+
+# Alumni
 
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" style="small" %}
 
