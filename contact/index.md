@@ -34,7 +34,7 @@ nav:
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contact/contact1.jpg"
   caption="사진"
 %}
 
@@ -44,7 +44,7 @@ nav:
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contact/contact2.jpg"
   caption="사진"
 %}
 
@@ -55,15 +55,15 @@ nav:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-문구1
+디지털인문학연구소는 여러분의 연락을 기다립니다.
 {% endcapture %}
 
 {% capture col2 %}
-문구2
+이메일을 통해 편하게 연락해 주시기를 바랍니다.
 {% endcapture %}
 
 {% capture col3 %}
-문구3
+디지털인문학에 기반한 자신이 원하는 연구를 수행할 수 있습니다.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
