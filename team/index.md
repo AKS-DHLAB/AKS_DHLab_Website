@@ -9,8 +9,6 @@ nav:
 
 한국학중앙연구원 디지털인문학연구소에서 함께하고 있는 구성원들을 소개합니다.
 
-![2025 team photo](/images/team/team.jpg "2025 team photo")
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
@@ -39,6 +37,7 @@ nav:
 
 {% include figure.html image="images/team/team1.jpg" %}
 {% include figure.html image="images/team/team2.jpg" %}
+{% include figure.html image="images/team/team3.jpg" %}
 
 {% endcapture %}
 
