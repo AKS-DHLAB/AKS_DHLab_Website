@@ -1,4 +1,4 @@
-{% assign button = include %}
+<!-- {% assign button = include %}
 {% assign button = button | hash_default: site.data.types[include.type] %}
 
 {% if button.link or button.icon or button.text %}
@@ -6,6 +6,42 @@
     <a
       class="button"
       href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
+      {% if button.tooltip %}
+        data-tooltip="{{ button.tooltip | xml_escape }}"
+      {% endif %}
+      data-style="{{ include.style }}"
+      {% if include.flip %}
+        data-flip
+      {% endif %}
+      aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+    >
+      {% include icon.html icon=button.icon %}
+      {% if button.text and button.text != "" %}
+        <span>{{ button.text }}</span>
+      {% endif %}
+    </a>
+  </div>
+{% endif %} -->
+
+{% assign button = include %}
+{% assign button = button | hash_default: site.data.types[include.type] %}
+
+{% if button.link or button.icon or button.text %}
+  {% comment %}
+    최종 href 만들기:
+    - types.yml 의 link 템플릿(예: https://huggingface.co/$LINK)에
+      include.link(footer에서 넘긴 값) 또는 button.link를 끼워넣음
+    - 외부 URL(:// 포함)이면 relative_url 적용하지 않음
+  {% endcomment %}
+
+  {% assign link_template = button.link %}
+  {% assign link_value = include.link | default: button.link %}
+  {% assign href = link_template | replace: "$LINK", link_value %}
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="{% if href contains '://' %}{{ href }}{% else %}{{ href | relative_url }}{% endif %}"
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
