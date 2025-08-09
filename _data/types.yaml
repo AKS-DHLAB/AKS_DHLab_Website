@@ -226,6 +226,6 @@ package:
   tooltip: Package
 
 huggingface:
-  icon: huggingface
+  icon: fa-brands fa-hugging-face
   link: https://huggingface.co/$LINK
   tooltip: Hugging Face
