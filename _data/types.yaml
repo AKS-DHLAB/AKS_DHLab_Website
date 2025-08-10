@@ -225,7 +225,9 @@ package:
   text: Package
   tooltip: Package
 
+# Hugging Face 타입 정의 추가
 huggingface:
-  icon: fa-brands fa-hugging-face
-  link: https://huggingface.co/$LINK
+  icon: fa-solid fa-face-smile
+  text: Hugging Face
   tooltip: Hugging Face
+  link: https://huggingface.co/$VALUE
