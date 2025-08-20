@@ -1,7 +1,7 @@
 ---
 name: 이재열(Lee, Jae-yeol)
 image: images/jaeyeol.jpg
-role: master
+role: phd
 affiliation: 한국학중앙연구원(AKS)
 aliases:
   - Jae-yeol Lee
