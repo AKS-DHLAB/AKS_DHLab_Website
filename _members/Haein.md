@@ -10,7 +10,7 @@ links:
   orcid: 0000-0001-6864-6789
 ---
 
-## Bio
+### Bio
 
 안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
 
