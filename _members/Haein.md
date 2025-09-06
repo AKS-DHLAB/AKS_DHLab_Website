@@ -10,7 +10,9 @@ links:
   orcid: 0000-0001-6864-6789
 ---
 
-안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 학생 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
+### Bio
+
+안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
 
 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
@@ -18,7 +20,7 @@ links:
 기본적으로 컴퓨터 기술을 활용한 인문학 연구, 즉 **디지털 인문학(Digital Humanities, DH)** 전반에 관심이 있습니다.
 
 - **전산문학연구(Computational Literary Studies, CLS)**: 문학 텍스트에서 ‘감정’과 ‘감각’과 같은, 정량적으로 다루기 힘든 인간의 경험 요소를 기계적으로 포착하고, 그 문학적 함의를 다루는 연구로 석사 학위를 취득하였습니다. 지금은 감각-감정을 넘어 생활세계 전체를 구조화할 수 있도록 설계된 데이터셋을 바탕으로, 시대적 맥락까지 심도 있게 포괄하는 CLS 연구를 염두에 두고 정동 이론 등 제 분야를 공부하고 있습니다.
-- **계산심리언어학(Computational psycholinguistics)**: 언어의 심리적 단위에 대한 전산적 연구에 관심을 갖고, 대량의 텍스트에 바탕한 연구를 현재 진행 중입니다.
+- **계산심리언어학(Computational psycholinguistics)**: 언어의 심리적 단위에 대한 전산적 연구에 관심을 갖고, 대규모 텍스트에 기반한 연구를 현재 진행 중입니다. 종래의 형식주의적 접근을 넘어, 기능주의적 관점에서 언어를 조망하고자 하고 있습니다.
 - **비판적 코드 연구(Critical Code Studies, CCS)**: 소스 코드(Source code)를 기능성의 측면에서만 접근하는 게 아닌 '사회-기술적 구성물', 나아가 '문화적 텍스트'로 간주하고 '가까이 읽기'(close reading)를 통해 문화비평적으로 독해하고자 하는 신생 연구 비판적 코드 연구(CSS)에 관심을 갖고 있습니다. 현재 관련하여 다음 논문으로 준비하고 있는 작업이 있습니다.
 
 
@@ -28,7 +30,6 @@ links:
 | :------ | :-------------- | :---------- | :----: |
 | <u>Ph.D. <br> Student</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2025 |
 | <u>M.A.</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2022 |
-| <u>B.S. <br> Student</u> | **통계·데이터과학** <br> **(Statistics and Data Science)**| 한국방송통신대학교 <br> (Korea National Open University) | Present <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2024 |
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
 
@@ -54,12 +55,14 @@ links:
 ## Publications
 
 ### Books
-1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a>
+1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
-### Journal Articles
-1. 지해인. (2025). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in Literature]**. <i>인문학연구</i>, 39, 83-120. <i class="ai ai-doi"></i> <a href="https://doi.org/10.47293/ihumjj.2025.39.4" target="_blank">10.47293/ihumjj.2025.39.4</a>
-2. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋 [Yi Sang Short Story Basic·Sense Dataset]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
-3. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
+### Articles
+1. **(Work in Progress)** Park, H. & **Ji, H.** (2025). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
+2. **(Under Review)** LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint arXiv:-*. 
+3. 지해인. (2025). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in Literature]**. <i>인문학연구</i>, 39, 83-120. <i class="ai ai-doi"></i> <a href="https://doi.org/10.47293/ihumjj.2025.39.4" target="_blank">10.47293/ihumjj.2025.39.4</a>
+4. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋 [Yi Sang Short Story Basic·Sense Dataset]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
+5. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
 ### Theses
 1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
@@ -67,20 +70,22 @@ links:
 3. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토 [Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle]** [학사학위논문, 건국대학교].
 
 ### eBooks
-1. **(forthcoming)** 김병준, 조경민, **지해인**, 임이로, & 구슬. (2025). (In Progress) **고급 자연어 처리 활용 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/17854" target="_blank">book/17854</a>
+1. 김병준, 조경민, **지해인**, 임이로, & 구슬. (2025). **고급 자연어 처리 활용 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/17854" target="_blank">book/17854</a>
 2. 김바로, 정송이, 이재열, 신은선, **지해인**, 김서윤, 조하영, & 임이로. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
 3. 김바로, 전가람, 신은선, 이재열, 정송이, **지해인**, 이주희, 김서윤, 조하영, 잔싱롱, 정경진, & 채자문. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
 4. 김바로, 전가람, 이효림, **지해인**, 이주희, 구현회, & 윤종훈. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
 5. 김바로, 전가람, **지해인**, 이주희, 구현회, 윤종훈, & 한태빈. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
-### Datasets
-1. KPoEM (Korean Poetry Emotion Mapping) dataset
-   - **v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a>
+### Datasets and Models
+1. **KPoEM (Korean Poetry Emotion Mapping)**
+   - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
+   - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
 2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
 ## Projects
 
+- 한국학중앙연구원: **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
 - 한국연구재단: **네트워크형 디지털 인문학 교육모델 개발(Development of a Networked Educational Model in Digital Humanities)** ; 외부참여연구원(연구책임자: 이재연) ; Apr. 2024 - Jun. 2025
 - 한국연구재단: **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구(A Convergence Study for Deep-Learning-Based AI Fiction Generation with Human in the Loop)** ; 보조연구원(연구책임자: 윤미선) ; Apr. 2024 - Jun. 2025 <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GEhcIUJaooo" target="_blank">소설 쓰는 AI 로봇: 자유생성 이벤트 1 - 광화문, 서울, 6월 (2024)</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4UJrf0RDb6o" target="_blank">Fiction Writing AI Robots: Spontaneous Generation Events Video June 2024</a>
 - 한국학중앙연구원: **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발(Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)** ; 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
