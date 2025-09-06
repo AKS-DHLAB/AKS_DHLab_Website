@@ -1,3 +1,29 @@
+- id: isbn:9791143006370
+  type: book
+  title: 문학 감정 읽는 AI
+  authors:
+    - 지해인
+    - 김바로
+  publisher: 커뮤니케이션북스
+  description: 딥러닝 기반 감정 분석으로 이상의 단편 속 감정 흐름을 계량화했다. ‘에피파니’를 정서 패턴에서 포착하고, 비애적 내면 구조를 데이터로 확인했다. 분석 자료를 통해 개방형 문학 연구의 길을 연다.
+  date: 2025-8-22
+  image: /images/research/문학감정읽는AI.jpg
+  buttons:
+    # - type: manubot
+    #   link: https://greenelab.github.io/meta-review/
+    # - type: source
+    #   text: Manuscript Source
+    #   link: https://github.com/greenelab/meta-review
+    # - type: website
+    #   link: 
+    # - type: LOD
+    #   link: 
+  tags:
+    - 디지털인문학
+    - 전산문학연구
+    - 감정 분석
+  # repo: greenelab/meta-review
+
 - id: lod:KMO201633857
   type: book
   title: 디지털 인문학 입문
@@ -24,6 +50,8 @@
     - 인문정보학
   # repo: greenelab/meta-review
 
+
+# 논문 섬네일 추가 원하는 경우 추가
 # Haein Ji
 - id: doi:10.22936/SH.72..202410.021
   image: /images/research/10.22936_SH.72..202410.021.jpg
