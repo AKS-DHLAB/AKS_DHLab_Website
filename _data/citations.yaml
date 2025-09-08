@@ -259,6 +259,19 @@
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/ARXIV.2509.03932
+  title: 'Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights
+    from a Human-Labeled Dataset and AI Modeling'
+  authors:
+  - Iro Lim
+  - Haein Ji
+  - Byungjun Kim
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g92r9z
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5334/johd.205
   title: Automatic Detection of Four-Panel Cartoon in Large-Scale Korean Digitized
     Newspapers using Deep Learning
@@ -406,19 +419,6 @@
   publisher: 인문학연구
   date: '2025-07-31'
   link: https://doi.org/g9wdxs
-  orcid: 0000-0001-6864-6789
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/ARXIV.2509.03932
-  title: 'Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights
-    from a Human-Labeled Dataset and AI Modeling'
-  authors:
-  - Iro Lim
-  - Haein Ji
-  - Byungjun Kim
-  publisher: arXiv
-  date: '2025-09-04'
-  link: https://doi.org/g92r9z
   orcid: 0000-0001-6864-6789
   plugin: orcid.py
   file: orcid.yaml
