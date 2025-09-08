@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-1/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-1/" rel="alternate" type="text/html" /><updated>2025-09-08T04:37:03+00:00</updated><id>/preview/pr-1/feed.xml</id><title type="html">디지털인문학연구소 @ AKS</title><subtitle>디지털인문학을 연구하는 한국학중앙연구원 디지털인문학연구소입니다.</subtitle><entry><title type="html">인문정보학 튜토리얼</title><link href="/preview/pr-1/2017/03/15/cultural-informatics-tutorial.html" rel="alternate" type="text/html" title="인문정보학 튜토리얼" /><published>2017-03-15T00:00:00+00:00</published><updated>2025-09-08T04:36:13+00:00</updated><id>/preview/pr-1/2017/03/15/cultural-informatics-tutorial</id><content type="html" xml:base="/preview/pr-1/2017/03/15/cultural-informatics-tutorial.html"><![CDATA[<p>본 게시글은 인문정보학 Wiki의 <a href="https://dh.aks.ac.kr/Edu/wiki/index.php/인문정보학_튜토리얼">인문정보학 튜토리얼</a>을 가져온 것입니다.</p>
+
+<h2 id="디지털-교실-환경-설정">디지털 교실 환경 설정</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/튜토리얼/ftp">FTP 프로그램 설치</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/튜토리얼/파일_확장자_표시">파일 확장자 표시</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/NotePad++">NotePad++ Reqular Expressions</a></li>
+</ul>
+
+<h2 id="온톨로지-ontology">온톨로지 (Ontology)</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/온톨로지의_이해">온톨로지의 이해</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/인문정보학_온톨로지_설계_가이드라인">인문정보학 온톨로지 설계 가이드라인</a></li>
+</ul>
+
+<h2 id="위키-wiki">위키 (Wiki)</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/위키_콘텐츠_제작_방법">위키 콘텐츠 제작 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/Artique_Concert_2019_Spring">위키 문서 제작 예시</a></li>
+</ul>
+
+<h2 id="데이터-시각화-data-visualization">데이터 시각화 (Data Visualization)</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/데이터의_시각화:_네트워크_그래프">데이터의 시각화: 네트워크 그래프</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/MakeGraph_2018">나의 네트워크 그래프 제작 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/Network_Graph_in_Wiki">위키 문서로 네트워크 그래프를 만드는 방법</a></li>
+  <li>네트워크 그래프 활용 예시
+    <ul>
+      <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/Dry_Martini">Dry Martini</a></li>
+      <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/왕실_가계와_기록화">왕실 가계와 기록화</a></li>
+      <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/화성행궁과_용주사">화성행궁과 용주사</a></li>
+      <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/조선왕실의_의례">조선왕실의 의례</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="전자지도-digital-map">전자지도 (Digital Map)</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/나의_전자지도_제작_방법">나의 전자지도 제작 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/한국학중앙연구원_인문정보학과_2016_가을_학술답사">전자지도 활용 예시</a></li>
+</ul>
+
+<h2 id="가상-전시관-virtual-reality-exhibition">가상 전시관 (Virtual Reality Exhibition)</h2>
+<ul>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/파빌리온_제작_방법">파빌리온 제작 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/컴플렉스_제작_방법">컴플렉스 제작 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/동영상_활용">동영상 활용 방법</a></li>
+  <li><a href="https://dh.aks.ac.kr/Edu/wiki/index.php/파빌리온_제작_방법_v3.4">파빌리온 제작 방법 v3.4</a></li>
+</ul>]]></content><author><name>김현</name></author><category term="인문정보학" /><category term="튜토리얼" /><category term="교육자료" /><summary type="html"><![CDATA[본 게시글은 인문정보학 Wiki의 인문정보학 튜토리얼을 가져온 것입니다.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://dh.aks.ac.kr/Edu/wiki/images/c/cb/MakeGraphLogo.jpg" /><media:content medium="image" url="https://dh.aks.ac.kr/Edu/wiki/images/c/cb/MakeGraphLogo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
