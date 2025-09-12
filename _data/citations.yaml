@@ -269,7 +269,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/g92r9z
-  orcid: 0000-0001-6864-6789
+  orcid: 0009-0006-1600-8818
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5334/johd.205
