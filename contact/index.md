@@ -35,7 +35,7 @@ nav:
 {%
   include figure.html
   image="images/contact/contact1.jpg"
-  caption="사진"
+  caption="한국학중앙연구원의 여름. 녹음이 우거진 청계산 자락에서 조용히 연구에 전념할 수 있습니다."
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ nav:
 {%
   include figure.html
   image="images/contact/contact2.jpg"
-  caption="사진"
+  caption="봄이면 꽃이 핍니다. 원내에 줄지어 선 벚나무에서 벚꽃이 흐드러지게 펴 장관을 연출합니다."
 %}
 
 {% endcapture %}
