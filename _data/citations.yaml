@@ -403,9 +403,8 @@
   file: orcid.yaml
 - id: doi:10.22814/SGJCR.2025..38.7
   title: '텍스트마이닝을 이용한 국가유산채널 영상 콘텐츠 수용자 반응 분석: 유튜브 댓글 중심으로'
-  authors:
-  - ' Jo, Gyungmin'
-  publisher: Media Convergence Research
+  authors: []
+  publisher: 미디어융합연구
   date: '2025-06-01'
   link: https://doi.org/g9tsnt
   orcid: 0009-0003-9661-5666
