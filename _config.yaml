@@ -1,13 +1,20 @@
 # site properties and page defaults
+<<<<<<< HEAD
 title: 디지털인문학연구소 @ AKS
 subtitle: Center for Digital Humanities @ AKS
 description: 디지털인문학을 연구하는 한국학중앙연구원 디지털인문학연구소입니다.
+=======
+title: Lab Website Template
+subtitle: by the Greene Lab
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+>>>>>>> upstream/main
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
+<<<<<<< HEAD
   # email: contact@AKS-DHLAB.com
   # orcid: 0000-0001-8713-9213
   # google-scholar: ETJoidYAAAAJ
@@ -15,6 +22,14 @@ links:
   huggingface: AKS-DHLAB
   # twitter: AKS-DHLAB
   # youtube: AKS-DHLAB
+=======
+  email: contact@your-lab.com
+  orcid: 0000-0001-8713-9213
+  google-scholar: ETJoidYAAAAJ
+  github: your-lab
+  twitter: YourLabHandle
+  youtube: YourLabChannel
+>>>>>>> upstream/main
 
 ### jekyll settings
 

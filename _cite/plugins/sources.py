@@ -4,6 +4,7 @@ def main(entry):
     returns list of sources to cite
     """
     return [entry]
+<<<<<<< HEAD
 
 # def main(entry):
 #     """
@@ -16,3 +17,5 @@ def main(entry):
 #     entry.setdefault("publisher", "출판사 미상")
 #     entry.setdefault("date", "1900-01-01")
 #     return [entry]
+=======
+>>>>>>> upstream/main

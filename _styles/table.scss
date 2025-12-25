@@ -7,6 +7,7 @@ table {
   overflow-wrap: anywhere;
 }
 
+<<<<<<< HEAD
 table.news-table {
   width: 100%;
   border-collapse: separate;
@@ -14,6 +15,8 @@ table.news-table {
   font-size: 0.95em;
 }
 
+=======
+>>>>>>> upstream/main
 th {
   font-weight: var(--semi-bold);
 }
@@ -23,6 +26,7 @@ td {
   padding: 10px 15px;
   border: solid 1px var(--light-gray);
 }
+<<<<<<< HEAD
 
 table.news-table td {
   border: none;
@@ -30,3 +34,5 @@ table.news-table td {
   vertical-align: top;
   text-align: left;
 }
+=======
+>>>>>>> upstream/main

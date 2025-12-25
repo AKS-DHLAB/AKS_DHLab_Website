@@ -14,10 +14,13 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+<<<<<<< HEAD
 master:
   icon: fa-solid fa-graduation-cap
   description: Master Student
 
+=======
+>>>>>>> upstream/main
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -224,6 +227,7 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+<<<<<<< HEAD
 
 # Hugging Face 타입 정의 추가
 huggingface:
@@ -231,3 +235,5 @@ huggingface:
   text: Hugging Face
   tooltip: Hugging Face
   link: https://huggingface.co/$VALUE
+=======
+>>>>>>> upstream/main
