@@ -68,7 +68,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * 2015.03.~2017.08 / 아주대학교 시간강사
 
 ## 학술 활동
-* 2023.02.~2025.12. / 한국디지털인문학협의회 총무이사
+* 2023.02.~2027.12. / 한국디지털인문학협의회 총무이사
 * 2025.03.~2027.02. / 청계사학회 연구이사
 * 2023.01.~2026.12. / 인문콘텐츠학회 연구이사
 * 2024.05.~2026.04. / 한국유교문화진흥자문위원회 국학자료 보존·계승분과위원회 위원
@@ -82,9 +82,10 @@ I am working to integrate the depth of the humanities with the innovation of dig
 
 ## 원내 활동
 * 2025.10.~2027.10. / <한국학> 연구윤리위원회 위원
+* 2025.03.~2027.02. / 청계사학회 연구이사
+* 2024.02.~2026.12. / 기숙사 사감
 * 2024.02.~2026.02. / 한국학자료통합플랫폼 사업 운영위원회 위원
 * 2025.01.~2025.12. / 장학생선발위원회 위원
-* 2024.02.~2025.12. / 기숙사 사감
 * 2023.07.~2025.07. / 한국학정보화사업위원회 위원
 * 2023.05.~2025.05. / 국제교류위원회 위원
 * 2023.03.~2024.03. / 교수협의회 총무
@@ -102,6 +103,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](http://www.riss.kr/link?id=M14115607)
 
 ## 학술 논문
+* [2025.06. / 「디지털 시대의 역사 서술 ― 디지털 독본과 디지털 사관심으로 ―」, 『관악사론』](https://history.snu.ac.kr/gwanak_studies/?mod=document&uid=157)
 * [2025.01. / 「조선총독부박물관 문서 XML 데이터 설계 및 활용 시론 －XML 기반 다중 분류 체계 및 내⋅외부 데이터 연결을 중심으로－」, 『인문과학』](https://www.riss.kr/link?id=A109572690)
 * [2024.12. / 「국문장편소설의 감정에 대한 정성적·정량적 연구 시론–&lt;창선감의록&gt;과 &lt;소현성록&gt;을 중심으로–」, 『고소설연구』](https://www.riss.kr/link?id=A109520715)
 * [2024.05. / 「국사편찬위원회 한국근현대잡지자료 데이터(2024.03.27.)」, 『디지털인문학』](https://doi.org/10.23287/KJDH.2024.1.1.8)
@@ -151,10 +153,10 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ## 연구 과제
 * 2024.09.~2030.08. / (2024S1A5C2A02046358) 한국연구재단 인문사회연구소지원사업_순수학문연구형: 훈민정음으로 기록된 근세시기 동아시아 언어 자료 DB 구축 / 공동연구원(연구책임자:심소희) / 1,560,000,000
 * 2025.09.~2026.02. / (AKSR2025-RE08) 한국학중앙연구원: AI 스마트 도슨트 구현을 위한 다국어·다층적 문화유산 안내문 생성 플랫폼 구축 연구: 조선시대 불교회화를 중심으로  / 연구책임자 / 16,000,000
+
 * 2025.01.~2025.12. / (AKSR2025-C06) 한국학중앙연구원 공동연구과제: 조선시대 종묘 배향공신 연구 / 연구책임자 / 35,000,000
 * 2025.10.~2025.10. / (25충북역사문화연구원-김바로) 충북역사문화연구원: 2025년 청주시 문화유산 안내판 영문 해설문 집필 및 감수 / 연구책임자 / 1,590,000
 * 2025.04.25~2025.11.20. / (25호남진흥원-김바로) 재단법인 한국학호남진흥원: 시맨틱데이터 및 서버관리 용역 / 연구책임자 / 106,272,000
-
 * 2022.07.~2025.06. / (2022S1A5A2A03052880) 한국연구재단 글로벌인문사회융합연구지원사업_연구그룹형(국내형): 인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구 / 공동연구원(연구책임자:윤미선) / 450,000,000
 * 2025.02.~2025.02. / (25삼진건축사사무소-김바로) (주)삼진건축사사무소: 화순군 문화유산 안내판 영문 해설문 집필 및 감수 / 연구책임자 / 2,457,000
 * 2024.09.~2025.02. / (AKSR2024-RE08) 한국학중앙연구원 연구교육_연계과제: 正祖命撰《人物考》 온톨로지 설계 및 LOD(Linked Open Data) 시스템 구축 / 연구책임자 / 16,000,000
@@ -207,6 +209,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2014 / 문화재청: 김지명, 문화재 안내표기(설명문 등) 및 체계 개선 방안 연구](http://www.riss.kr/link?id=M13759865)
 
 ## 수상 사항
+* 2025.05. 대한중국학회 우수논문상
 * 2009.12/ 2019 베스트 블로그 100 / PC사랑
 * 2008.12 / 파워블로거 50인 / 월간 말
 * 2008.05 / 다음 블로그뉴스 황금펜 / (주) 다음소프트
@@ -277,6 +280,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2016.05. / 『Introduction to Digital Humanities』(Co-authored), HUEBOOKs: Hankuk University of Foreign Studies Knowledge Publishing Center](http://www.riss.kr/link?id=M14115607)
 
 ## Scholarly Papers
+* [2025.06. / 「Historical Narration in the Digital Age ― Digital Readers and Digital Historiography ―」, 『Gwanak Saron』](https://history.snu.ac.kr/gwanak_studies/?mod=document&uid=157)
 * [2025.01. / 「A Study on the XML Data Design and Utilization of the Museum Documents of the Japanese Government-General of Korea - Focusing on XML-based Multiple Classification System and Connection of Internal and External Data -」, 『Humanities Science』](https://www.riss.kr/link?id=A109572690)
 * [2024.12. / 「A Qualitative and Quantitative Study on the Emotion of Korean Long Novels - Focusing on &lt;Changseongamuirok&gt; and &lt;Sohyeonseongrok&gt; -」, 『Classical Novel Research』](https://www.riss.kr/link?id=A109520715)
 * [2024.05. / 「National Institute of Korean History Data on Modern and Contemporary Korean Magazines (2024.03.27.)」, 『Digital Humanities』](https://doi.org/10.23287/KJDH.2024.1.1.8)
@@ -327,10 +331,10 @@ I am working to integrate the depth of the humanities with the innovation of dig
 ## Research Projects
 * 2024.09.~2030.08. / National Research Foundation of Korea (NRF) Humanities and Social Sciences Research Institute Support Project_Pure Academic Research Type: **Establishment of a DB for Early Modern East Asian Language Materials Recorded in Hunminjeongeum** / Co-Researcher (Principal Investigator: Sim So-hee) / 1,560,000,000
 * 2025.09.~2026.02. / **The Academy of Korean Studies: A Study on the Establishment of a Platform for Generating Multilingual and Multilayered Cultural Heritage Descriptions for AI Smart Docent Implementation: Focusing on Joseon Dynasty Buddhist Paintings** / Principal Investigator / 16,000,000
+
 * 2025.01.~2025.12. / **The Academy of Korean Studies Collaborative Research Project: A Study on the Meritorious Retainers Enshrined in the Jongmyo Shrine during the Joseon Dynasty** / Principal Investigator / 35,000,000
 * 2025.10.~2025.10. / **Chungbuk Institute of History and Culture: Writing and Supervising English Explanatory Texts for Cheongju City Cultural Heritage Signboards in 2025** / Principal Investigator / 1,590,000
 * 2025.04.25~2025.11.20. / **Honam Academy of Korean Studies Foundation: Semantic Data and Server Management Services** / Principal Investigator / 106,272,000
-
 * 2022.07.~2025.06. / National Research Foundation of Korea: **Convergence Research on Deep Learning-based AI Novel Generation in Collaboration with Humans** / Co-Researcher (Principal Investigator: Yoon Mi-sun)
 * 2024.09.~2025.02. / The Academy of Korean Studies: **Ontology Design and Linked Open Data (LOD) System Construction for "Inmulgo" (人物考) Compiled by King Jeongjo's Order** / Principal Investigator
 * 2024.03.~2024.08. / The Academy of Korean Studies: **Analysis of Preceding Models and Development of Educational Content for Old Document Data Design** / Principal Investigator
