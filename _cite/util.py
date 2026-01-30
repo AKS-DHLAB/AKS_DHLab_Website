@@ -85,8 +85,6 @@ def get_safe(item, path, default=None):
     return item
 
 
-<<<<<<< HEAD
-=======
 def index_of(_list, value, fallback=float("inf")):
     """
     index of, with fallback
@@ -98,7 +96,6 @@ def index_of(_list, value, fallback=float("inf")):
         return fallback
 
 
->>>>>>> upstream/main
 def list_of_dicts(data):
     """
     check if data is list of dicts
@@ -161,11 +158,7 @@ def save_data(path, data):
 
     # try to open file
     try:
-<<<<<<< HEAD
-        file = open(path, mode="w", encoding="utf-8")
-=======
         file = open(path, mode="w")
->>>>>>> upstream/main
     except Exception:
         raise Exception("Can't open file for writing")
 
@@ -175,26 +168,16 @@ def save_data(path, data):
     # try to save data as yaml
     try:
         with file:
-<<<<<<< HEAD
-            yaml.dump(data, file, default_flow_style=False, sort_keys=False, allow_unicode=True)
-=======
             yaml.dump(data, file, default_flow_style=False, sort_keys=False)
->>>>>>> upstream/main
     except Exception:
         raise Exception("Can't save YAML to file")
 
     # write warning note to top of file
     note = "# DO NOT EDIT, GENERATED AUTOMATICALLY"
     try:
-<<<<<<< HEAD
-        with open(path, "r", encoding="utf-8") as file:
-            data = file.read()
-        with open(path, "w", encoding="utf-8") as file:
-=======
         with open(path, "r") as file:
             data = file.read()
         with open(path, "w") as file:
->>>>>>> upstream/main
             file.write(f"{note}\n\n{data}")
     except Exception:
         raise Exception("Can't write to file")
@@ -207,11 +190,7 @@ def cite_with_manubot(_id):
     generate citation data for source id with Manubot
     """
 
-<<<<<<< HEAD
-    # run Manubot
-=======
     # run manubot
->>>>>>> upstream/main
     try:
         commands = ["manubot", "cite", _id, "--log-level=WARNING"]
         output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
