@@ -39,11 +39,9 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
-<<<<<<< HEAD
       - name: Setup Python
-=======
+
       - name: Set up Python
->>>>>>> upstream/main
         if: github.event.action != 'closed'
         uses: actions/setup-python@v5
         with:
