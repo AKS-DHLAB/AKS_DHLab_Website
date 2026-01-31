@@ -1,6 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-<<<<<<< HEAD
 - id: doi:10.35982/jcs.101.1
   title: The Study on Semantic Data Construction of Sound and Vocabulary in Chinese
     Textbooks in Chosun Dynasty
@@ -503,7 +502,6 @@
   tags:
   - 디지털인문학
   - 인문정보학
-=======
 - id: doi:10.1101/2025.06.19.660613
   title: Scalable data harmonization for single-cell image-based profiling with CytoTable
   authors:
@@ -764,6 +762,5 @@
   date: '2018-03-01'
   link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
->>>>>>> upstream/main
   plugin: sources.py
   file: sources.yaml

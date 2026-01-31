@@ -37,7 +37,6 @@ def main(entry):
     # list of sources to return
     sources = []
 
-<<<<<<< HEAD
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
         # get list of ids
@@ -68,7 +67,7 @@ def main(entry):
 
         # if not an id type that Manubot can cite, keep citation details
         if id_type not in manubot_prefixes:
-=======
+
     # filter id by some criteria. return true to accept, false to reject.
     def filter_id(_id):
         # is id of certain "relationship" type
@@ -134,7 +133,7 @@ def main(entry):
 
         # if not citable by manubot, keep citation details from orcid
         else:
->>>>>>> upstream/main
+
             # get summaries
             summaries = get_safe(work, "work-summary", [])
 
