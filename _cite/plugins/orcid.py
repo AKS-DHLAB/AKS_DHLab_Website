@@ -1,11 +1,7 @@
 import json
 from urllib.request import Request, urlopen
 from util import *
-<<<<<<< HEAD
-from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
-=======
 from manubot.cite.handlers import prefix_to_handler as manubot_citable
->>>>>>> upstream/main
 
 
 def main(entry):
