@@ -1,7 +1,6 @@
 ---
 ---
 
-<<<<<<< HEAD
 <center>
   <img src="/images/aks-dhlab-ci.png" style="width: 60%;" />
 </center>
@@ -45,24 +44,6 @@
   </tr>
   {% endfor %}
 </table>
-=======
-# Lab Website Template
-
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
->>>>>>> upstream/main
 
 {% include section.html %}
 
@@ -70,11 +51,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-<<<<<<< HEAD
 디지털인문학에 기반한 새로운 한국학 연구를 모색하고 있습니다. 전통과 현대를 잇는 디지털 융합 연구를 통해 한국학의 글로벌 접근성과 학술적 깊이를 높이고자 합니다.
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
->>>>>>> upstream/main
 
 {%
   include button.html
@@ -89,11 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-<<<<<<< HEAD
   image="images/highlights-research-thumb.png"
-=======
-  image="images/photo.jpg"
->>>>>>> upstream/main
   link="research"
   title="Our Research"
   text=text
@@ -101,11 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-<<<<<<< HEAD
 한국학중앙연구원 디지털인문학연구소에서는 구성원의 관심에 따른 다양한 디지털인문학 프로젝트를 수행하고 있습니다.
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
->>>>>>> upstream/main
 
 {%
   include button.html
@@ -120,11 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-<<<<<<< HEAD
   image="images/projects/mokpo-thumb.png"
-=======
-  image="images/photo.jpg"
->>>>>>> upstream/main
   link="projects"
   title="Our Projects"
   flip=true
@@ -134,11 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-<<<<<<< HEAD
 디지털 기술을 바탕으로 한국학의 새로운 가능성을 탐구하는 디지털인문학연구소입니다. 인문학과 데이터 과학의 융합을 지향하며, 다양한 전공 배경을 가진 연구자들이 함께 협력하는 열린 연구 공동체를 지향합니다.
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
->>>>>>> upstream/main
 
 {%
   include button.html
@@ -153,11 +114,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-<<<<<<< HEAD
   image="images/highlights-team-thumb.jpg"
-=======
-  image="images/photo.jpg"
->>>>>>> upstream/main
   link="team"
   title="Our Team"
   text=text
