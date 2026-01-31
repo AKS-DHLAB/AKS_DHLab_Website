@@ -1,8 +1,16 @@
 <div class="post-info">
   {% if include.author %}
-    {% assign authors = include.author | join: "," | downcase | split: "," | array_filter %}
+    {% assign authors = include.author
+      | join: ","
+      | downcase
+      | split: ","
+      | array_filter
+    %}
     {% for author in authors %}
-      {% assign member = site.members | where_exp: "member", "member.slug == author" | first %}
+      {% assign member = site.members
+        | where_exp: "member", "member.slug == author"
+        | first
+      %}
       {% if member %}
         {% include portrait.html lookup=author style="tiny" %}
       {% else %}
