@@ -135,51 +135,6 @@ for index, source in enumerate(sources):
     # source id
     _id = get_safe(source, "id", "").strip()
 
-<<<<<<< HEAD
-    # # Manubot doesn't work without an id
-    # if _id:
-    #     log("Using Manubot to generate citation", indent=1)
-
-    #     try:
-    #         # run Manubot and set citation
-    #         citation = cite_with_manubot(_id)
-
-    #     # if Manubot cannot cite source
-    #     except Exception as e:
-    #         plugin = get_safe(source, "plugin", "")
-    #         file = get_safe(source, "file", "")
-    #         # if regular source (id entered by user), throw error
-    #         if plugin == "sources.py":
-    #             log(e, indent=3, level="ERROR")
-    #             errors.append(f"Manubot could not generate citation for source {_id}")
-    #         # otherwise, if from metasource (id retrieved from some third-party API), just warn
-    #         else:
-    #             log(e, indent=3, level="WARNING")
-    #             warnings.append(
-    #                 f"Manubot could not generate citation for source {_id} (from {file} with {plugin})"
-    #             )
-    #             # discard source from citations
-    #             continue
-
-    # Manubot only supports standard identifiers like doi:, pmid:, arxiv:
-    if _id.startswith("doi:") or _id.startswith("pmid:") or _id.startswith("arxiv:"):
-        log("Using Manubot to generate citation", indent=1)
-    
-        try:
-            citation = cite_with_manubot(_id)
-    
-        except Exception as e:
-            plugin = get_safe(source, "plugin", "")
-            file = get_safe(source, "file", "")
-            log(e, indent=3, level="WARNING")
-            warnings.append(
-                f"Manubot could not generate citation for source {_id} (from {file} with {plugin})"
-            )
-            citation = {}
-    else:
-        log("Skipping Manubot for custom ID", indent=1)
-        citation = {}
-=======
     # manubot doesn't work without an id
     if _id:
         log("Using Manubot to generate citation", indent=1)
@@ -204,19 +159,10 @@ for index, source in enumerate(sources):
                 )
                 # discard source from citations
                 continue
->>>>>>> upstream/main
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
 
-<<<<<<< HEAD
-    # skip citation if it lacks all meaningful fields (새로 추가)
-    if not any(k in citation and citation[k] for k in ["title", "authors", "publisher", "date", "journal"]):
-        log(f"Skipping empty citation: {_id}", indent=1)
-        continue
-    
-=======
->>>>>>> upstream/main
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))

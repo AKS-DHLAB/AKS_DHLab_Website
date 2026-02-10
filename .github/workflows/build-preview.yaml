@@ -22,17 +22,11 @@ jobs:
 
     steps:
       - name: Debug dump
-<<<<<<< HEAD
-        uses: crazy-max/ghaction-dump-context@v2
-
-      - name: Checkout branch contents
-=======
         if: runner.debug == '1'
         uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
         if: github.event.action != 'closed'
->>>>>>> upstream/main
         uses: actions/checkout@v4
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
@@ -50,15 +44,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-<<<<<<< HEAD
-      - uses: jwalton/gh-find-current-pr@master
-        if: github.event.action != 'closed'
-        id: pr
-        with:
-          state: all
-
-=======
->>>>>>> upstream/main
       - name: SSH debug
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
@@ -66,24 +51,14 @@ jobs:
       - name: Build preview version of site
         if: github.event.action != 'closed'
         run: |
-<<<<<<< HEAD
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ env.pr }}"
-        env:
-          pr: ${{ steps.pr.outputs.pr }}
-
-      - name: Commit preview to Pages branch
-=======
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
 
       - name: Commit preview to Pages branch
         if: github.event.action != 'closed'
->>>>>>> upstream/main
         uses: rossjrw/pr-preview-action@v1.4.7
         with:
           source-dir: _site
           umbrella-dir: ${{ env.PREVIEWS_FOLDER }}
-<<<<<<< HEAD
-=======
 
       - name: Checkout Pages branch
         uses: actions/checkout@v4
@@ -106,4 +81,3 @@ jobs:
         with:
           branch: gh-pages
           commit_message: "Clean up previews"
->>>>>>> upstream/main

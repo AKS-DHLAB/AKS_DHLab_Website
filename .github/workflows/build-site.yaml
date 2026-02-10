@@ -21,10 +21,7 @@ jobs:
 
     steps:
       - name: Debug dump
-<<<<<<< HEAD
-=======
         if: runner.debug == '1'
->>>>>>> upstream/main
         uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents

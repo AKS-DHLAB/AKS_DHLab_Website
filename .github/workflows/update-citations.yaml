@@ -29,10 +29,7 @@ jobs:
 
     steps:
       - name: Debug dump
-<<<<<<< HEAD
-=======
         if: runner.debug == '1'
->>>>>>> upstream/main
         uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
@@ -42,11 +39,7 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
-<<<<<<< HEAD
-      - name: Setup Python
-=======
       - name: Set up Python
->>>>>>> upstream/main
         if: github.event.action != 'closed'
         uses: actions/setup-python@v5
         with:

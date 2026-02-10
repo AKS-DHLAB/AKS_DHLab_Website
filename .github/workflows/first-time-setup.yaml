@@ -14,10 +14,7 @@ jobs:
 
     steps:
       - name: Debug dump
-<<<<<<< HEAD
-=======
         if: runner.debug == '1'
->>>>>>> upstream/main
         uses: crazy-max/ghaction-dump-context@v2
 
       - name: Create Pages branch
@@ -38,11 +35,7 @@ jobs:
 
       # clean slate, as if starting from orphan branch
       - name: Clear Pages branch
-<<<<<<< HEAD
-        run: rm -rf * .github .docker .gitignore
-=======
         run: rm -rf ./* .github .docker .gitignore
->>>>>>> upstream/main
 
       # prevent GitHub from running Jekyll a second time after build
       - name: Make .nojekyll file
@@ -78,13 +71,8 @@ jobs:
         run: |
           user="${{ github.repository_owner }}"
           description="An engaging 1-3 sentence description of your lab."
-<<<<<<< HEAD
-          printf "\nUSER=${user}" >> $GITHUB_ENV
-          printf "\nDESCRIPTION=${description}" >> $GITHUB_ENV
-=======
           printf "\nUSER=%s" "$user" >> "$GITHUB_ENV"
           printf "\nDESCRIPTION=%s" "$description" >> "$GITHUB_ENV"
->>>>>>> upstream/main
 
       - name: Personalize readme for user
         run: |
@@ -93,20 +81,12 @@ jobs:
             ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
             ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-<<<<<<< HEAD
-            # ${{ env.USER }}'s Website
-=======
             # %s's Website
->>>>>>> upstream/main
 
             Visit **[website url](#)** 🚀
 
             _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
-<<<<<<< HEAD
-          " > README.md
-=======
           " "${{ env.USER }}" > README.md 
->>>>>>> upstream/main
 
       - name: Personalize Jekyll config for user
         uses: actions/github-script@v7
@@ -140,8 +120,4 @@ jobs:
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-<<<<<<< HEAD
-          commit_message: "Setup repo"
-=======
           commit_message: "Set up repo"
->>>>>>> upstream/main

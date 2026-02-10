@@ -1,6 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-<<<<<<< HEAD
 - id: doi:10.35982/jcs.101.1
   title: The Study on Semantic Data Construction of Sound and Vocabulary in Chinese
     Textbooks in Chosun Dynasty
@@ -63,8 +62,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.17320/ORIENT.2021..84.219
-  title: Dictionaries and Data in the Artificial Intelligence Era ‒ Exploring for
-    the Korean Historical Dictionary (data) ‒
+  title: "Dictionaries and Data in the Artificial Intelligence Era \u2012 Exploring\
+    \ for the Korean Historical Dictionary (data) \u2012"
   authors:
   - ' Kim Ba-ro'
   publisher: The Oriental Studies
@@ -73,9 +72,16 @@
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
+- title: Care we ready to hear the voice of Servalton?
+  publisher: Humanities Contents
+  date: '2021-01-28'
+  link: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10477604
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.15400/mccs.2020.08.34.209
-  title: Exploring The Sijo Research Method Using Digital Analysis Technique -Based
-    On The Monotype Sijo In The “Korean Sijo Dictionary”-
+  title: "Exploring The Sijo Research Method Using Digital Analysis Technique -Based\
+    \ On The Monotype Sijo In The \u201CKorean Sijo Dictionary\u201D-"
   authors:
   - Seong Moon Kim
   - Ba-ro Kim
@@ -134,14 +140,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.17070/aeaas.2019.12.56.349
-  title: A Study on the Methodology of Digital Emotion Analysis for Classical Novels
-    －For The Cloud Dream of the Nine
+  title: "A Study on the Methodology of Digital Emotion Analysis for Classical Novels\
+    \ \uFF0DFor The Cloud Dream of the Nine"
   authors:
   - Woo-kyu Kang
   - Ba-ro Kim
   publisher: The East Asian Ancient Studies
   date: '2019-12-31'
   link: https://doi.org/g9tsmt
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1738-2734
+  title: ISSN 1738-2734 (Print) | Yeolsang go'jeon yeon'gu | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1738-2734
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
@@ -167,10 +182,38 @@
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
+- id: issn:1738-1975
+  title: ISSN 1738-1975 (Print) | Wonbulgyo sa'sang gwa jong'gyo munhwa | The ISSN
+    Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1738-1975
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1006-0189
+  title: ISSN 1006-0189 (Print) | Mingzuo xinshang | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1006-0189
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:2635-4691
+  title: ISSN 2635-4691 (Print) | Ingong jineung inmunhak yeongu | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/2635-4691
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31147/iall.80.5
-  title: A Study on the Transformation of Different Versions of the &lt;So Hyeon-seongnok&gt;
-    Series by Computer - Focused on Ewha Womans University’s 15-volume version and
-    Kyujanggak’s 21-volume version -
+  title: "A Study on the Transformation of Different Versions of the &lt;So Hyeon-seongnok&gt;\
+    \ Series by Computer - Focused on Ewha Womans University\u2019s 15-volume version\
+    \ and Kyujanggak\u2019s 21-volume version -"
   authors:
   - Woo-kyu Kang
   - Ba-ro Kim
@@ -202,20 +245,47 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15801/JE.1.132.201812.181
-  title: 인공지능에 대한 인간의 감정 고찰 -알파고 VS 이세돌 대국에 관한 신문기사 분석을 중심으로
+  title: "\uC778\uACF5\uC9C0\uB2A5\uC5D0 \uB300\uD55C \uC778\uAC04\uC758 \uAC10\uC815\
+    \ \uACE0\uCC30 -\uC54C\uD30C\uACE0 VS \uC774\uC138\uB3CC \uB300\uAD6D\uC5D0 \uAD00\
+    \uD55C \uC2E0\uBB38\uAE30\uC0AC \uBD84\uC11D\uC744 \uC911\uC2EC\uC73C\uB85C"
   authors: []
-  publisher: 倫理硏究
+  publisher: "\uF9D4\u7406\u784F\u7A76"
   date: '2018-12-01'
   link: https://doi.org/ggsqxm
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
+- id: isbn:9791155168509
+  title: "Simaent'ik teit'o\u0306 ak'aibu\u0306 u\u0306i kuch'uk kwa hwaryong: chedo\
+    \ wa insa u\u0306i kwan'gye e taehan ku\u0306ndae (1895-1910) hakkyo charyo ru\u0306\
+    l chungsim u\u0306ro"
+  authors:
+  - Pa-ro Kim
+  publisher: Pogosa
+  date: '2018-01-01'
+  link: ''
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18855/LISOKO.2018.43.3.002
-  title: '부끄러움/창피함/쑥스러움/수치스러움/수줍음간의 관계 고찰: 공기 명사 및 네트워크 분석을 통한 문맥 분석'
-  authors: []
-  publisher: 언어
+  title: "Revisiting the relationship between synonyms of \u2018embarrassment\u2019\
+    \ in Korean (pwukkulewum, changphiham, sswuksulewum, swuchisulewum, swucwupum):\
+    \ A contextual analysis using co-occurring nouns and network analysis."
+  authors:
+  - ' Ahrim Kim'
+  - " \uAE40\uBC14\uB85C"
+  publisher: Korean Journal of Linguistics
   date: '2018-09-01'
   link: https://doi.org/g9tsm3
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1225-0422
+  title: ISSN 1225-0422 (Print) | Munhag gwa eon'eo | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1225-0422
   orcid: 0000-0002-4456-9616
   plugin: orcid.py
   file: orcid.yaml
@@ -248,14 +318,77 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15859/YSCS..51.201606.203
-  title: A Compilation Method of Electronic Documents for Historical Records - Focused
-    on Historical Elements
-  authors:
-  - ' Kim Ba-ro'
-  publisher: Yeol-sang Journal of Classical Studies
+  title: "\uC5ED\uC0AC\uAE30\uB85D\uC758 \uC804\uC790\uBB38\uC11C \uD3B8\uCC2C\uBC29\
+    \uBC95 \uD0D0\uAD6C - \uC5ED\uC0AC\uC694\uC18C\uB97C \uC911\uC2EC\uC73C\uB85C\
+    \ -"
+  authors: []
+  publisher: "\uC5F4\uC0C1\uACE0\uC804\uC5F0\uAD6C"
   date: '2016-06-01'
   link: https://doi.org/g9tsm7
   orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:9791159010873
+  title: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559 \uC785\uBB38"
+  authors:
+  - "\uAE40\uD604"
+  - "\uC784\uC601\uC0C1"
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uD734\uBD81\uC2A4(HueBooks)"
+  date: '2016-05-31'
+  link: ''
+  orcid: 0000-0002-4456-9616
+  plugin: sources.py
+  file: sources.yaml
+  type: book
+  description: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559\uC774\uB780 \uC815\uBCF4\uD1B5\
+    \uC2E0\uAE30\uC220\uC758 \uB3C4\uC6C0\uC744 \uBC1B\uC544 \uC0C8\uB85C\uC6B4 \uBC29\
+    \uC2DD\uC73C\uB85C \uC218\uD589\uD558\uB294 \uC778\uBB38\uD559 \uC5F0\uAD6C\uC640\
+    \ \uAD50\uC721, \uADF8\uB9AC\uACE0 \uC774\uC640 \uAD00\uACC4\uB41C \uCC3D\uC870\
+    \uC801\uC778 \uC800\uC791 \uD65C\uB3D9\uC744 \uC77C\uCEEB\uB294 \uB9D0\uC774\uB2E4\
+    . \uC774\uAC83\uC740 \uC804\uD1B5\uC801\uC778 \uC778\uBB38\uD559\uC758 \uC8FC\uC81C\
+    \uB97C \uACC4\uC2B9\uD558\uBA74\uC11C \uC5F0\uAD6C \uBC29\uBC95 \uBA74\uC5D0\uC11C\
+    \ \uB514\uC9C0\uD138 \uAE30\uC220\uC744 \uD65C\uC6A9\uD558\uB294 \uC5F0\uAD6C\
+    , \uADF8\uB9AC\uACE0 \uC608\uC804\uC5D0\uB294 \uAC00\uB2A5\uD558\uC9C0 \uC54A\uC558\
+    \uC9C0\uB9CC \uCEF4\uD4E8\uD130\uB97C \uC0AC\uC6A9\uD568\uC73C\uB85C\uC368 \uC2DC\
+    \uB3C4\uD560 \uC218 \uC788\uAC8C \uB41C \uC0C8\uB85C\uC6B4 \uC131\uACA9\uC758\
+    \ \uC778\uBB38\uD559 \uC5F0\uAD6C\uB97C \uD3EC\uD568\uD55C\uB2E4."
+  image: "/images/\uB514\uC9C0\uD138\uC778\uBB38\uD559\uC785\uBB38.jpg"
+  buttons:
+  - type: website
+    link: "https://dh.aks.ac.kr/Edu/wiki/index.php/\uB514\uC9C0\uD138_\uC778\uBB38\
+      \uD559_\uC785\uBB38"
+  - type: LOD
+    link: http://lod.nl.go.kr/resource/KMO201633857
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC778\uBB38\uC815\uBCF4\uD559"
+- id: issn:0253-2875
+  title: "ISSN 0253-2875 (Print) | H\xE0nxu\xE9 y\xE1nji\u016B t\u014Dngx\xF9n | The\
+    \ ISSN Portal"
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0253-2875
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1975-4469
+  title: ISSN 1975-4469 (Print) | Inmun kontencheu | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1975-4469
+  orcid: 0000-0002-4456-9616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/llc/fqag003
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hbmz4n
+  orcid: 0000-0001-9925-9343
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.48550/ARXIV.2509.03932
@@ -371,8 +504,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/IMCOM51814.2021.9377432
-  title: A Cross-Cultural Comparative Study on the Startup Discourse in 2000–2019
-    between United States and China
+  title: "A Cross-Cultural Comparative Study on the Startup Discourse in 2000\u2013\
+    2019 between United States and China"
   authors:
   - Jaeyeon Jang
   - Byungjun Kim
@@ -401,22 +534,45 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22735/JODS.2025.19.2.163
-  title: 'The Imagination of the Border, Opening the Future of K-Content: A Study
-    on the Korean Studies Imagination of Diaspora in ｢K-Pop Demon Hunters｣'
+  title: "The Imagination of the Border, Opening the Future of K-Content: A Study\
+    \ on the Korean Studies Imagination of Diaspora in \uFF62K-Pop Demon Hunters\uFF63"
   authors:
   - Gyungmin Jo
-  publisher: 디아스포라연구
+  publisher: "\uB514\uC544\uC2A4\uD3EC\uB77C\uC5F0\uAD6C"
   date: '2025-12-15'
   link: https://doi.org/hbfpqn
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22814/SGJCR.2025..38.7
-  title: '텍스트마이닝을 이용한 국가유산채널 영상 콘텐츠 수용자 반응 분석: 유튜브 댓글 중심으로'
+  title: "\uD14D\uC2A4\uD2B8\uB9C8\uC774\uB2DD\uC744 \uC774\uC6A9\uD55C \uAD6D\uAC00\
+    \uC720\uC0B0\uCC44\uB110 \uC601\uC0C1 \uCF58\uD150\uCE20 \uC218\uC6A9\uC790 \uBC18\
+    \uC751 \uBD84\uC11D: \uC720\uD29C\uBE0C \uB313\uAE00 \uC911\uC2EC\uC73C\uB85C"
   authors: []
-  publisher: 미디어융합연구
+  publisher: "\uBBF8\uB514\uC5B4\uC735\uD569\uC5F0\uAD6C"
   date: '2025-06-01'
   link: https://doi.org/g9tsnt
+  orcid: 0009-0003-9661-5666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "\uB17C\uB9AC \uC5F0\uC0B0\uC744 \uC774\uC6A9\uD55C \uC8FC\uD589\uCC28\uB7C9\
+    \ \uBD84\uD560 \uBC0F \uCD94\uC801\uC5D0 \uAD00\uD55C \uC5F0\uAD6C"
+  date: '2025-02-19'
+  orcid: 0009-0003-9661-5666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "\uB17C\uB9AC\uC5F0\uC0B0\uC744 \uC774\uC6A9\uD55C \uC8FC\uD589\uCC28\uB7C9\
+    \ \uBD84\uD560 \uBC0F \uCD94\uC801\uC5D0 \uAD00\uD55C \uC5F0\uAD6C"
+  date: '2025-02-19'
+  orcid: 0009-0003-9661-5666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "\uC601\uC5ED\uAE30\uBC18 \uC601\uC0C1 \uCC98\uB9AC\uB97C \uC774\uC6A9\uD55C\
+    \ \uCC28\uB7C9 \uB300\uAE30\uC5F4 \uCE21\uC815\uC5D0 \uAD00\uD55C \uC5F0\uAD6C"
+  publisher: "\uD55C\uAD6DITS\uD559\uD68C 2002\uB144\uB3C4 \uC81C1\uD68C \uC815\uAE30\
+    \uCD1D\uD68C \uBC0F \uD559\uC220\uB300\uD68C"
+  date: '2025-02-19'
+  link: https://koreascience.kr/article/CFKO200222219435392.page
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
   file: orcid.yaml
@@ -425,16 +581,16 @@
     Literature
   authors:
   - Haein Ji
-  publisher: 인문학연구
+  publisher: "\uC778\uBB38\uD559\uC5F0\uAD6C"
   date: '2025-07-31'
   link: https://doi.org/g9wdxs
   orcid: 0000-0001-6864-6789
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23287/KJDH.2024.1.2.4
-  title: Yi Sang Short Story Basic·Sense Dataset
+  title: "Yi Sang Short Story Basic\xB7Sense Dataset"
   authors:
-  - 해인 지
+  - "\uD574\uC778 \uC9C0"
   publisher: Korean Journal of Digital Humanities
   date: '2024-11-30'
   link: https://doi.org/g9txtk
@@ -442,8 +598,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22936/SH.72..202410.021
-  title: A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and
-    Emotion Analysis
+  title: "A Study on the Epiphanies in Yi Sang\u2019s Literature Using Digital Sense\
+    \ and Emotion Analysis"
   authors:
   - ' Ji, Hae-in'
   publisher: 'Sanghur Hakbo: The Journal of Korean Modern Literature'
@@ -465,305 +621,26 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:9791143006370
-  type: book
-  title: 문학 감정 읽는 AI
+  title: "\uBB38\uD559 \uAC10\uC815 \uC77D\uB294 AI"
   authors:
-  - 지해인
-  - 김바로
-  publisher: 커뮤니케이션북스
-  description: 딥러닝 기반 감정 분석으로 이상의 단편 속 감정 흐름을 계량화했다. ‘에피파니’를 정서 패턴에서 포착하고, 비애적 내면
-    구조를 데이터로 확인했다. 분석 자료를 통해 개방형 문학 연구의 길을 연다.
+  - "\uC9C0\uD574\uC778"
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uCEE4\uBBA4\uB2C8\uCF00\uC774\uC158\uBD81\uC2A4"
   date: '2025-08-22'
-  image: /images/research/문학감정읽는AI.jpg
+  link: ''
+  type: book
+  description: "\uB525\uB7EC\uB2DD \uAE30\uBC18 \uAC10\uC815 \uBD84\uC11D\uC73C\uB85C\
+    \ \uC774\uC0C1\uC758 \uB2E8\uD3B8 \uC18D \uAC10\uC815 \uD750\uB984\uC744 \uACC4\
+    \uB7C9\uD654\uD588\uB2E4. \u2018\uC5D0\uD53C\uD30C\uB2C8\u2019\uB97C \uC815\uC11C\
+    \ \uD328\uD134\uC5D0\uC11C \uD3EC\uCC29\uD558\uACE0, \uBE44\uC560\uC801 \uB0B4\
+    \uBA74 \uAD6C\uC870\uB97C \uB370\uC774\uD130\uB85C \uD655\uC778\uD588\uB2E4. \uBD84\
+    \uC11D \uC790\uB8CC\uB97C \uD1B5\uD574 \uAC1C\uBC29\uD615 \uBB38\uD559 \uC5F0\uAD6C\
+    \uC758 \uAE38\uC744 \uC5F0\uB2E4."
+  image: "/images/research/\uBB38\uD559\uAC10\uC815\uC77D\uB294AI.jpg"
   buttons: null
   tags:
-  - 디지털인문학
-  - 전산문학연구
-  - 감정 분석
-  plugin: sources.py
-  file: sources.yaml
-- id: lod:KMO201633857
-  type: book
-  title: 디지털 인문학 입문
-  authors:
-  - 김현
-  - 임영상
-  - 김바로
-  publisher: 휴북스(HueBooks)
-  description: 디지털 인문학이란 정보통신기술의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인
-    저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지
-    않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
-  date: '2016-05-31'
-  image: /images/디지털인문학입문.jpg
-  buttons:
-  - type: website
-    link: https://dh.aks.ac.kr/Edu/wiki/index.php/디지털_인문학_입문
-  - type: LOD
-    link: http://lod.nl.go.kr/resource/KMO201633857
-  tags:
-  - 디지털인문학
-  - 인문정보학
-=======
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
->>>>>>> upstream/main
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC804\uC0B0\uBB38\uD559\uC5F0\uAD6C"
+  - "\uAC10\uC815 \uBD84\uC11D"
   plugin: sources.py
   file: sources.yaml

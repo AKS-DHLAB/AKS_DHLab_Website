@@ -1,11 +1,7 @@
 import json
 from urllib.request import Request, urlopen
 from util import *
-<<<<<<< HEAD
-from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
-=======
 from manubot.cite.handlers import prefix_to_handler as manubot_citable
->>>>>>> upstream/main
 
 
 def main(entry):
@@ -37,38 +33,6 @@ def main(entry):
     # list of sources to return
     sources = []
 
-<<<<<<< HEAD
-    # go through response structure and pull out ids e.g. doi:1234/56789
-    for work in response:
-        # get list of ids
-        ids = []
-        for summary in get_safe(work, "work-summary", []):
-            ids = ids + get_safe(summary, "external-ids.external-id", [])
-
-        # find first id of particular "relationship" type
-        _id = next(
-            (
-                id
-                for id in ids
-                if get_safe(id, "external-id-relationship", "")
-                in ["self", "version-of", "part-of"]
-            ),
-            ids[0] if len(ids) > 0 else None,
-        )
-
-        if _id == None:
-            continue
-
-        # get id and id-type from response
-        id_type = get_safe(_id, "external-id-type", "")
-        id_value = get_safe(_id, "external-id-value", "")
-
-        # create source
-        source = {"id": f"{id_type}:{id_value}"}
-
-        # if not an id type that Manubot can cite, keep citation details
-        if id_type not in manubot_prefixes:
-=======
     # filter id by some criteria. return true to accept, false to reject.
     def filter_id(_id):
         # is id of certain "relationship" type
@@ -134,7 +98,6 @@ def main(entry):
 
         # if not citable by manubot, keep citation details from orcid
         else:
->>>>>>> upstream/main
             # get summaries
             summaries = get_safe(work, "work-summary", [])
 
