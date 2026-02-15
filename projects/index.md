@@ -24,3 +24,7 @@ nav:
 ## More
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+
+--- 
+<!-- _data\projects.yaml <-- 여기서 수정  -->

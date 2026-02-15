@@ -24,3 +24,6 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+
+<!-- _data\orcid.yaml <-- 해당 파일에서 본인의 ORCID 입력 <-- 여기서 수정  -->

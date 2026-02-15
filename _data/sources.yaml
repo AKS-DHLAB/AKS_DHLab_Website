@@ -24,6 +24,176 @@
     - 감정 분석
   # repo: greenelab/meta-review
 
+
+
+
+# 논문 섬네일 추가 원하는 경우 추가
+# Haein Ji
+- id: doi:10.22936/SH.72..202410.021
+  image: /images/research/10.22936_SH.72..202410.021.jpg
+
+
+
+
+
+## 김바로 섹션
+- id: isbn:9791190587372
+  type: book
+  title: 한국과 중국의 디지털인문학 연구 1
+  authors:
+    - 김바로
+  publisher: 문예원
+  description: 한국과 중국에서 발표된 디지털인 문학 논문 가운데 한자·한문 자료를 대상으로 한 우수한 논문들을 엄선하여 한·중 양국에서 각각 발간함으로써 해당 분야의 연구 현황을 일목요연하게 파악하고 가까운 미래에 어떤 연구가 진행될지 전망해볼 수 있도록 하고자 하였다.
+  date: 2023-03-31
+  image: /images/research/한국과중국의디지털인문학연구1.jpg
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202445728
+    - type: website
+      link: https://product.kyobobook.co.kr/detail/S000202976651
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320040639
+  tags:
+    - 디지털인문학
+    - 한국학
+    - 중국학
+
+- id: isbn:9791192365268
+  type: book
+  title: 디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색
+  authors:
+    - 김바로
+  publisher: 박문사
+  description: 6가지 주제에 맞춰 13명의 연구자가 쓴 글과 그들이 함께 토론한 내용을 담아낸 것으로서, 디지털 한국어문학 분야를 모색하는 본격적 출발점이라 해도 과언이 아니다. 국어학, 현대문학, 고전문학, 한문학, 문화연구 등 여러 한국어문학 분야에서 이루어진 디지털 인문학 연구 ․ 교육의 경험은, 한 곳에 정리하기가 쉽지 않은 이야기들이다. 한국어문학 분야의 학술적 문제의식을 디지털 환경에서 전개하고자 하는 연구자에게, 길잡이 역할을 할 수 있기를 바란다.
+  date: 2023-02-28
+  image: /images/research/디지털로읽고데이터로쓰다.jpg
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202325849
+    - type: website
+      link: https://product.kyobobook.co.kr/detail/S000201399949
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314204491
+  tags:
+    - 디지털인문학
+    - 한국어문학
+    - 데이터사이언스
+
+- id: isbn:9791192107073
+  type: book
+  title: AI가 내려온다 - 인공 지능 시대의 고전 문학 연구
+  authors:
+    - 김바로
+    - 강우규
+  publisher: 사이언스북스
+  description: 이런 상황에서 AI라는 호랑이의 등에 용감하게 올라타, 고전 문학의 첩첩산중을 내달린 두 인문학자가 있다. 바로 강우규 중앙대학교 교수와 김바로 한국학중앙연구원 연구원이 그 주인공이다. 이번에 ㈜사이언스북스 신간으로 출간된 『AI가 내려온다: 인공 지능 시대의 고전 문학 연구』는 두 저자가 디지털 분석의 방법론을 실제 사례에 적용해, 고전 문학 작품에 대한 새로운 연구 가능성을 제시한 「AI 인문학 시리즈」의 네 번째 책이다.
+  date: 2022-03-31
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202256067
+    - type: website
+      link: https://product.kyobobook.co.kr/detail/S000061777576
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301099938
+  tags:
+    - 디지털인문학
+    - 인공지능
+    - 고전문학연구
+
+- id: isbn:9788970927848
+  type: book
+  title: 디지털 인문학과 사전
+  authors:
+    - 김바로
+  publisher: 단국대학교출판부
+  date: 2022-02-01
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202223372
+  tags:
+    - 디지털인문학
+    - 사전학
+    - 데이터모델링
+
+- id: isbn:9788967712105
+  type: book
+  title: 금속활자인쇄술과 역사발전Ⅱ - 활자에서 디지털문명으로
+  authors:
+    - 김바로
+  publisher: 청주고인쇄박물관
+  date: 2021-12
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202239754
+    - type: data
+      link: https://www.riss.kr/link?id=M16029683
+  tags:
+    - 고문헌자료정보화연구
+    - 디지털문명
+    - 출판사
+
+- id: isbn:9788982981951
+  type: book
+  title: 인공지능, 문학과 예술을 만나다
+  authors:
+    - 김바로
+  publisher: 연경문화사
+  description: 한국문화융합학회에서 발간한 두 번째 총서이다. 최근 ‘인공지능(AI, artificial intelligence)’에 대한 학술담화는 다양한 분야에서 활발하게 이루어지고 있다. 한국문화융합학회의 총서발간 위원회는 인공지능이라는 주제를 ‘문학과 예술’을 통해 조명해보고자 하였다.
+  date: 2021-04-30
+  image: /images/research/인공지능문학과예술을만나다.jpg
+  buttons:
+    - type: data
+      link: https://www.riss.kr/link?id=M15857449
+    - type: website
+      link: https://product.kyobobook.co.kr/detail/S000001282049
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271626083
+  tags:
+    - 인공지능
+    - 전산문학연구
+    - 예술
+
+- id: isbn:9791190403740
+  type: book
+  title: 미래는 AI의 것일까? : 인공 지능과 미래 사회
+  authors:
+    - 김바로
+  publisher: 사이언스북스
+  description: 이 책은 인공 지능을 이해하고, 이것이 미칠 사회적 영향성에 대해서 설명하고자 하였다. 먼저는 대상이 되는 인공 지능을 이해하고 그것의 가장 중요한 요소인 데이터를 이해하는 것으로 출발하여, 인공 지능으로 인해 발생하게 될 인간 관계적 측면, 그리고 변화된 관계 양상에서 발생하게 될 윤리적 측면을 생각해 보았다. 또한, 인공 지능 기술이 적용되는 문화적 양상 속에서 기술의 타당성과 의미를 알아보고자 하였으며, 나아가 이러한 현상이 지배하게 될 미래를 예측하여 복지와 법에 있어 어떤 변화를 고민해야 할 것인가를 설명하였다. 이러한 설명과 소개는 인공 지능 시대를 준비하며 우리가 생각해야 할 논제를 생성하고 이것이 문제가 되기 전에 함께 생각해 봄으로써 인공 지능이라는 새로운 대상이 인간의 사회 안에 연착륙할 수 있도록 다각적 준비를 하기 위한 노력의 한 부분인 것이다.
+  date: 2020-12-31
+  image: /images/research/미래는AI의것일까.jpg
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO202138239
+    - type: website
+      link: https://product.kyobobook.co.kr/detail/S000001939782
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273511602
+  tags:
+    - 인공지능
+    - 미래사회
+
+- id: isbn:9791155168509
+  type: book
+  title: 시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로
+  authors:
+    - 김바로
+  publisher: 보고사
+  description: 시맨틱 데이터 아카이브의 구축과 활용에 관한 내용을 담은 전문서적입니다.
+  date: 2018-12-10
+  image: /images/research/시맨틱데이터아카이브의구축과활용.jpg
+  buttons:
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO201860026
+     - type: website
+      link: https://product.kyobobook.co.kr/detail/S000001722594
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174858079
+  tags:
+    - 디지털아카이브
+    - 시맨틱웹
+    - 근대역사
+
 - id: isbn:9791159010873
   type: book
   title: 디지털 인문학 입문
@@ -32,26 +202,17 @@
     - 임영상
     - 김바로
   publisher: 휴북스(HueBooks)
-  description: 디지털 인문학이란 정보통신기술의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인 저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지 않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
-  date: 2016-5-31
+  description: 디지털 인문학이란 정보통신기술(Information & Communication Technology)의 도움을 받아 새로운 방식으로 수행하는 인문학 연구와 교육, 그리고 이와 관계된 창조적인 저작 활동을 일컫는 말이다. 이것은 전통적인 인문학의 주제를 계승하면서 연구 방법 면에서 디지털 기술을 활용하는 연구, 그리고 예전에는 가능하지 않았지만 컴퓨터를 사용함으로써 시도할 수 있게 된 새로운 성격의 인문학 연구를 포함한다.
+  date: 2016-05-31
   image: /images/디지털인문학입문.jpg
   buttons:
-    # - type: manubot
-    #   link: https://greenelab.github.io/meta-review/
-    # - type: source
-    #   text: Manuscript Source
-    #   link: https://github.com/greenelab/meta-review
+    - type: data
+      link: https://lod.nl.go.kr/page/KMO201633857
     - type: website
-      link: https://dh.aks.ac.kr/Edu/wiki/index.php/디지털_인문학_입문
-    - type: LOD
-      link: http://lod.nl.go.kr/resource/KMO201633857
+      link: https://product.kyobobook.co.kr/detail/S000001773640
+    - type: website
+      link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85064577
   tags:
     - 디지털인문학
     - 인문정보학
   # repo: greenelab/meta-review
-
-
-# 논문 섬네일 추가 원하는 경우 추가
-# Haein Ji
-- id: doi:10.22936/SH.72..202410.021
-  image: /images/research/10.22936_SH.72..202410.021.jpg

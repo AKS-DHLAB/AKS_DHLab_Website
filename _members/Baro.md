@@ -102,7 +102,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2021.04. / 『인공지능, 문학과 예술을 만나다』(공저), 연경문화사](http://www.riss.kr/link?id=M15857449)
 * [2020.12. / 『미래는 AI의 것일까? : 인공 지능과 미래 사회』(공저), 사이언스북스](http://www.riss.kr/link?id=M15871992)
 * [2018.12. / 『시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로』, 보고사](http://www.riss.kr/link?id=M14988324)
-* [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](http://www.riss.kr/link?id=M14115607)
+* [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](https://lod.nl.go.kr/page/KMO201633857)
 
 ## 학술 논문
 * [2025.06. / 「디지털 시대의 역사 서술 ― 디지털 독본과 디지털 사관심으로 ―」, 『관악사론』](https://history.snu.ac.kr/gwanak_studies/?mod=document&uid=157)
