@@ -60,7 +60,7 @@
 
 - id: isbn:9791192365268
   type: book
-  title: 디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색
+  title: 디지털로 읽고 데이터로 쓰다 - 디지털 한국어문학의 모색
   authors:
     - 김바로
   publisher: 박문사
@@ -86,7 +86,7 @@
     - 김바로
     - 강우규
   publisher: 사이언스북스
-  description: 이런 상황에서 AI라는 호랑이의 등에 용감하게 올라타, 고전 문학의 첩첩산중을 내달린 두 인문학자가 있다. 바로 강우규 중앙대학교 교수와 김바로 한국학중앙연구원 연구원이 그 주인공이다. 이번에 ㈜사이언스북스 신간으로 출간된 『AI가 내려온다: 인공 지능 시대의 고전 문학 연구』는 두 저자가 디지털 분석의 방법론을 실제 사례에 적용해, 고전 문학 작품에 대한 새로운 연구 가능성을 제시한 「AI 인문학 시리즈」의 네 번째 책이다.
+  description: 디지털 분석의 방법론을 실제 사례에 적용해, 고전 문학 작품에 대한 새로운 연구 가능성을 제시한 「AI 인문학 시리즈」의 네 번째 책이다.
   date: 2022-03-31
   buttons:
     - type: data
@@ -155,7 +155,7 @@
 
 - id: isbn:9791190403740
   type: book
-  title: 미래는 AI의 것일까? : 인공 지능과 미래 사회
+  title: 미래는 AI의 것일까? - 인공 지능과 미래 사회
   authors:
     - 김바로
   publisher: 사이언스북스
@@ -175,7 +175,7 @@
 
 - id: isbn:9791155168509
   type: book
-  title: 시맨틱 데이터 아카이브의 구축과 활용 : 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로
+  title: 시맨틱 데이터 아카이브의 구축과 활용 - 제도와 인사의 관계에 대한 근대(1895~1910) 학교 자료를 중심으로
   authors:
     - 김바로
   publisher: 보고사
@@ -185,7 +185,7 @@
   buttons:
     - type: data
       link: https://lod.nl.go.kr/page/KMO201860026
-     - type: website
+    - type: website
       link: https://product.kyobobook.co.kr/detail/S000001722594
     - type: website
       link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174858079
