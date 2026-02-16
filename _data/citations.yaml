@@ -1,387 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.35982/jcs.101.1
-  title: The Study on Semantic Data Construction of Sound and Vocabulary in Chinese
-    Textbooks in Chosun Dynasty
-  authors:
-  - Sooyoung Shin
-  - Ji Eom
-  - Ba-ro Kim
-  - Hyun-ah Khoo
-  publisher: Journal of Chinese Studies
-  date: '2022-08-30'
-  link: https://doi.org/g9tsmd
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.20516/classic.2022.57.167
-  title: 'Public Data Act and humanities data: Applying for open to humanities data
-    held by public institutions'
-  authors:
-  - Ba-ro Kim
-  publisher: The Research of the Korean Classic
-  date: '2022-05-31'
-  link: https://doi.org/g9tsmf
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.14378/kacs.2022.78.78.10
-  title: A study on Database Construction of Chinese Textbooks in Chosun Dynasty
-  authors:
-  - Khoo Hyun-Ah
-  - Kim Ba-Ro
-  - Shin Soo-Young
-  - Eom Ji
-  publisher: Chinese Studies
-  date: '2022-03-31'
-  link: https://doi.org/g9tsmg
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15532/kaja.2022.02.130.65
-  title: A Study on Design and Construction of Digital Archives in the 18th Century
-    Japanese Literary Group
-  authors:
-  - Kyung-jin Jeong
-  - Kim Ba-ro
-  publisher: The Korean Journal of Japanology
-  date: '2022-02-28'
-  link: https://doi.org/g9tsmh
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.33645/cnc.2021.08.43.8.185
-  title: A Study on the Types of Ancestors Using Deep Learning
-  authors:
-  - Seongmoon Kim
-  - Baro Kim
-  publisher: The Korean Society of Culture and Convergence
-  date: '2021-08-30'
-  link: https://doi.org/g9tsmj
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.17320/ORIENT.2021..84.219
-  title: "Dictionaries and Data in the Artificial Intelligence Era \u2012 Exploring\
-    \ for the Korean Historical Dictionary (data) \u2012"
-  authors:
-  - ' Kim Ba-ro'
-  publisher: The Oriental Studies
-  date: '2021-07-01'
-  link: https://doi.org/g9tsmm
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Care we ready to hear the voice of Servalton?
-  publisher: Humanities Contents
-  date: '2021-01-28'
-  link: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10477604
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15400/mccs.2020.08.34.209
-  title: "Exploring The Sijo Research Method Using Digital Analysis Technique -Based\
-    \ On The Monotype Sijo In The \u201CKorean Sijo Dictionary\u201D-"
-  authors:
-  - Seong Moon Kim
-  - Ba-ro Kim
-  publisher: Journal of Multi-Cultural Contents Studies
-  date: '2020-08-31'
-  link: https://doi.org/g9tsmn
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.22143/HSS21.11.4.34
-  title: 'Human Place in the Discussion of Autonomous Vehicles: Features and Limits
-    of Autonomous Vehicles Discussions'
-  authors:
-  - Jiwon Sim
-  - Baro Kim
-  publisher: The Journal of Humanities and Social sciences 21
-  date: '2020-08-30'
-  link: https://doi.org/g9tsmp
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.9728/dcs.2020.21.6.1159
-  title: 'Text analysis of moral foundations using big data : focusing on entrance
-    exam articles'
-  authors:
-  - Hyo-eun Kim
-  - Ba-ro Kim
-  publisher: Journal of Digital Contents Society
-  date: '2020-06-30'
-  link: https://doi.org/g9tsmq
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.19033/sks.2020.6.68.131
-  title: The construction of digital ontology for Korean emotions
-  authors:
-  - Yu-Mi Yi
-  - Ji-Young Park
-  - Ba-Ro Kim
-  publisher: Korean Semantics
-  date: '2020-06-30'
-  link: https://doi.org/g9tsmr
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31147/iall.84.1
-  title: A Study on the Types of Classic Fiction Using Deep Learning Techniques -
-    Focusing on hero novels and romantic novels -
-  authors:
-  - Woo-kyu Kang
-  - Ba-ro Kim
-  publisher: Korean Language and Literature in International Context
-  date: '2020-03-31'
-  link: https://doi.org/g9tsms
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.17070/aeaas.2019.12.56.349
-  title: "A Study on the Methodology of Digital Emotion Analysis for Classical Novels\
-    \ \uFF0DFor The Cloud Dream of the Nine"
-  authors:
-  - Woo-kyu Kang
-  - Ba-ro Kim
-  publisher: The East Asian Ancient Studies
-  date: '2019-12-31'
-  link: https://doi.org/g9tsmt
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1738-2734
-  title: ISSN 1738-2734 (Print) | Yeolsang go'jeon yeon'gu | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1738-2734
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.33645/cnc.2019.10.41.5.747
-  title: A Study on the Sijo Literature Using Digital Analysis Technique
-  authors:
-  - Seong-moon Kim
-  - Ba-ro Kim
-  publisher: The Korean Society of Culture and Convergence
-  date: '2019-10-30'
-  link: https://doi.org/gmm9zs
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15565/jll.2019.06.78.7
-  title: Big Data and Classical Literature Research Methods
-  authors:
-  - Baro Kim
-  - Wookyu Kang
-  publisher: The Journal of Language &amp; Literature
-  date: '2019-06-30'
-  link: https://doi.org/g9tsmv
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1738-1975
-  title: ISSN 1738-1975 (Print) | Wonbulgyo sa'sang gwa jong'gyo munhwa | The ISSN
-    Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1738-1975
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1006-0189
-  title: ISSN 1006-0189 (Print) | Mingzuo xinshang | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1006-0189
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:2635-4691
-  title: ISSN 2635-4691 (Print) | Ingong jineung inmunhak yeongu | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/2635-4691
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31147/iall.80.5
-  title: "A Study on the Transformation of Different Versions of the &lt;So Hyeon-seongnok&gt;\
-    \ Series by Computer - Focused on Ewha Womans University\u2019s 15-volume version\
-    \ and Kyujanggak\u2019s 21-volume version -"
-  authors:
-  - Woo-kyu Kang
-  - Ba-ro Kim
-  publisher: Korean Language and Literature in International Context
-  date: '2019-03-31'
-  link: https://doi.org/g9tsmw
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18587/bh.2019.3.86.265
-  title: Digital Buddhism from the Viewpoint of Digital Humanities
-  authors:
-  - Ba-Ro Kim
-  publisher: BUL GYO HAK BO
-  date: '2019-03-31'
-  link: https://doi.org/g9tsmx
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.33252/sih.2018.12.59.29
-  title: Stylistics Consideration of &lt;Sohyeonseongrok&gt; series
-  authors:
-  - Woo-Kyu Kang
-  - Ba-Ro Kim
-  publisher: STUDIES IN HUMANITIES
-  date: '2018-12-31'
-  link: https://doi.org/g9tsmz
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15801/JE.1.132.201812.181
-  title: "\uC778\uACF5\uC9C0\uB2A5\uC5D0 \uB300\uD55C \uC778\uAC04\uC758 \uAC10\uC815\
-    \ \uACE0\uCC30 -\uC54C\uD30C\uACE0 VS \uC774\uC138\uB3CC \uB300\uAD6D\uC5D0 \uAD00\
-    \uD55C \uC2E0\uBB38\uAE30\uC0AC \uBD84\uC11D\uC744 \uC911\uC2EC\uC73C\uB85C"
-  authors: []
-  publisher: "\uF9D4\u7406\u784F\u7A76"
-  date: '2018-12-01'
-  link: https://doi.org/ggsqxm
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: isbn:9791155168509
-  title: "Simaent'ik teit'o\u0306 ak'aibu\u0306 u\u0306i kuch'uk kwa hwaryong: chedo\
-    \ wa insa u\u0306i kwan'gye e taehan ku\u0306ndae (1895-1910) hakkyo charyo ru\u0306\
-    l chungsim u\u0306ro"
-  authors:
-  - Pa-ro Kim
-  publisher: Pogosa
-  date: '2018-01-01'
-  link: ''
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18855/LISOKO.2018.43.3.002
-  title: "Revisiting the relationship between synonyms of \u2018embarrassment\u2019\
-    \ in Korean (pwukkulewum, changphiham, sswuksulewum, swuchisulewum, swucwupum):\
-    \ A contextual analysis using co-occurring nouns and network analysis."
-  authors:
-  - ' Ahrim Kim'
-  - " \uAE40\uBC14\uB85C"
-  publisher: Korean Journal of Linguistics
-  date: '2018-09-01'
-  link: https://doi.org/g9tsm3
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1225-0422
-  title: ISSN 1225-0422 (Print) | Munhag gwa eon'eo | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1225-0422
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.16900/onji.2018.56.04.101
-  title: The Frequency and Meanings of Emotions in the &lt;So Hyeon-seong nok&gt;
-    Series - Based on statistical analysis
-  authors:
-  - woo kyu Kang
-  - Ba-ro Kim
-  publisher: THE ONJI COLLECTION OF WORKS
-  date: '2018-01-31'
-  link: https://doi.org/g9tsm5
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.19116/theory.2017.22.2.85
-  title: 'Film Reception and Dominant Desire: A Study on the Reception of Roaring
-    Currents with Psychoanalytic Text-Mining'
-  authors:
-  - Kyunghoon Jung
-  - Ba-ro Kim
-  - Minkyu Kim
-  - Jungsik Park
-  - YeiBeech Jang
-  - Woobin Im
-  publisher: The Criticism and Theory Society of Korea
-  date: '2017-06-30'
-  link: https://doi.org/g9tsm6
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15859/YSCS..51.201606.203
-  title: "\uC5ED\uC0AC\uAE30\uB85D\uC758 \uC804\uC790\uBB38\uC11C \uD3B8\uCC2C\uBC29\
-    \uBC95 \uD0D0\uAD6C - \uC5ED\uC0AC\uC694\uC18C\uB97C \uC911\uC2EC\uC73C\uB85C\
-    \ -"
-  authors: []
-  publisher: "\uC5F4\uC0C1\uACE0\uC804\uC5F0\uAD6C"
-  date: '2016-06-01'
-  link: https://doi.org/g9tsm7
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: isbn:9791159010873
-  title: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559 \uC785\uBB38"
-  authors:
-  - "\uAE40\uD604"
-  - "\uC784\uC601\uC0C1"
-  - "\uAE40\uBC14\uB85C"
-  publisher: "\uD734\uBD81\uC2A4(HueBooks)"
-  date: '2016-05-31'
-  link: ''
-  orcid: 0000-0002-4456-9616
-  plugin: sources.py
-  file: sources.yaml
-  type: book
-  description: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559\uC774\uB780 \uC815\uBCF4\uD1B5\
-    \uC2E0\uAE30\uC220\uC758 \uB3C4\uC6C0\uC744 \uBC1B\uC544 \uC0C8\uB85C\uC6B4 \uBC29\
-    \uC2DD\uC73C\uB85C \uC218\uD589\uD558\uB294 \uC778\uBB38\uD559 \uC5F0\uAD6C\uC640\
-    \ \uAD50\uC721, \uADF8\uB9AC\uACE0 \uC774\uC640 \uAD00\uACC4\uB41C \uCC3D\uC870\
-    \uC801\uC778 \uC800\uC791 \uD65C\uB3D9\uC744 \uC77C\uCEEB\uB294 \uB9D0\uC774\uB2E4\
-    . \uC774\uAC83\uC740 \uC804\uD1B5\uC801\uC778 \uC778\uBB38\uD559\uC758 \uC8FC\uC81C\
-    \uB97C \uACC4\uC2B9\uD558\uBA74\uC11C \uC5F0\uAD6C \uBC29\uBC95 \uBA74\uC5D0\uC11C\
-    \ \uB514\uC9C0\uD138 \uAE30\uC220\uC744 \uD65C\uC6A9\uD558\uB294 \uC5F0\uAD6C\
-    , \uADF8\uB9AC\uACE0 \uC608\uC804\uC5D0\uB294 \uAC00\uB2A5\uD558\uC9C0 \uC54A\uC558\
-    \uC9C0\uB9CC \uCEF4\uD4E8\uD130\uB97C \uC0AC\uC6A9\uD568\uC73C\uB85C\uC368 \uC2DC\
-    \uB3C4\uD560 \uC218 \uC788\uAC8C \uB41C \uC0C8\uB85C\uC6B4 \uC131\uACA9\uC758\
-    \ \uC778\uBB38\uD559 \uC5F0\uAD6C\uB97C \uD3EC\uD568\uD55C\uB2E4."
-  image: "/images/\uB514\uC9C0\uD138\uC778\uBB38\uD559\uC785\uBB38.jpg"
-  buttons:
-  - type: website
-    link: "https://dh.aks.ac.kr/Edu/wiki/index.php/\uB514\uC9C0\uD138_\uC778\uBB38\
-      \uD559_\uC785\uBB38"
-  - type: LOD
-    link: http://lod.nl.go.kr/resource/KMO201633857
-  tags:
-  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
-  - "\uC778\uBB38\uC815\uBCF4\uD559"
-- id: issn:0253-2875
-  title: "ISSN 0253-2875 (Print) | H\xE0nxu\xE9 y\xE1nji\u016B t\u014Dngx\xF9n | The\
-    \ ISSN Portal"
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0253-2875
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1975-4469
-  title: ISSN 1975-4469 (Print) | Inmun kontencheu | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1975-4469
-  orcid: 0000-0002-4456-9616
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/llc/fqag003
   title: pendingpublications
   authors: []
@@ -642,5 +260,287 @@
   - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
   - "\uC804\uC0B0\uBB38\uD559\uC5F0\uAD6C"
   - "\uAC10\uC815 \uBD84\uC11D"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791190587372
+  title: "\uD55C\uAD6D\uACFC \uC911\uAD6D\uC758 \uB514\uC9C0\uD138\uC778\uBB38\uD559\
+    \ \uC5F0\uAD6C 1"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uBB38\uC608\uC6D0"
+  date: '2023-03-31'
+  link: ''
+  type: book
+  description: "\uD55C\uAD6D\uACFC \uC911\uAD6D\uC5D0\uC11C \uBC1C\uD45C\uB41C \uB514\
+    \uC9C0\uD138\uC778 \uBB38\uD559 \uB17C\uBB38 \uAC00\uC6B4\uB370 \uD55C\uC790\xB7\
+    \uD55C\uBB38 \uC790\uB8CC\uB97C \uB300\uC0C1\uC73C\uB85C \uD55C \uC6B0\uC218\uD55C\
+    \ \uB17C\uBB38\uB4E4\uC744 \uC5C4\uC120\uD558\uC5EC \uD55C\xB7\uC911 \uC591\uAD6D\
+    \uC5D0\uC11C \uAC01\uAC01 \uBC1C\uAC04\uD568\uC73C\uB85C\uC368 \uD574\uB2F9 \uBD84\
+    \uC57C\uC758 \uC5F0\uAD6C \uD604\uD669\uC744 \uC77C\uBAA9\uC694\uC5F0\uD558\uAC8C\
+    \ \uD30C\uC545\uD558\uACE0 \uAC00\uAE4C\uC6B4 \uBBF8\uB798\uC5D0 \uC5B4\uB5A4\
+    \ \uC5F0\uAD6C\uAC00 \uC9C4\uD589\uB420\uC9C0 \uC804\uB9DD\uD574\uBCFC \uC218\
+    \ \uC788\uB3C4\uB85D \uD558\uACE0\uC790 \uD558\uC600\uB2E4."
+  image: "/images/research/\uD55C\uAD6D\uACFC\uC911\uAD6D\uC758\uB514\uC9C0\uD138\uC778\
+    \uBB38\uD559\uC5F0\uAD6C1.jpg"
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202445728
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000202976651
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320040639
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uD55C\uAD6D\uD559"
+  - "\uC911\uAD6D\uD559"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791192365268
+  title: "\uB514\uC9C0\uD138\uB85C \uC77D\uACE0 \uB370\uC774\uD130\uB85C \uC4F0\uB2E4\
+    \ - \uB514\uC9C0\uD138 \uD55C\uAD6D\uC5B4\uBB38\uD559\uC758 \uBAA8\uC0C9"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uBC15\uBB38\uC0AC"
+  date: '2023-02-28'
+  link: ''
+  type: book
+  description: "6\uAC00\uC9C0 \uC8FC\uC81C\uC5D0 \uB9DE\uCDB0 13\uBA85\uC758 \uC5F0\
+    \uAD6C\uC790\uAC00 \uC4F4 \uAE00\uACFC \uADF8\uB4E4\uC774 \uD568\uAED8 \uD1A0\uB860\
+    \uD55C \uB0B4\uC6A9\uC744 \uB2F4\uC544\uB0B8 \uAC83\uC73C\uB85C\uC11C, \uB514\uC9C0\
+    \uD138 \uD55C\uAD6D\uC5B4\uBB38\uD559 \uBD84\uC57C\uB97C \uBAA8\uC0C9\uD558\uB294\
+    \ \uBCF8\uACA9\uC801 \uCD9C\uBC1C\uC810\uC774\uB77C \uD574\uB3C4 \uACFC\uC5B8\uC774\
+    \ \uC544\uB2C8\uB2E4. \uAD6D\uC5B4\uD559, \uD604\uB300\uBB38\uD559, \uACE0\uC804\
+    \uBB38\uD559, \uD55C\uBB38\uD559, \uBB38\uD654\uC5F0\uAD6C \uB4F1 \uC5EC\uB7EC\
+    \ \uD55C\uAD6D\uC5B4\uBB38\uD559 \uBD84\uC57C\uC5D0\uC11C \uC774\uB8E8\uC5B4\uC9C4\
+    \ \uB514\uC9C0\uD138 \uC778\uBB38\uD559 \uC5F0\uAD6C \u2024 \uAD50\uC721\uC758\
+    \ \uACBD\uD5D8\uC740, \uD55C \uACF3\uC5D0 \uC815\uB9AC\uD558\uAE30\uAC00 \uC27D\
+    \uC9C0 \uC54A\uC740 \uC774\uC57C\uAE30\uB4E4\uC774\uB2E4. \uD55C\uAD6D\uC5B4\uBB38\
+    \uD559 \uBD84\uC57C\uC758 \uD559\uC220\uC801 \uBB38\uC81C\uC758\uC2DD\uC744 \uB514\
+    \uC9C0\uD138 \uD658\uACBD\uC5D0\uC11C \uC804\uAC1C\uD558\uACE0\uC790 \uD558\uB294\
+    \ \uC5F0\uAD6C\uC790\uC5D0\uAC8C, \uAE38\uC7A1\uC774 \uC5ED\uD560\uC744 \uD560\
+    \ \uC218 \uC788\uAE30\uB97C \uBC14\uB780\uB2E4."
+  image: "/images/research/\uB514\uC9C0\uD138\uB85C\uC77D\uACE0\uB370\uC774\uD130\uB85C\
+    \uC4F0\uB2E4.jpg"
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202325849
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000201399949
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314204491
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uD55C\uAD6D\uC5B4\uBB38\uD559"
+  - "\uB370\uC774\uD130\uC0AC\uC774\uC5B8\uC2A4"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791192107073
+  title: "AI\uAC00 \uB0B4\uB824\uC628\uB2E4 - \uC778\uACF5 \uC9C0\uB2A5 \uC2DC\uB300\
+    \uC758 \uACE0\uC804 \uBB38\uD559 \uC5F0\uAD6C"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  - "\uAC15\uC6B0\uADDC"
+  publisher: "\uC0AC\uC774\uC5B8\uC2A4\uBD81\uC2A4"
+  date: '2022-03-31'
+  link: ''
+  type: book
+  description: "\uB514\uC9C0\uD138 \uBD84\uC11D\uC758 \uBC29\uBC95\uB860\uC744 \uC2E4\
+    \uC81C \uC0AC\uB840\uC5D0 \uC801\uC6A9\uD574, \uACE0\uC804 \uBB38\uD559 \uC791\
+    \uD488\uC5D0 \uB300\uD55C \uC0C8\uB85C\uC6B4 \uC5F0\uAD6C \uAC00\uB2A5\uC131\uC744\
+    \ \uC81C\uC2DC\uD55C \u300CAI \uC778\uBB38\uD559 \uC2DC\uB9AC\uC988\u300D\uC758\
+    \ \uB124 \uBC88\uC9F8 \uCC45\uC774\uB2E4."
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202256067
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000061777576
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301099938
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC778\uACF5\uC9C0\uB2A5"
+  - "\uACE0\uC804\uBB38\uD559\uC5F0\uAD6C"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9788970927848
+  title: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559\uACFC \uC0AC\uC804"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uB2E8\uAD6D\uB300\uD559\uAD50\uCD9C\uD310\uBD80"
+  date: '2022-02-01'
+  link: ''
+  type: book
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202223372
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC0AC\uC804\uD559"
+  - "\uB370\uC774\uD130\uBAA8\uB378\uB9C1"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9788967712105
+  title: "\uAE08\uC18D\uD65C\uC790\uC778\uC1C4\uC220\uACFC \uC5ED\uC0AC\uBC1C\uC804\
+    \u2161 - \uD65C\uC790\uC5D0\uC11C \uB514\uC9C0\uD138\uBB38\uBA85\uC73C\uB85C"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uCCAD\uC8FC\uACE0\uC778\uC1C4\uBC15\uBB3C\uAD00"
+  date: ''
+  link: ''
+  type: book
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202239754
+  - type: data
+    link: https://www.riss.kr/link?id=M16029683
+  tags:
+  - "\uACE0\uBB38\uD5CC\uC790\uB8CC\uC815\uBCF4\uD654\uC5F0\uAD6C"
+  - "\uB514\uC9C0\uD138\uBB38\uBA85"
+  - "\uCD9C\uD310\uC0AC"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9788982981951
+  title: "\uC778\uACF5\uC9C0\uB2A5, \uBB38\uD559\uACFC \uC608\uC220\uC744 \uB9CC\uB098\
+    \uB2E4"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uC5F0\uACBD\uBB38\uD654\uC0AC"
+  date: '2021-04-30'
+  link: ''
+  type: book
+  description: "\uD55C\uAD6D\uBB38\uD654\uC735\uD569\uD559\uD68C\uC5D0\uC11C \uBC1C\
+    \uAC04\uD55C \uB450 \uBC88\uC9F8 \uCD1D\uC11C\uC774\uB2E4. \uCD5C\uADFC \u2018\
+    \uC778\uACF5\uC9C0\uB2A5(AI, artificial intelligence)\u2019\uC5D0 \uB300\uD55C\
+    \ \uD559\uC220\uB2F4\uD654\uB294 \uB2E4\uC591\uD55C \uBD84\uC57C\uC5D0\uC11C \uD65C\
+    \uBC1C\uD558\uAC8C \uC774\uB8E8\uC5B4\uC9C0\uACE0 \uC788\uB2E4. \uD55C\uAD6D\uBB38\
+    \uD654\uC735\uD569\uD559\uD68C\uC758 \uCD1D\uC11C\uBC1C\uAC04 \uC704\uC6D0\uD68C\
+    \uB294 \uC778\uACF5\uC9C0\uB2A5\uC774\uB77C\uB294 \uC8FC\uC81C\uB97C \u2018\uBB38\
+    \uD559\uACFC \uC608\uC220\u2019\uC744 \uD1B5\uD574 \uC870\uBA85\uD574\uBCF4\uACE0\
+    \uC790 \uD558\uC600\uB2E4."
+  image: "/images/research/\uC778\uACF5\uC9C0\uB2A5\uBB38\uD559\uACFC\uC608\uC220\uC744\
+    \uB9CC\uB098\uB2E4.jpg"
+  buttons:
+  - type: data
+    link: https://www.riss.kr/link?id=M15857449
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000001282049
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271626083
+  tags:
+  - "\uC778\uACF5\uC9C0\uB2A5"
+  - "\uC804\uC0B0\uBB38\uD559\uC5F0\uAD6C"
+  - "\uC608\uC220"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791190403740
+  title: "\uBBF8\uB798\uB294 AI\uC758 \uAC83\uC77C\uAE4C? - \uC778\uACF5 \uC9C0\uB2A5\
+    \uACFC \uBBF8\uB798 \uC0AC\uD68C"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uC0AC\uC774\uC5B8\uC2A4\uBD81\uC2A4"
+  date: '2020-12-31'
+  link: ''
+  type: book
+  description: "\uC774 \uCC45\uC740 \uC778\uACF5 \uC9C0\uB2A5\uC744 \uC774\uD574\uD558\
+    \uACE0, \uC774\uAC83\uC774 \uBBF8\uCE60 \uC0AC\uD68C\uC801 \uC601\uD5A5\uC131\uC5D0\
+    \ \uB300\uD574\uC11C \uC124\uBA85\uD558\uACE0\uC790 \uD558\uC600\uB2E4. \uBA3C\
+    \uC800\uB294 \uB300\uC0C1\uC774 \uB418\uB294 \uC778\uACF5 \uC9C0\uB2A5\uC744 \uC774\
+    \uD574\uD558\uACE0 \uADF8\uAC83\uC758 \uAC00\uC7A5 \uC911\uC694\uD55C \uC694\uC18C\
+    \uC778 \uB370\uC774\uD130\uB97C \uC774\uD574\uD558\uB294 \uAC83\uC73C\uB85C \uCD9C\
+    \uBC1C\uD558\uC5EC, \uC778\uACF5 \uC9C0\uB2A5\uC73C\uB85C \uC778\uD574 \uBC1C\uC0DD\
+    \uD558\uAC8C \uB420 \uC778\uAC04 \uAD00\uACC4\uC801 \uCE21\uBA74, \uADF8\uB9AC\
+    \uACE0 \uBCC0\uD654\uB41C \uAD00\uACC4 \uC591\uC0C1\uC5D0\uC11C \uBC1C\uC0DD\uD558\
+    \uAC8C \uB420 \uC724\uB9AC\uC801 \uCE21\uBA74\uC744 \uC0DD\uAC01\uD574 \uBCF4\uC558\
+    \uB2E4. \uB610\uD55C, \uC778\uACF5 \uC9C0\uB2A5 \uAE30\uC220\uC774 \uC801\uC6A9\
+    \uB418\uB294 \uBB38\uD654\uC801 \uC591\uC0C1 \uC18D\uC5D0\uC11C \uAE30\uC220\uC758\
+    \ \uD0C0\uB2F9\uC131\uACFC \uC758\uBBF8\uB97C \uC54C\uC544\uBCF4\uACE0\uC790 \uD558\
+    \uC600\uC73C\uBA70, \uB098\uC544\uAC00 \uC774\uB7EC\uD55C \uD604\uC0C1\uC774 \uC9C0\
+    \uBC30\uD558\uAC8C \uB420 \uBBF8\uB798\uB97C \uC608\uCE21\uD558\uC5EC \uBCF5\uC9C0\
+    \uC640 \uBC95\uC5D0 \uC788\uC5B4 \uC5B4\uB5A4 \uBCC0\uD654\uB97C \uACE0\uBBFC\uD574\
+    \uC57C \uD560 \uAC83\uC778\uAC00\uB97C \uC124\uBA85\uD558\uC600\uB2E4. \uC774\uB7EC\
+    \uD55C \uC124\uBA85\uACFC \uC18C\uAC1C\uB294 \uC778\uACF5 \uC9C0\uB2A5 \uC2DC\uB300\
+    \uB97C \uC900\uBE44\uD558\uBA70 \uC6B0\uB9AC\uAC00 \uC0DD\uAC01\uD574\uC57C \uD560\
+    \ \uB17C\uC81C\uB97C \uC0DD\uC131\uD558\uACE0 \uC774\uAC83\uC774 \uBB38\uC81C\uAC00\
+    \ \uB418\uAE30 \uC804\uC5D0 \uD568\uAED8 \uC0DD\uAC01\uD574 \uBD04\uC73C\uB85C\
+    \uC368 \uC778\uACF5 \uC9C0\uB2A5\uC774\uB77C\uB294 \uC0C8\uB85C\uC6B4 \uB300\uC0C1\
+    \uC774 \uC778\uAC04\uC758 \uC0AC\uD68C \uC548\uC5D0 \uC5F0\uCC29\uB959\uD560 \uC218\
+    \ \uC788\uB3C4\uB85D \uB2E4\uAC01\uC801 \uC900\uBE44\uB97C \uD558\uAE30 \uC704\
+    \uD55C \uB178\uB825\uC758 \uD55C \uBD80\uBD84\uC778 \uAC83\uC774\uB2E4."
+  image: "/images/research/\uBBF8\uB798\uB294AI\uC758\uAC83\uC77C\uAE4C.jpg"
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO202138239
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000001939782
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273511602
+  tags:
+  - "\uC778\uACF5\uC9C0\uB2A5"
+  - "\uBBF8\uB798\uC0AC\uD68C"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791155168509
+  title: "\uC2DC\uB9E8\uD2F1 \uB370\uC774\uD130 \uC544\uCE74\uC774\uBE0C\uC758 \uAD6C\
+    \uCD95\uACFC \uD65C\uC6A9 - \uC81C\uB3C4\uC640 \uC778\uC0AC\uC758 \uAD00\uACC4\
+    \uC5D0 \uB300\uD55C \uADFC\uB300(1895~1910) \uD559\uAD50 \uC790\uB8CC\uB97C \uC911\
+    \uC2EC\uC73C\uB85C"
+  authors:
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uBCF4\uACE0\uC0AC"
+  date: '2018-12-10'
+  link: ''
+  type: book
+  description: "\uC2DC\uB9E8\uD2F1 \uB370\uC774\uD130 \uC544\uCE74\uC774\uBE0C\uC758\
+    \ \uAD6C\uCD95\uACFC \uD65C\uC6A9\uC5D0 \uAD00\uD55C \uB0B4\uC6A9\uC744 \uB2F4\
+    \uC740 \uC804\uBB38\uC11C\uC801\uC785\uB2C8\uB2E4."
+  image: "/images/research/\uC2DC\uB9E8\uD2F1\uB370\uC774\uD130\uC544\uCE74\uC774\uBE0C\
+    \uC758\uAD6C\uCD95\uACFC\uD65C\uC6A9.jpg"
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO201860026
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000001722594
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174858079
+  tags:
+  - "\uB514\uC9C0\uD138\uC544\uCE74\uC774\uBE0C"
+  - "\uC2DC\uB9E8\uD2F1\uC6F9"
+  - "\uADFC\uB300\uC5ED\uC0AC"
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9791159010873
+  title: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559 \uC785\uBB38"
+  authors:
+  - "\uAE40\uD604"
+  - "\uC784\uC601\uC0C1"
+  - "\uAE40\uBC14\uB85C"
+  publisher: "\uD734\uBD81\uC2A4(HueBooks)"
+  date: '2016-05-31'
+  link: ''
+  type: book
+  description: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559\uC774\uB780 \uC815\uBCF4\uD1B5\
+    \uC2E0\uAE30\uC220(Information & Communication Technology)\uC758 \uB3C4\uC6C0\uC744\
+    \ \uBC1B\uC544 \uC0C8\uB85C\uC6B4 \uBC29\uC2DD\uC73C\uB85C \uC218\uD589\uD558\uB294\
+    \ \uC778\uBB38\uD559 \uC5F0\uAD6C\uC640 \uAD50\uC721, \uADF8\uB9AC\uACE0 \uC774\
+    \uC640 \uAD00\uACC4\uB41C \uCC3D\uC870\uC801\uC778 \uC800\uC791 \uD65C\uB3D9\uC744\
+    \ \uC77C\uCEEB\uB294 \uB9D0\uC774\uB2E4. \uC774\uAC83\uC740 \uC804\uD1B5\uC801\
+    \uC778 \uC778\uBB38\uD559\uC758 \uC8FC\uC81C\uB97C \uACC4\uC2B9\uD558\uBA74\uC11C\
+    \ \uC5F0\uAD6C \uBC29\uBC95 \uBA74\uC5D0\uC11C \uB514\uC9C0\uD138 \uAE30\uC220\
+    \uC744 \uD65C\uC6A9\uD558\uB294 \uC5F0\uAD6C, \uADF8\uB9AC\uACE0 \uC608\uC804\uC5D0\
+    \uB294 \uAC00\uB2A5\uD558\uC9C0 \uC54A\uC558\uC9C0\uB9CC \uCEF4\uD4E8\uD130\uB97C\
+    \ \uC0AC\uC6A9\uD568\uC73C\uB85C\uC368 \uC2DC\uB3C4\uD560 \uC218 \uC788\uAC8C\
+    \ \uB41C \uC0C8\uB85C\uC6B4 \uC131\uACA9\uC758 \uC778\uBB38\uD559 \uC5F0\uAD6C\
+    \uB97C \uD3EC\uD568\uD55C\uB2E4."
+  image: "/images/\uB514\uC9C0\uD138\uC778\uBB38\uD559\uC785\uBB38.jpg"
+  buttons:
+  - type: data
+    link: https://lod.nl.go.kr/page/KMO201633857
+  - type: website
+    link: https://product.kyobobook.co.kr/detail/S000001773640
+  - type: website
+    link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85064577
+  tags:
+  - "\uB514\uC9C0\uD138\uC778\uBB38\uD559"
+  - "\uC778\uBB38\uC815\uBCF4\uD559"
   plugin: sources.py
   file: sources.yaml
