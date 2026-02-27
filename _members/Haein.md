@@ -9,6 +9,7 @@ links:
   home-page: https://haein.info
   orcid: 0000-0001-6864-6789
 ---
+## Bio
 
 안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다. 한국 근대 문학, 고전 문학(한국 신화), 주로 인터넷을 떠도는 (서사 형식의 이데올로기로서) 현대적 신화들, 즉 '서사'에 주된 관심을 두고 있습니다.
 
@@ -22,7 +23,6 @@ links:
 | Degree | Major | University | Year |
 | :------ | :-------------- | :---------- | :----: |
 | <u>Ph.D. <br> Student</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2025 |
-| <u>M.A. <br> Student</u> | **실천문화교양학** <br> **(Practical Culture & Liberal Arts)** | 한국방송통신대학교 <br> (Korea National Open University) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2026 |
 | <u>M.A.</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2022 |
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
