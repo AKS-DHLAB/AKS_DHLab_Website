@@ -10,8 +10,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.48550/ARXIV.2509.03932
-  title: 'Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights
-    from a Human-Labeled Dataset and AI Modeling'
+  title: 'KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based
+    Poetry Generation in Korean Modern Poetry'
   authors:
   - Iro Lim
   - Haein Ji
@@ -152,12 +152,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22735/JODS.2025.19.2.163
-  title: "The Imagination of the Border, Opening the Future of K-Content: A Study\
-    \ on the Korean Studies Imagination of Diaspora in \uFF62K-Pop Demon Hunters\uFF63"
-  authors:
-  - Gyungmin Jo
-  publisher: "\uB514\uC544\uC2A4\uD3EC\uB77C\uC5F0\uAD6C"
-  date: '2025-12-15'
+  title: "\uAE00\uB85C\uBC8C\uB514\uC544\uC2A4\uD3EC\uB77C\uC5F0\uAD6C\uC18C"
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/hbfpqn
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
