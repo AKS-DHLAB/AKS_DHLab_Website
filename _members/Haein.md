@@ -23,7 +23,6 @@ links:
 | Degree | Major | University | Year |
 | :------ | :-------------- | :---------- | :----: |
 | <u>Ph.D. <br> Student</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2025 |
-| <u>M.A. <br> Student</u> | **실천문화교양학** <br> **(Liberal Arts for Civic Engagement)** | 한국방송통신대학교 <br> (Korea National Open University) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2026 |
 | <u>M.A.</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2022 |
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
