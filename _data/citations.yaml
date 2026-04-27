@@ -185,6 +185,29 @@
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.21457/kars.2026.3.86.1.433
+  title: "Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside\
+    \ \u2018Singularity is Near\u2019 Minor Gallery"
+  authors:
+  - Haein JI
+  publisher: Studies in Religion(The Journal of the Korean Association for the History
+    of Religions)
+  date: '2026-03-31'
+  link: https://doi.org/hbzkr9
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31310/hum.100.15
+  title: "The National Consciousness of 18th-Century Jeju Confucianists Viewed through\
+    \ the Seniority Dispute of Samseong (\u4E09\u59D3)"
+  authors:
+  - Hae In Ji
+  publisher: The Journal of Humanities
+  date: '2026-02-28'
+  link: https://doi.org/hbzksb
+  orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.47293/ihumjj.2025.39.4
   title: Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in
     Literature
