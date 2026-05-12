@@ -62,7 +62,7 @@ links:
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J. & **Ji, H.** (2026). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels**
+1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels**
 1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Accepted]** LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. <i>The Review of Korean Studies, 29</i>(1).
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v2" target="_blank">10.48550/arXiv.2509.03932</a>
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v1" target="_blank">10.48550/arXiv.2509.03932</a>
@@ -119,6 +119,7 @@ links:
 ## Talks/Presentations
 
 - Ji, H. (2026.07) **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea.
+- Ji, H. (2026.06.02). **KPoEM: How to Read the 'Korean emotion' in Literature via Machines?**. Universität Wien, Wien, Republic of Austria.
 - 지해인. (2025.12.31). **디지털 인문학과 분석: 문학 텍스트 감정과 인공지능 신앙 [Digital Humanities and Analytics: Literary Emotions and AI Faith]**. 콜로키움 No.20, 인문학&신학연구소 에라스무스, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/2025_erasmus_DH_seminar.jpg" target="_blank">Program</a>
 - 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 제3회 에라스무스 컨퍼런스-제1회 연세신학대학원 학술컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf.jpg" target="_blank">Program1</a> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf1.pdf" target="_blank">Program2</a>
 - **[토론: 지해인]** Benoit Berthelier. (2025.10.30). **북한 문학에 나타난 재일동포 형상의 계량적 분석**. 2025국제공동연구 심포지엄: 재일코리안의 집은 어디인가 -정동적 사회성과 거주성의 역사를 중심으로-, 동아대학교 젠더·어펙트연구소, 부산, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/home_of_korean_in_japan_poster.jpg" target="_blank">Program</a>
@@ -138,7 +139,9 @@ links:
 - **강의평가 우수교원(Excellence in Teaching Award)**, 한국전통문화대학교(Korea National University of Heritage) ; 2025
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; Ph.D./1-2
 - **연구장학금(Research Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./3-4
+- **성적우수상(Academic Excellence Award)**, 한국방송통신대학교(Korea National Open Uiversity) ; Aug. 2023
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./1-2
+- **성적우수 장학금(Honor Scholarship)**, 한국방송통신대학교(Korea National Open Uiversity) ; Spring, 2022
 
 
 ## Memberships
