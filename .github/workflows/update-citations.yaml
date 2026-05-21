@@ -67,7 +67,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git stash --include-untracked || true
+          
           git pull origin ${{ github.head_ref || github.ref_name }} --rebase
+          
+          git stash pop || true
 
       - name: Commit cache
         if: failure()
