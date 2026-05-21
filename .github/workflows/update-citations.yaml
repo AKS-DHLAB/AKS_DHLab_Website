@@ -61,6 +61,14 @@ jobs:
         run: python _cite/cite.py
         timeout-minutes: 15
 
+      # 원격 최신사항 병합
+      - name: Pull latest changes before commit
+        if: failure() || success()
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.head_ref || github.ref_name }} --rebase
+
       - name: Commit cache
         if: failure()
         uses: stefanzweifel/git-auto-commit-action@v5
