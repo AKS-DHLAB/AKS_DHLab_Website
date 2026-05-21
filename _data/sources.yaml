@@ -100,78 +100,78 @@
     - 인공지능
     - 고전문학연구
 
-- id: isbn:9788970927848
-  type: book
-  title: 디지털 인문학과 사전
-  authors:
-    - 김바로
-  publisher: 단국대학교출판부
-  date: 2022-02-01
-  buttons:
-    # - type: data
-    #   link: https://lod.nl.go.kr/page/KMO202223372
-  tags:
-    - 디지털인문학
-    - 사전학
-    - 데이터모델링
+# - id: isbn:9788970927848
+#   type: book
+#   title: 디지털 인문학과 사전
+#   authors:
+#     - 김바로
+#   publisher: 단국대학교출판부
+#   date: 2022-02-01
+#   buttons:
+#     - type: data
+#       link: https://lod.nl.go.kr/page/KMO202223372
+#   tags:
+#     - 디지털인문학
+#     - 사전학
+#     - 데이터모델링
 
-- id: isbn:9788967712105
-  type: book
-  title: 금속활자인쇄술과 역사발전Ⅱ - 활자에서 디지털문명으로
-  authors:
-    - 김바로
-  publisher: 청주고인쇄박물관
-  date: 2021-12
-  buttons:
-    # - type: data
-    #   link: https://lod.nl.go.kr/page/KMO202239754
-    # - type: data
-    #   link: https://www.riss.kr/link?id=M16029683
-  tags:
-    - 고문헌자료정보화연구
-    - 디지털문명
-    - 출판사
+# - id: isbn:9788967712105
+#   type: book
+#   title: 금속활자인쇄술과 역사발전Ⅱ - 활자에서 디지털문명으로
+#   authors:
+#     - 김바로
+#   publisher: 청주고인쇄박물관
+#   date: 2021-12
+#   buttons:
+#     - type: data
+#       link: https://lod.nl.go.kr/page/KMO202239754
+#     - type: data
+#       link: https://www.riss.kr/link?id=M16029683
+#   tags:
+#     - 고문헌자료정보화연구
+#     - 디지털문명
+#     - 출판사
 
-- id: isbn:9788982981951
-  type: book
-  title: 인공지능, 문학과 예술을 만나다
-  authors:
-    - 김바로
-  publisher: 연경문화사
-  description: 한국문화융합학회에서 발간한 두 번째 총서이다. 최근 ‘인공지능(AI, artificial intelligence)’에 대한 학술담화는 다양한 분야에서 활발하게 이루어지고 있다. 한국문화융합학회의 총서발간 위원회는 인공지능이라는 주제를 ‘문학과 예술’을 통해 조명해보고자 하였다.
-  date: 2021-04-30
-  image: /images/research/인공지능문학과예술을만나다.jpg
-  buttons:
-    # - type: data
-    #   link: https://www.riss.kr/link?id=M15857449
-    # - type: website
-    #   link: https://product.kyobobook.co.kr/detail/S000001282049
-    # - type: website
-    #   link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271626083
-  tags:
-    - 인공지능
-    - 전산문학연구
-    - 예술
+# - id: isbn:9788982981951
+#   type: book
+#   title: 인공지능, 문학과 예술을 만나다
+#   authors:
+#     - 김바로
+#   publisher: 연경문화사
+#   description: 한국문화융합학회에서 발간한 두 번째 총서이다. 최근 ‘인공지능(AI, artificial intelligence)’에 대한 학술담화는 다양한 분야에서 활발하게 이루어지고 있다. 한국문화융합학회의 총서발간 위원회는 인공지능이라는 주제를 ‘문학과 예술’을 통해 조명해보고자 하였다.
+#   date: 2021-04-30
+#   image: /images/research/인공지능문학과예술을만나다.jpg
+#   buttons:
+#     - type: data
+#       link: https://www.riss.kr/link?id=M15857449
+#     - type: website
+#       link: https://product.kyobobook.co.kr/detail/S000001282049
+#     - type: website
+#       link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271626083
+#   tags:
+#     - 인공지능
+#     - 전산문학연구
+#     - 예술
 
-- id: isbn:9791190403740
-  type: book
-  title: 미래는 AI의 것일까? - 인공 지능과 미래 사회
-  authors:
-    - 김바로
-  publisher: 사이언스북스
-  description: 이 책은 인공 지능을 이해하고, 이것이 미칠 사회적 영향성에 대해서 설명하고자 하였다. 먼저는 대상이 되는 인공 지능을 이해하고 그것의 가장 중요한 요소인 데이터를 이해하는 것으로 출발하여, 인공 지능으로 인해 발생하게 될 인간 관계적 측면, 그리고 변화된 관계 양상에서 발생하게 될 윤리적 측면을 생각해 보았다. 또한, 인공 지능 기술이 적용되는 문화적 양상 속에서 기술의 타당성과 의미를 알아보고자 하였으며, 나아가 이러한 현상이 지배하게 될 미래를 예측하여 복지와 법에 있어 어떤 변화를 고민해야 할 것인가를 설명하였다. 이러한 설명과 소개는 인공 지능 시대를 준비하며 우리가 생각해야 할 논제를 생성하고 이것이 문제가 되기 전에 함께 생각해 봄으로써 인공 지능이라는 새로운 대상이 인간의 사회 안에 연착륙할 수 있도록 다각적 준비를 하기 위한 노력의 한 부분인 것이다.
-  date: 2020-12-31
-  image: /images/research/미래는AI의것일까.jpg
-  buttons:
-    # - type: data
-    #   link: https://lod.nl.go.kr/page/KMO202138239
-    # - type: website
-    #   link: https://product.kyobobook.co.kr/detail/S000001939782
-    # - type: website
-    #   link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273511602
-  tags:
-    - 인공지능
-    - 미래사회
+# - id: isbn:9791190403740
+#   type: book
+#   title: 미래는 AI의 것일까? - 인공 지능과 미래 사회
+#   authors:
+#     - 김바로
+#   publisher: 사이언스북스
+#   description: 이 책은 인공 지능을 이해하고, 이것이 미칠 사회적 영향성에 대해서 설명하고자 하였다. 먼저는 대상이 되는 인공 지능을 이해하고 그것의 가장 중요한 요소인 데이터를 이해하는 것으로 출발하여, 인공 지능으로 인해 발생하게 될 인간 관계적 측면, 그리고 변화된 관계 양상에서 발생하게 될 윤리적 측면을 생각해 보았다. 또한, 인공 지능 기술이 적용되는 문화적 양상 속에서 기술의 타당성과 의미를 알아보고자 하였으며, 나아가 이러한 현상이 지배하게 될 미래를 예측하여 복지와 법에 있어 어떤 변화를 고민해야 할 것인가를 설명하였다. 이러한 설명과 소개는 인공 지능 시대를 준비하며 우리가 생각해야 할 논제를 생성하고 이것이 문제가 되기 전에 함께 생각해 봄으로써 인공 지능이라는 새로운 대상이 인간의 사회 안에 연착륙할 수 있도록 다각적 준비를 하기 위한 노력의 한 부분인 것이다.
+#   date: 2020-12-31
+#   image: /images/research/미래는AI의것일까.jpg
+#   buttons:
+#     - type: data
+#       link: https://lod.nl.go.kr/page/KMO202138239
+#     - type: website
+#       link: https://product.kyobobook.co.kr/detail/S000001939782
+#     - type: website
+#       link: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273511602
+#   tags:
+#     - 인공지능
+#     - 미래사회
 
 - id: isbn:9791155168509
   type: book
