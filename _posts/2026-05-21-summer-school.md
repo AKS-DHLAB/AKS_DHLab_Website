@@ -1,6 +1,6 @@
 ---
 title: 2026 디지털인문학 여름교실
-image: https://dh.aks.ac.kr/songyi/images/2026/여름교실/2026_Summer_Workshop.png
+image: https://dh.aks.ac.kr/Edu/wiki/images/c/cb/MakeGraphLogo.jpg
 author: 정송이
 tags:
   - 디지털인문학
@@ -12,10 +12,11 @@ tags:
 
 2026년 한국학중앙연구원 디지털인문학연구소에서 진행하는 워크숍 공지입니다.
 
-## 디지털 교실 환경 설정
-- [FTP 프로그램 설치](https://dh.aks.ac.kr/Edu/wiki/index.php/튜토리얼/ftp)
-- [파일 확장자 표시](https://dh.aks.ac.kr/Edu/wiki/index.php/튜토리얼/파일_확장자_표시)
-- [NotePad++ Reqular Expressions](https://dh.aks.ac.kr/Edu/wiki/index.php/NotePad++)
+## 2026년 디지털인문학 여름교실
+
+https://aks.ac.kr/~songyi/images/2026/여름교실/2026_Summer_Workshop.png
+
+2026년 한국학중앙연구원 디지털인문학연구소
 
 ## 온톨로지 (Ontology)
 - [온톨로지의 이해](https://dh.aks.ac.kr/Edu/wiki/index.php/온톨로지의_이해)
