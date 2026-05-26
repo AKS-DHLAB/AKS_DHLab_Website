@@ -15,7 +15,7 @@ tags:
 ## 2026년 디지털인문학 여름교실
 
 <div align="center">
-  <img src="https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026_Summer_Workshop.png" alt="2026년 디지털인문학 여름교실 포스터" style="max-width: 100%; height: auto; border: 1px solid #eaecef; border-radius: 3px; margin-bottom: 10px;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026_Summer_Workshop.png" alt="2026년 디지털인문학 여름교실 포스터" style="width: 450px; height: auto; border: 1px solid #eaecef; border-radius: 6px; margin-bottom: 20px;">
 </div>
 
 ---
