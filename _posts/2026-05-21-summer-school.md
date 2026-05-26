@@ -48,7 +48,7 @@ tags:
 
 ## 📄 서류 첨부
 
-* **[개인정보 이용동의서 양식 다운로드](https://drive.google.com/drive/folders/1TQt-hRQG5WkJOiYIzV4CpJHJ-V168sSs?usp=sharing)**
+* **[개인정보 이용동의서 양식 다운로드](https://forms.gle/KAYmhBXkzm2Dqu9B9)**
   * *본 워크숍 진행 중 숙박 및 주차 등의 편의 제공을 위해 신청자의 개인정보를 수집하고 있습니다. 양식을 다운로드하여 확인해 주시기 바랍니다.*
 
 ---
