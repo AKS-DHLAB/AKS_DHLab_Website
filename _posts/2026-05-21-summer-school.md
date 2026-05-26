@@ -14,7 +14,7 @@ tags:
 
 ## 2026년 디지털인문학 여름교실
 
-images/2026_Summer_Workshop.png
+images/2026Summer_Workshop.png
 
 2026년 한국학중앙연구원 디지털인문학연구소
 
