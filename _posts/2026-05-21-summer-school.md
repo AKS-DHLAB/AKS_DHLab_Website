@@ -26,13 +26,13 @@ tags:
 * **일시:** 2026년 8월 19일 (화) ~ 8월 20일 (수)
 * **장소:** 한국학중앙연구원 문형관 지하 107호
 * **신청 기간:** 2026년 6월 1일 (월) ~ 6월 26일 (금) 오후 7시
-* **수강료:** **50,000원** (선정 결과 안내 후, 수강이 확정된 분들께 입금 계좌를 개별적으로 안내해 드립니다.)
+* **수강료:** **50,000원** (7월 1일 수강선정 안내를 받으신 후 입금해 주시면 됩니다.)
 
 ---
 
 ## 📝 참가 신청 안내
 
-본 워크숍의 수강 신청은 아래의 **구글 폼(Google Forms)**을 통해서만 접수를 받습니다.
+본 워크숍의 수강 신청은 아래의 구글 폼(Google Forms)을 통해서만 접수를 받습니다.
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY3VyxHv01fvek0UoI9Fatl1HXaHy3P0yaGbBWuZfFnWFELg/viewform?usp=header" target="_blank" style="background-color: #238636; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); display: inline-block;">
@@ -42,7 +42,7 @@ tags:
 
 ### ⏳ 향후 주요 일정
 * **수강 선정 및 수강료 입금 안내:** 2026년 7월 1일 (수) 대상자에게 개별 문자 및 메일 발송
-* **참가 최종 확정 및 안내:** 2026년 7월 3일 (금) 개인 연락처 및 이메일로 최종 전달
+* **참가 최종 확정 안내:** 2026년 7월 3일 (금) 개인 연락처 및 이메일로 최종 전달
 
 ---
 
