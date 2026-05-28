@@ -29,7 +29,8 @@ links:
 - 사무직, 연세대학교 의과대학 인문사회의학교실 의사학과 〈해방 전 세브란스인 데이터베이스 구축〉 사업 ; 2020. 12. - 2024. 4.  
 
 ### Projects
-- 연구원, 국립중앙도서관 〈코리안메모리 홈페이지 및 콘텐츠 구축 개선방안〉 자문 보고서, 연구책임자 김바로 ;  2025. 11. 10. - 12. 12.
+- 연구보조원, 국립중앙도서관 〈AI 신기술 활용 고문헌 업무지원을 위한 기초연구〉, 연구책임자 김바로 ;  2026. 5. 19. - 9. 15.
+- 연구원, 국립중앙도서관 〈코리안메모리 홈페이지 및 콘텐츠 구축 개선방안〉, 연구책임자 김바로 ;  2025. 11. 10. - 12. 12.
 - 연구보조원, 한국학중앙연구원 한국학기초연구 공동과제 〈조선시대 종묘 배향공신 연구〉, 연구책임자 김바로 ; 2025. 1 - 2025. 12.
 - 연구원, 여성가족부 한국여성인원진흥원 '위안부'문제연구소 〈일본군 '위안부' 문제 관련 기록물 DB 구축 및 연표 보완 사업〉, 연구책임자 이세영 ; 2023. 3. - 2023. 7.
 - 연구원, 여성가족부 한국여성인원진흥원 '위안부'문제연구소 〈일본군 '위안부' 관련 텍스트 및 데이터 자료 구축〉, 연구책임자 소현숙 ; 2022. 4 - 2022. 11.
@@ -40,9 +41,9 @@ links:
 - 이재열, 「동아시아 고문헌의 디지털 비판정본: 유동적 정본의 가능성」, 『한문학보』 51, 2024.  
 
 ### eBooks
-- 김바로, 김서윤, 조경민, 신은선, 이재열, 임이로, 류현정. 2024. **정조명찬《인물고》LOD 시스템 구축 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/16878" target="_blank">book/16878</a>
-- 김바로, 정송이, 이재열, 신은선, 지해인, 김서윤, 조하영, 임이로. 2024. **XML(TEI) with 인문학 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
-- 김바로, 전가람, 신은선, 이재열, 정송이, 지해인, 이주희, 김서윤, 조하영, 잔싱롱, 정경진, 채자문. 2023. **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
+- 김바로·김서윤·조경민·신은선·이재열·임이로·류현정, 『정조명찬《인물고》LOD 시스템 구축』, 위키독스, 2024. <a href="https://wikidocs.net/book/16878" target="_blank">book/16878</a>
+- 김바로·정송이·이재열·신은선·지해인·김서윤·조하영·임이로, 『XML(TEI) with 인문학』, 위키독스, 2024. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
+- 김바로·전가람·신은선·이재열·정송이·지해인·이주희·김서윤·조하영·잔싱롱·정경진·채자문, 『선행 온톨로지 모델 탐색』, 위키독스, 2023. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
 
 ### Presentations
 - "The Qin and Han Metropolitan Areas as Local Administrative Districts", *Chang’an 26 BCE, from Drains to Dreams*, Center for Chinese Studies at U.C.Berkeley, 2011.
