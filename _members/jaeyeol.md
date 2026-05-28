@@ -42,8 +42,8 @@ links:
 
 ### eBooks
 - 김바로·김서윤·조경민·신은선·이재열·임이로·류현정, 『정조명찬《인물고》LOD 시스템 구축』, 위키독스, 2024. <a href="https://wikidocs.net/book/16878" target="_blank">book/16878</a>
-- 김바로·정송이·이재열·신은선·지해인·김서윤·조하영·임이로, 『XML(TEI) with 인문학』, 위키독스, 2024. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
-- 김바로·전가람·신은선·이재열·정송이·지해인·이주희·김서윤·조하영·잔싱롱·정경진·채자문, 『선행 온톨로지 모델 탐색』, 위키독스, 2023. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
+- 김바로·정송이·이재열·신은선·지해인·김서윤·조하영·임이로, 『XML(TEI) with 인문학』, 위키독스, 2024.<br> <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
+- 김바로·전가람·신은선·이재열·정송이·지해인·이주희·김서윤·조하영·잔싱롱·정경진·채자문, 『선행 온톨로지 모델 탐색』, 위키독스, 2023.<br> <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
 
 ### Presentations
 - "The Qin and Han Metropolitan Areas as Local Administrative Districts", *Chang’an 26 BCE, from Drains to Dreams*, Center for Chinese Studies at U.C.Berkeley, 2011.
