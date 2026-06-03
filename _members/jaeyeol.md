@@ -14,7 +14,7 @@ links:
 안녕하세요, 인문정보학과 박사과정에 재학 중인 **이재열**입니다. 
 
 ### Research Interests
-- 디지털 비판정본 (Digital Critical Editions) 
+- 디지털 비판정본 (Digital Critical Editions), 디지털 학술본(Digital Scholarly Edition) 
 - 온톨로지 (Ontology)
 
 ### Education
