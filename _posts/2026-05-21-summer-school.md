@@ -1,6 +1,6 @@
 ---
 title: 2026 디지털인문학 여름교실
-image: https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026Summer_Workshop.png
+image: https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026_Summer_Workshop.png
 author: 정송이
 tags:
   - 디지털인문학
@@ -15,7 +15,7 @@ tags:
 ## 2026년 디지털인문학 여름교실
 
 <div align="center">
-  <img src="https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026Summer_Workshop.png" alt="2026년 디지털인문학 여름교실 포스터" style="width: 45%; height: auto; border: 1px solid #eaecef; border-radius: 6px; margin-bottom: 20px;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026_Summer_Workshop.png" alt="2026년 디지털인문학 여름교실 포스터" style="width: 45%; height: auto; border: 1px solid #eaecef; border-radius: 6px; margin-bottom: 20px;">
 </div>
 
 ---
