@@ -13,7 +13,7 @@ links:
 
 안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다. 한국 근대 문학, 고전 문학(한국 신화), 주로 인터넷을 떠도는 (서사 형식의 이데올로기로서) 현대적 신화들, 즉 '서사'에 주된 관심을 두고 있습니다.
 
-[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**, [흐로닝언 대학교](https://www.rug.nl/?lang=en)(University of Groningen) **객원연구원**, [한국전통문화대학교](https://www.knuh.ac.kr/)(Korea National University of Heritage) **강사**로서 지속적인 연구·강의 경력을 쌓고 있으며, 현재 인문 데이터 설계·구축·분석 등을 주제로 한 강의·워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
+[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/)(Erasmus Institute for Humanities and Theologies) **연구위원**, [흐로닝언 대학교](https://www.rug.nl/?lang=en)(University of Groningen) **객원연구원**, [한국전통문화대학교](https://www.knuh.ac.kr/)(Korea National University of Heritage) **강사**로서 지속적인 연구·강의 경력을 쌓고 있으며, 현재 인문 데이터 설계·구축·분석 등을 주제로 한 강의·워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
 그 외, 실담범자 명인 법헌 스님께 실담전밀계(悉曇傳密戒)를 받은 전수자로서, **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
 
@@ -30,19 +30,20 @@ links:
 ### Non-Degree Education
 - **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
 - **2026 디지털인문학(DH) 겨울학교**, 부산대학교(Pusan National University) ; Feb. 2026
-- **서교연 비평이론학교 S1 감각, 이미지, 정동**, 서교인문사회연구실 ; May 2025 - Aug. 2025
+- **서교연 비평이론학교 S1 감각, 이미지, 정동**, 서교인문사회연구실 ; May 2025 - Aug. 2025 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/비평이론학교_감각_이미지_정동.jpg" target="_blank">Program</a>
 - **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
 - **2023 디지털인문학(DH) 겨울학교**, 한국과학기술원(Korea Advanced Institute of Science and Technology, KAIST) ; Jan. 2023
 - **데이터 기반 인공지능 시스템 엔지니어 양성 과정**, 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
+  - K-Digital 인공지능 시스템 개발자 양성 과정 해커톤(캐글) 준우승 수상
 
 
 ## Work Experience
 
-- **연구위원(Researcher)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
-- **편집간사(Editorial Assistant)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
-- **연구원(Researcher)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
-- **객원연구원(Guest Researcher)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
-- **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Aug. 2026
+- **[연구위원(Researcher)](https://erasmus.imweb.me/8dgks3k7)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
+- **[편집간사(Editorial Assistant)](https://accesson.kr/kjdh/menu/7554/7557/)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
+- **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
+- **[연구원(Researcher)](https://digitalhumanities.kr/members/Haein.html)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
+- **[객원연구원(Guest Researcher)](https://www.rug.nl/staff/h.ji/?lang=en)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
 - **편집자(Editor)**, ㈜이감(Yigam Co., Ltd.) ; Jan. 2019 - Mar. 2021
 - **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
 
@@ -58,12 +59,15 @@ links:
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
 ### Articles
-<!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
+<!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.-->
+<!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2027). **한국 현대 이교(異敎) 신앙과 그 실천: 사례 연구를 중심으로**.-->
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인, & 김가연. (2026). **허구적 가능세계의 가상 민속지식에 대한 소고: 《포켓몬스터》 시리즈 도감 정보를 중심으로**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **｢성주풀이｣ 마모와 고착의 두 향방: 이본 코퍼스의 계량적 분석 연구**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **고려 국조신화 역사화·신화화 비교 연구: ｢고려세계｣와 『제왕운기』를 중심으로**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J. & **Ji, H.** (2026). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
-1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels**
-1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Accepted]** LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. <i>The Review of Korean Studies, 29</i>(1).
+1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels**. <i>Journal of Open Humanities Data</i>.
+1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) ![KCI Badge](https://img.shields.io/badge/KCI-0355A3?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEHBgkIBwEKCgkLDRYPDQwMDRsUFRAWIBEiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGislHyU3Nys3Nzc3Nys3NzcrNzcrNzc3Nzc3NzcrNys3Kzc3Nys3NzcrKys3Nys3Kzc3KzcrN//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBwT/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMRBAYhABJRBRMWQXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwB1FZfvWX1RYwcY7ThBMwVBGI5zGpx1XxdKiFXm2457CU41rt+4rmonVNVF+hNP2nYCwTtWW4AEZEmJ+aFqqm2ag7/EUtrP62nBPOlK1xkKqz//2Q==&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. <i>The Review of Korean Studies, 29</i>(1), 161-206. <i class="ai ai-doi"></i> <a href="https://doi.org/10.25024/review.2026.29.1.161" target="_blank">10.25024/review.2026.29.1.161</a> 
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v2" target="_blank">10.48550/arXiv.2509.03932</a>
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v1" target="_blank">10.48550/arXiv.2509.03932</a>
 1. ![KCI Badge](https://img.shields.io/badge/KCI-0355A3?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEHBgkIBwEKCgkLDRYPDQwMDRsUFRAWIBEiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGislHyU3Nys3Nzc3Nys3NzcrNzcrNzc3Nzc3NzcrNys3Kzc3Nys3NzcrKys3Nys3Kzc3KzcrN//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBwT/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMRBAYhABJRBRMWQXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwB1FZfvWX1RYwcY7ThBMwVBGI5zGpx1XxdKiFXm2457CU41rt+4rmonVNVF+hNP2nYCwTtWW4AEZEmJ+aFqqm2ag7/EUtrP62nBPOlK1xkKqz//2Q==&logoColor=white) 지해인. (2026). **특이점의 신화 Word2Vec으로 읽기－디시인사이드 ‘특이점이 온다’ 마이너 갤러리를 중심으로－ [Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside 'Singularity is Near' Minor Gallery]**. <i>종교연구, 86</i>(1), 433-468. <i class="ai ai-doi"></i> <a href="https://doi.org/10.21457/kars.2026.3.86.1.433" target="_blank">10.21457/kars.2026.3.86.1.433</a>
@@ -89,7 +93,7 @@ links:
 1. **KNoTE (Korean Novel TEI Encoded)**
    - **KNoTE dataset v4**: Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., Lee, J.-. yeol ., Jo, G., Lim, I., Ismayilov, O., & Kim, B. (2026). KNoTE dataset [Data set]. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.19813475" target="_blank">10.5281/zenodo.19813475</a>
 1. **KPoEM (Korean Poetry Emotion Mapping)**
-   - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
+   - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. In KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry (Vol. 29, Number 1, pp. 161–206). Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
    - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
 1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
@@ -118,8 +122,8 @@ links:
 
 ## Talks/Presentations
 
-- Ji, H. (2026.07) **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea.
-- Ji, H. (2026.06.02). **KPoEM: How to Read the 'Korean emotion' in Literature via Machines?**. Universität Wien, Wien, Republic of Austria.
+- Ji, H. (2026.07.29) **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/DH2026_Main_Conference_Program.pdf" target="_blank">Program</a>
+- Ji, H. (2026.06.02). **KPoEM: How to Read the 'Korean emotion' in Literature via Machines?**. Universität Wien, Wien, Republic of Austria. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/Wien_Special_Lecture_Ji.pdf" target="_blank">Program</a>
 - 지해인. (2025.12.31). **디지털 인문학과 분석: 문학 텍스트 감정과 인공지능 신앙 [Digital Humanities and Analytics: Literary Emotions and AI Faith]**. 콜로키움 No.20, 인문학&신학연구소 에라스무스, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/2025_erasmus_DH_seminar.jpg" target="_blank">Program</a>
 - 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 제3회 에라스무스 컨퍼런스-제1회 연세신학대학원 학술컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf.jpg" target="_blank">Program1</a> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf1.pdf" target="_blank">Program2</a>
 - **[토론: 지해인]** Benoit Berthelier. (2025.10.30). **북한 문학에 나타난 재일동포 형상의 계량적 분석**. 2025국제공동연구 심포지엄: 재일코리안의 집은 어디인가 -정동적 사회성과 거주성의 역사를 중심으로-, 동아대학교 젠더·어펙트연구소, 부산, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/home_of_korean_in_japan_poster.jpg" target="_blank">Program</a>
