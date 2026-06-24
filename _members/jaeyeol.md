@@ -50,5 +50,6 @@ links:
 
 ### Awards and Honors
 
+- 한국연구재단 인문사회분야 박사과정생연구장려금, 2026.09. - 2028.08. 
 - Doctoral Fellowship, Chiang Ching-kuo Foundation for International Scholarly Exchange, USA, 2015.
 - 우수논문상, 연세대학교 대학원, 2007.
