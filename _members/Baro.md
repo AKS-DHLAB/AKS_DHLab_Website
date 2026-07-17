@@ -108,7 +108,7 @@ I am working to integrate the depth of the humanities with the innovation of dig
 * [2016.05. / 『디지털 인문학 입문』(공저), HUEBOOKs : 한국외국어대학교지식출판원](https://lod.nl.go.kr/page/KMO201633857)
 
 ## 학술 논문
-* [2025.06. / 「디지털 시대의 역사 서술 ― 디지털 독본과 디지털 사관심으로 ―」, 『관악사론』](https://history.snu.ac.kr/gwanak_studies/?mod=document&uid=157)
+* [2025.06. / 「디지털 시대의 역사 서술 ― 디지털 독본과 디지털 사관 ―」, 『관악사론』](https://history.snu.ac.kr/gwanak_studies/?mod=document&uid=157)
 * [2025.01. / 「조선총독부박물관 문서 XML 데이터 설계 및 활용 시론 －XML 기반 다중 분류 체계 및 내⋅외부 데이터 연결을 중심으로－」, 『인문과학』](https://www.riss.kr/link?id=A109572690)
 * [2024.12. / 「국문장편소설의 감정에 대한 정성적·정량적 연구 시론–&lt;창선감의록&gt;과 &lt;소현성록&gt;을 중심으로–」, 『고소설연구』](https://www.riss.kr/link?id=A109520715)
 * [2024.05. / 「국사편찬위원회 한국근현대잡지자료 데이터(2024.03.27.)」, 『디지털인문학』](https://doi.org/10.23287/KJDH.2024.1.1.8)
