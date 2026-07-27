@@ -203,17 +203,6 @@
   orcid: 0000-0001-6864-6789
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31310/hum.100.15
-  title: "The National Consciousness of 18th-Century Jeju Confucianists Viewed through\
-    \ the Seniority Dispute of Samseong (\u4E09\u59D3)"
-  authors:
-  - Hae In Ji
-  publisher: The Journal of Humanities
-  date: '2026-02-28'
-  link: https://doi.org/hbzksb
-  orcid: 0000-0001-6864-6789
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.47293/ihumjj.2025.39.4
   title: Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in
     Literature
