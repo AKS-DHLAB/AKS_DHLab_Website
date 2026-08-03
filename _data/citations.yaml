@@ -460,6 +460,7 @@
   plugin: sources.py
   file: sources.yaml
 - type: book
+  // isbn: 9791190587372
   title: "\uB514\uC9C0\uD138 \uC778\uBB38\uD559 \uC785\uBB38"
   authors:
   - "\uAE40\uD604"
