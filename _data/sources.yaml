@@ -194,8 +194,8 @@
     - 시맨틱웹
     - 근대역사
 
-- 
-  type: book
+- type: book
+  // isbn: 9791190587372
   title: 디지털 인문학 입문
   authors:
     - 김현
