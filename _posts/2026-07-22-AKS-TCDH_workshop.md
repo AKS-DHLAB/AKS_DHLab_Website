@@ -1,6 +1,6 @@
 ---
 title: AKS-TCDH Workshop
-image: https://github.com/AKS-DHLAB/AKS_DHLab_Website/tree/main/images/blog.AKS-TCDH_workshop_poster.png
+image: https://github.com/AKS-DHLAB/AKS_DHLab_Website/tree/main/images/blog/AKS-TCDH_workshop_poster.png
 author: 지해인
 tags:
   - 디지털인문학
@@ -8,7 +8,7 @@ tags:
   - 교육행사
 ---
 
-# [International Exchange · Korea–Germany] 2026 Digital Humanities Workshop
+# International Exchange · Korea–Germany: 2026 Digital Humanities Workshop
 
 ### **Knowledge Graphs of Literary Crossings: Modeling European–Korean Literary Translation History Using Linked Open Data**
 
@@ -16,7 +16,6 @@ The **Center for Digital Humanities at the Academy of Korean Studies (AKS)** and
 
 Under the theme ***"Knowledge Graphs of Literary Crossings: Modeling European-Korean Literary Translation History Using Linked Open Data,"*** this workshop brings together international researchers and scholars to share cutting-edge research, methodologies, and infrastructure developments in the modeling and analysis of literary translation history.
 
----
 
 ## 📌 Event Overview
 
@@ -30,27 +29,6 @@ Under the theme ***"Knowledge Graphs of Literary Crossings: Modeling European-Ko
 
 * **Event Director**: Byungjun Kim, Assistant Professor, Center for Digital Humanities
 
-
----
-
-## 📅 Event Schedule
-
-| Date | Time | Program |
-| --- | --- | --- |
-| **Tue, July 21** | Check-in | Arrival & lodging of German research team (AKS Guesthouse)
-
- |
-| **Wed, July 22** | 14:00 – 17:30 | Presentation of AKS Digital Humanities Center & evening dinner
-
- |
-| **Thu, July 23** | 10:00 – 18:00 | Joint workshop of German and AKS research teams
-
- |
-| **Fri, July 24** | 10:00 – 12:00 | Workshop wrap-up & strategy meeting for Horizon Europe (ERC project)
-
- |
-
----
 
 ## 👥 Participants & Presentations
 
