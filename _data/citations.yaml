@@ -43,17 +43,17 @@
   orcid: 0000-0001-9925-9343
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/ARXIV.2509.03932
+- id: doi:10.25024/REVIEW.2026.29.1.006
   title: 'KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based
     Poetry Generation in Korean Modern Poetry'
   authors:
-  - Iro Lim
-  - Haein Ji
-  - Byungjun Kim
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/g92r9z
-  orcid: 0009-0006-1600-8818
+  - ' LIM I RO'
+  - ' Kim, Byungjun'
+  - ' Haein Ji'
+  publisher: The Review of Korean Studies
+  date: '2026-06-01'
+  link: https://doi.org/hcdfc4
+  orcid: 0000-0001-6864-6789
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5334/johd.205
@@ -207,19 +207,6 @@
   orcid: 0009-0003-9661-5666
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.25024/REVIEW.2026.29.1.006
-  title: 'KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based
-    Poetry Generation in Korean Modern Poetry'
-  authors:
-  - ' LIM I RO'
-  - ' Kim, Byungjun'
-  - ' Haein Ji'
-  publisher: The Review of Korean Studies
-  date: '2026-06-01'
-  link: https://doi.org/hcdfc4
-  orcid: 0000-0001-6864-6789
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.21457/kars.2026.3.86.1.433
   title: "Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside\
     \ \u2018Singularity is Near\u2019 Minor Gallery"
@@ -241,6 +228,19 @@
   date: '2026-02-28'
   link: https://doi.org/hbzksb
   orcid: 0000-0001-6864-6789
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2509.03932
+  title: 'KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based
+    Poetry Generation in Korean Modern Poetry'
+  authors:
+  - Iro Lim
+  - Haein Ji
+  - Byungjun Kim
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g92r9z
+  orcid: 0009-0006-1600-8818
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.47293/ihumjj.2025.39.4
