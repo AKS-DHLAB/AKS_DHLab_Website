@@ -20,6 +20,8 @@ Under the theme ***"Knowledge Graphs of Literary Crossings: Modeling European-Ko
   <img src="https://raw.githubusercontent.com/AKS-DHLAB/AKS_DHLab_Website/refs/heads/main/images/blog/AKS-TCDH_workshop_photo.jpg" alt="AKS-TCDH workshop">
 </div>
 
+The event concluded with great success, largely owed to the active engagement and insightful contributions of all participants. We wish to take this opportunity to extend our deepest gratitude to everyone who attended.
+
 ## 📌 Event Overview
 
 <div align="center">
