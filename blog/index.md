@@ -1,13 +1,13 @@
 ---
-title: Education
+title: Blog
 nav:
   order: 4
-  tooltip: Education and events
+  tooltip: Blog
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Education
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-한국학중앙연구원 디지털인문학연구소에서 진행하는 교육행사 및 교육자료가 업로드됩니다. 아래 검색 기능을 활용해 주세요.
+한국학중앙연구원 디지털인문학연구소에서 진행하는 행사 및 교육자료가 업로드됩니다. 아래 검색 기능을 활용해 주세요.
 
 ## 교육자료
 - 김바로, 전가람, 지해인, 이주희, 구현회, 윤종훈, & 한태빈. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. 위키독스. [https://wikidocs.net/book/8450](https://wikidocs.net/book/8450)
@@ -19,8 +19,6 @@ nav:
 - 김병준, 지해인, 김가연, 박선영, 이하경, 이병주, & 정채연. (2026). **AI를 활용한 한국 근대소설 TEI 태깅 - 디지털인문학 시리즈**. 위키독스. [https://wikidocs.net/book/19071](https://wikidocs.net/book/19071)
 - 김바로, 김가연, 박선영, 이재열, 임이로, 조아라, 정송이. (2025). **인공지능 인문학 - 디지털인문학 시리즈**. 위키독스. [https://wikidocs.net/book/18796](https://wikidocs.net/book/18796)
 
-## 교육행사
-- 2026 디지털인문학 여름교실 (기간: 8월 19일(수) ~ 8월 20일(목))
 
 {% include section.html %}
 
