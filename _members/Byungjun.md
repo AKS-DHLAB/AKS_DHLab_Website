@@ -12,13 +12,12 @@ links:
 ---
 # **Byungjun Kim (김병준)**
 
-Assistant Professor  
-Cultural Informatics, The Graduate School of Korean Studies, The Academy of Korean Studies  
-Co-Director, Center for Digital Humanities (<https://digitalhumanities.kr>)  
-323, Haogae-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea  
-<bjkim@byungjunkim.com> & <bjkim@aks.ac.kr>  
-+82) 031-730-8161  
-<https://byungjunkim.com>
+**Assistant Professor**, Cultural Informatics  
+The Graduate School of Korean Studies, The Academy of Korean Studies  
+**Co-Director**, Center for Digital Humanities @ AKS
+
+<bjkim@aks.ac.kr> · <bjkim@byungjunkim.com> · +82-31-730-8161  
+323 Haogae-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
 ---
 
