@@ -23,6 +23,14 @@
   margin: 0;
 }
 
+/*
+  start each section after a horizontal rule below the float, so long
+  paragraphs don't reflow halfway down the portrait and link list
+*/
+.float ~ hr {
+  clear: both;
+}
+
 @media (max-width: 600px) {
   .float {
     float: unset !important;
