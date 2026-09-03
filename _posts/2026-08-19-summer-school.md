@@ -61,16 +61,14 @@ tags:
 
 양일간 진행된 워크숍 현장 사진을 선별해 공개합니다.
 
-{% capture photos %}
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-01.JPG" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-02.JPG" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-03.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-04.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-05.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-<img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-06.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px;">
-{% endcapture %}
-
-{% include grid.html content=photos style="square" %}
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin: 30px 0;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-01.JPG" alt="워크숍 현장 1" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-02.JPG" alt="워크숍 현장 2" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-03.jpg" alt="워크숍 현장 3" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-04.jpg" alt="워크숍 현장 4" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-05.jpg" alt="워크숍 현장 5" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+  <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-06.jpg" alt="워크숍 현장 6" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
+</div>
 
 ## 📄 워크숍 후기
 
