@@ -57,6 +57,7 @@ tags:
    icon="fa-solid fa-file-pdf"
    link="files/2026-summer-school/05-....pdf" %}
 
+---
 ### 📷 워크숍 사진
 
 양일간 진행된 워크숍 현장 사진을 선별해 공개합니다.
@@ -70,6 +71,7 @@ tags:
   <img src="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-06.jpg" alt="워크숍 현장 6" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 6px; border: 1px solid #eaecef;">
 </div>
 
+---
 ## 📄 워크숍 후기
 
 수강생 분들이 남겨주신 후기를 모았습니다.
