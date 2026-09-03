@@ -1,6 +1,6 @@
 ---
 title: 2026 디지털인문학 여름교실
-image: https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026.png
+image: https://dh.aks.ac.kr/~songyi/images/2026/summer/2026.png
 author: 정송이
 tags:
   - 디지털인문학
