@@ -62,13 +62,12 @@ tags:
 
 양일간 진행된 워크숍 현장 사진을 선별해 공개합니다.
 
-{% include figure.html
-   image="images/posts/2026-summer-school/photo-01.jpg"
-   caption="첫째 날 실습 현장" %}
+{% capture photos %}
+{% include figure.html image="images/blog/2026-summer-school/photo-02.png" %}
+{% include figure.html image="images/blog/2026-summer-school/photo-05.png" %}
+{% endcapture %}
 
-{% include figure.html
-   image="images/posts/2026-summer-school/photo-02.jpg"
-   caption="둘째 날 실습 현장" %}
+{% include grid.html content=photos style="square" %}
 
 ## 📄 워크숍 후기
 
