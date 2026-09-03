@@ -37,8 +37,8 @@ tags:
   <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer01.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 1. GIS & 공간정보 시각화 (김지수, 최경현)</a>
   <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer02.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 2. 문화유산 3D 원형데이터 기록 (조아라)</a>
   <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer03.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 3. 현대시 디지털인문학적 분석 (박선영)</a>
-  <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer04.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-1. 비정형 사료 Python기반OCR (정송이)</a>
-  <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer05.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-2. 비정형 사료 Python기반OCR (박선영)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer0401.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-1. 비정형 사료 Python기반OCR (정송이)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/images/2026/summer/summer0402.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-2. 비정형 사료 Python기반OCR (박선영)</a>
 </div>
 ---
 ### 📷 워크숍 사진
