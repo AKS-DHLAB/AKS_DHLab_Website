@@ -1,6 +1,6 @@
 ---
 title: 2026 디지털인문학 여름교실
-image: https://dh.aks.ac.kr/~songyi/images/2026/여름교실/2026.png
+image: https://dh.aks.ac.kr/~songyi/images/2026/summer/2026.png
 author: 정송이
 tags:
   - 디지털인문학
@@ -15,7 +15,7 @@ tags:
 이 페이지에서는 워크숍에서 사용한 강의자료와 현장 사진, 수강생 후기를 함께 공개합니다. 
 
 {% include figure.html
-   image="images/posts/2026-summer-school/poster.png"
+   image="https://dh.aks.ac.kr/~songyi/images/2026/summer/2026.png"
    caption="2026 디지털인문학 여름교실 포스터"
    width="400px" %}
 
@@ -65,8 +65,8 @@ tags:
 ![테스트](/images/blog/2026-summer-school/photo-01.png)
 
 {% capture photos %}
-{% include figure.html image="images/blog/2026-summer-school/photo-02.png" %}
-{% include figure.html image="images/blog/2026-summer-school/photo-05.png" %}
+{% include figure.html image="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-01.JPG" %}
+{% include figure.html image="https://dh.aks.ac.kr/~songyi/images/2026/summer/photo-02.JPG" %}
 {% endcapture %}
 
 {% include grid.html content=photos style="square" %}
