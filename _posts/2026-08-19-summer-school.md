@@ -33,31 +33,13 @@ tags:
 워크숍에서 사용한 강의자료를 PDF로 공개합니다.
 다만 저작권 등의 사유로 일부 내용은 제외했습니다.
 
-{% include button.html
-   text="1. GIS"
-   icon="fa-solid fa-file-pdf"
-   link="files/2026-summer-school/01-gis.pdf" %}
-
-{% include button.html
-   text="2. 디지털 문화유"
-   icon="fa-solid fa-file-pdf"
-   link="files/2026-summer-school/02-gis.pdf" %}
-
-{% include button.html
-   text="3. 강의 제목"
-   icon="fa-solid fa-file-pdf"
-   link="files/2026-summer-school/03-....pdf" %}
-
-{% include button.html
-   text="4. 강의 제목"
-   icon="fa-solid fa-file-pdf"
-   link="files/2026-summer-school/04-....pdf" %}
-
-{% include button.html
-   text="5. 강의 제목"
-   icon="fa-solid fa-file-pdf"
-   link="files/2026-summer-school/05-....pdf" %}
-
+<div style="display: flex; flex-direction: column; gap: 8px; margin: 30px 0;">
+  <a href="https://dh.aks.ac.kr/~songyi/files/2026/summer/summer01.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 1. GIS & 공간정보 시각화 (김지수, 최경현)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/files/2026/summer/summer02.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 2. 문화유산 3D 원형데이터 기록 (조아라)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/files/2026/summer/summer03.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 3. 현대시 디지털인문학적 분석 (박선영)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/files/2026/summer/summer04.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-1. 비정형 사료 Python기반OCR (정송이)</a>
+  <a href="https://dh.aks.ac.kr/~songyi/files/2026/summer/summer05.pdf" target="_blank" style="display: block; padding: 12px 16px; border: 1px solid #eaecef; border-radius: 6px; text-decoration: none;">📄 4-2. 비정형 사료 Python기반OCR (박선영)</a>
+</div>
 ---
 ### 📷 워크숍 사진
 
