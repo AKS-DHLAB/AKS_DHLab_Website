@@ -62,6 +62,8 @@ tags:
 
 양일간 진행된 워크숍 현장 사진을 선별해 공개합니다.
 
+![테스트](/images/blog/2026-summer-school/photo-01.png)
+
 {% capture photos %}
 {% include figure.html image="images/blog/2026-summer-school/photo-02.png" %}
 {% include figure.html image="images/blog/2026-summer-school/photo-05.png" %}
