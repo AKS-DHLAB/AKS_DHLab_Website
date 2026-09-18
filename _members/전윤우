@@ -1,0 +1,57 @@
+---
+name: 전윤우(Jeon, Yunu)
+image: images/yunu.jpg
+role: Master's Student
+affiliation: 한국학중앙연구원(AKS)
+aliases:
+  - Yunu Jeon
+---
+
+## Bio
+
+안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **전윤우**(Revised Romanization of Korean: **Yunu Jeon**, Sino-Korean: **全胤禹**)입니다. 
+인문학, 특히 언어학을 여러 정량적인 방법론을 활용하여 연구하는 데 관심을 두고 있습니다.
+
+## Education
+
+| Degree | Major | University | Year |
+| :------ | :-------------- | :---------- | :----: |
+| <u>Master's <br> Student</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2026 |
+| <u>B.A. <br> & <br> B.S.</u> | 1전공: **언어인지과학** <br> **(Linguistics & Cognitive Science)**<br>2전공: **통계학** <br> **(Statistics)** | 한국외국어대학교 <br> (Konkuk University) | 2026 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2021 |
+
+### Non-Degree Education
+
+- 한국외국어대학교 학숳학회 사이시옷 ; Mar. 2021 - Feb. 2025
+- SKnetworks Family AI 부트캠프(K-Digital Training); Dec. 2025 - Jun. 2026
+
+
+## Work Experience
+
+- **[연구원(Researcher)](https://digitalhumanities.kr/members/Haein.html)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
+
+## Projects
+
+- 한국학중앙연구원: (AKSR2026-RE09) **조선시대 흉배(胸背) 연구의 디지털 전환: 시맨틱 데이터 편찬과 정량 분석·AI 분류 방법론(The Digital Turn in Joseon Hyungbae (胸背) Studies: Semantic Data Compilation, Quantitative Analysis, and AI-Based Classification)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2026 - Feb. 2027
+
+## Awards and Honors
+
+- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./1-2
+
+## Skills
+
+| Knowledge area               | Skills                                                       |
+| ---------------------------- | ------------------------------------------------------------ |
+| <u>Programming languages</u> | Python, R, JavaScript, SAS                                        |
+| <u>Cloud services</u>        | AWS(Amazon Web Services)                   |
+| <u>Data design</u>           | RDB(MySQL)     |
+| <u>Data analysis</u>         | 데이터 분석 라이브러리(Pandas·NumPy) & 머신러닝 라이브러리(TensorFlow·PyTorch) |
+
+### Certs
+- **컴퓨터활용능력2급(Computer Specialist in Spreadsheet & Database Level-2)**, 대한상공회의소(Korea Chamber of Commerce and Industry) ; Sep. 2026
+- **ADsP*(Advanced Data Analytics Semi-Professional)*, 한국데이터산업진흥원(Korea Data Agency) ; Mar. 2025
+- **사회조사분석사(Survey Analyst)**, 국가데이터처(Ministry of Data and Statistics) ; Sep. 2025
+- **워드프로세서(Word Processor)**, 대한상공회의소(Korea Chamber of Commerce and Industry) ; Sep. 2025
+
+## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
+
+<iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
