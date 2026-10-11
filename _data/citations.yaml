@@ -29,6 +29,19 @@
   orcid: 0000-0001-9925-9343
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.22148/jca.1436
+  title: Title Pending
+  authors:
+  - Seonyeong Park
+  - Kim Gayeon
+  - Yongsoo Kim
+  - Byungjun Kim
+  publisher: Journal of Cultural Analytics
+  date: '2026-01-01'
+  link: https://doi.org/hcm547
+  orcid: 0000-0001-9925-9343
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1057/s41599-025-06126-7
   title: Has higher education become more interdisciplinary? a longitudinal analysis
     of syllabi using natural language processing
