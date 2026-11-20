@@ -1,11 +1,19 @@
-## name: 김바로(Kim, Ba-ro/金把路)
-image: images/Baro.jpg # 기존 \_members/Baro.md에 지정된 이미지 경로를 그대로 유지하세요
-role: pi
+---
+name: 김바로(Kim, Ba-ro/金把路)
+image: images/김바로.jpg
+role: principal-investigator
 affiliation: 한국학중앙연구원/The Academy of Korean Studies/韓國學中央硏究院
+aliases:
+  - Kim, Ba-ro
+  - 金把路
+  - キム・バロ
 links:
-home-page: https://www.ddokbaro.com/
-email: ddokbaro@gmail.com
-orcid: 0000-0002-4456-9616
+  home-page: https://www.ddokbaro.com/
+  email: ddokbaro@gmail.com
+  orcid: 0000-0002-4456-9616
+  ISNI: 0000000468148634
+  국가연구자번호(IRIS+KRI): 11365082
+---
 
 <style>
 .baro-cv {
